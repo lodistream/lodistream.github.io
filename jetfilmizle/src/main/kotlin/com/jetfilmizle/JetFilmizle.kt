@@ -1,6 +1,6 @@
-// ! Bu araç @keyiflerolsun tarafından | @KekikAkademi için yazılmıştır.
+// ! @lodistream 
 
-package com.keyiflerolsun
+package com.lodistream
 
 import android.util.Log
 import org.jsoup.nodes.Element
