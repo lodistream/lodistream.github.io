@@ -1,6 +1,5 @@
-// ! Bu araç @keyiflerolsun tarafından | @KekikAkademi için yazılmıştır.
-
-package com.keyiflerolsun
+// ! @lodistream
+package com.lodistream
 
 import android.util.Log
 import com.lagradost.cloudstream3.*
