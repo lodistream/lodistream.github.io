@@ -1,8 +1,8 @@
 {
-    "name": "🇹🇷TURKPORTALGRUP @mavibooran",
+    "name": "@lodistream",
     "description": "film dizi eklentisi",
     "manifestVersion": 1,
     "pluginLists": [
-      "https://raw.githubusercontent.com/ingilizcedoc/freemium/master/builds/plugins.json"
+      "https://raw.githubusercontent.com/lodistream/lodistream.github.io/master/builds/plugins.json"
     ]
 }
