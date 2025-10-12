@@ -1,0 +1,8 @@
+{
+    "name": "🇹🇷TURKPORTALGRUP @mavibooran",
+    "description": "film dizi eklentisi",
+    "manifestVersion": 1,
+    "pluginLists": [
+      "https://raw.githubusercontent.com/ingilizcedoc/freemium/master/builds/plugins.json"
+    ]
+}
