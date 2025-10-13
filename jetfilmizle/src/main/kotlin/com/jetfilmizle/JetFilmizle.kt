@@ -9,7 +9,7 @@ import com.lagradost.cloudstream3.utils.*
 import com.lagradost.cloudstream3.LoadResponse.Companion.addActors
 
 class JetFilmizle : MainAPI() {
-    override var mainUrl              = "https://jetfilmizle.film"
+    override var mainUrl              = "https://jetfilmizle.ltd"
     override var name                 = "🇹🇷JetFilmizle"
     override val hasMainPage          = true
     override var lang                 = "tr"
@@ -22,7 +22,7 @@ class JetFilmizle : MainAPI() {
         "${mainUrl}/page/"                                     to "Son Filmler",
         "${mainUrl}/netflix/page/"                             to "Netflix",
         "${mainUrl}/editorun-secimi/page/"                     to "Editörün Seçimi",
-        "${mainUrl}/turk-film-izle/page/"                      to "Türk Filmleri",
+        "${mainUrl}/turk-film-full-hd-izle/"                      to "Türk Filmleri",
         "${mainUrl}/cizgi-filmler-izle/page/"                  to "Çizgi Filmler",
         "${mainUrl}/kategoriler/yesilcam-filmleri-izlee/page/" to "Yeşilçam Filmleri"
     )
