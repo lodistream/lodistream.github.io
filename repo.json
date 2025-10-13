@@ -1,7 +1,6 @@
 {
     "name": "lodistream",
     "description": "film dizi eklentisi",
-    "iconUrl": "https://lodistream.github.io/logo.png"
     "manifestVersion": 1,
     "pluginLists": [
       "https://lodistream.github.io/builds/plugins.json"
