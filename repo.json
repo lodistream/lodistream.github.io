@@ -1,0 +1,8 @@
+{
+    "name": "🇹🇷Deneme 1",
+    "description": "film dizi eklentisi",
+    "manifestVersion": 1,
+    "pluginLists": [
+      "https://raw.githubusercontent.com/lodistream/gitrepo/refs/heads/master/builds/plugins.json"
+    ]
+}
