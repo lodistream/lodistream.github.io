@@ -1,46 +1,25 @@
 {
-    "id": "com.lodistream.plugin",
-    "name": "🇹🇷 LODISTREAM",
-    "description": "Türkçe altyazılı ve dublajlı film, dizi ve belgesel içerikleri sunan kapsamlı eklenti",
-    "version": "1.0.0",
-    "manifestVersion": 1,
-    "background": "https://raw.githubusercontent.com/lodistream/lodistream.github.io/main/background.jpg",
-    "logo": "https://raw.githubusercontent.com/lodistream/lodistream.github.io/main/logo.png",
-    "contactEmail": "destek@lodistream.com",
-    "resources": [
-        "catalog",
-        "meta",
-        "stream"
-    ],
-    "types": [
-        "movie",
-        "series",
-        "documentary"
-    ],
-    "catalogs": [
-        {
-            "type": "movie",
-            "id": "lodistream_movies",
-            "name": "LODISTREAM Filmler",
-            "genres": ["Aksiyon", "Macera", "Komedi", "Drama", "Korku", "Gerilim", "Bilim Kurgu", "Fantastik", "Romantik"],
-            "extraSupported": ["search", "genre", "skip"],
-            "extraRequired": ["search"]
-        },
-        {
-            "type": "series",
-            "id": "lodistream_series",
-            "name": "LODISTREAM Diziler",
-            "genres": ["Aksiyon", "Drama", "Komedi", "Polisiye", "Romantik", "Tarih", "Gerilim", "Bilim Kurgu"],
-            "extraSupported": ["search", "genre", "skip"],
-            "extraRequired": ["search"]
-        }
-    ],
-    "idPrefixes": ["tt", "lodistream"],
-    "behaviorHints": {
-        "configurable": true,
-        "configurationRequired": false
-    },
-    "pluginLists": [
-        "https://raw.githubusercontent.com/lodistream/lodistream.github.io/refs/heads/main/.github/builds/plugins.json"
-    ]
+  "name": "🇹🇷LODISTREAM",
+  "description": "LODISTREAM — yüksek kaliteli film ve dizi eklentileri koleksiyonu. Türkçe içeriklere öncelik verir, hızlı akış bağlantıları sunar.",
+  "manifestVersion": 1,
+  "version": "1.0.0",
+  "authors": [
+    {
+      "name": "LodiStream Team",
+      "github": "lodistream",
+      "discord": "lodistream"
+    }
+  ],
+  "pluginLists": [
+    "https://raw.githubusercontent.com/lodistream/lodistream.github.io/refs/heads/main/.github/builds/plugins.json"
+  ],
+  "iconUrl": "https://raw.githubusercontent.com/lodistream/lodistream.github.io/main/icon.png",
+  "homepage": "https://lodistream.github.io",
+  "language": "tr",
+  "categories": ["Movies", "TV Shows", "Streaming"],
+  "license": "MIT",
+  "support": {
+    "issues": "https://github.com/lodistream/lodistream.github.io/issues",
+    "contact": "lodistream@gmail.com"
+  }
 }
