@@ -1,8 +1,46 @@
 {
-    "name": "🇹🇷LODISTREAM",
-    "description": "film dizi eklentisi",
+    "id": "com.lodistream.plugin",
+    "name": "🇹🇷 LODISTREAM",
+    "description": "Türkçe altyazılı ve dublajlı film, dizi ve belgesel içerikleri sunan kapsamlı eklenti",
+    "version": "1.0.0",
     "manifestVersion": 1,
+    "background": "https://raw.githubusercontent.com/lodistream/lodistream.github.io/main/background.jpg",
+    "logo": "https://raw.githubusercontent.com/lodistream/lodistream.github.io/main/logo.png",
+    "contactEmail": "destek@lodistream.com",
+    "resources": [
+        "catalog",
+        "meta",
+        "stream"
+    ],
+    "types": [
+        "movie",
+        "series",
+        "documentary"
+    ],
+    "catalogs": [
+        {
+            "type": "movie",
+            "id": "lodistream_movies",
+            "name": "LODISTREAM Filmler",
+            "genres": ["Aksiyon", "Macera", "Komedi", "Drama", "Korku", "Gerilim", "Bilim Kurgu", "Fantastik", "Romantik"],
+            "extraSupported": ["search", "genre", "skip"],
+            "extraRequired": ["search"]
+        },
+        {
+            "type": "series",
+            "id": "lodistream_series",
+            "name": "LODISTREAM Diziler",
+            "genres": ["Aksiyon", "Drama", "Komedi", "Polisiye", "Romantik", "Tarih", "Gerilim", "Bilim Kurgu"],
+            "extraSupported": ["search", "genre", "skip"],
+            "extraRequired": ["search"]
+        }
+    ],
+    "idPrefixes": ["tt", "lodistream"],
+    "behaviorHints": {
+        "configurable": true,
+        "configurationRequired": false
+    },
     "pluginLists": [
-      "https://raw.githubusercontent.com/lodistream/lodistream.github.io/refs/heads/main/.github/builds/plugins.json"
+        "https://raw.githubusercontent.com/lodistream/lodistream.github.io/refs/heads/main/.github/builds/plugins.json"
     ]
 }
