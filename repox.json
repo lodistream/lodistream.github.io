@@ -11,7 +11,7 @@
     }
   ],
   "pluginLists": [
-    "https://raw.githubusercontent.com/lodistream/lodistream.github.io/refs/heads/main/.github/builds/plugins.json"
+    "https://raw.githubusercontent.com/lodistream/lodistream.github.io/refs/heads/main/lodistream-legal/plugins.json"
   ],
   "iconUrl": "https://raw.githubusercontent.com/lodistream/lodistream.github.io/main/icon.png",
   "homepage": "https://lodistream.github.io",
