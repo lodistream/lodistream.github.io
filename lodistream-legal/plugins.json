@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Trailers",
+    "description": "IMDb / TMDB / YouTube üzerinden yasal film ve dizi fragmanları.",
+    "url": "https://raw.githubusercontent.com/lodistream/lodistream-legal/main/trailers.csx"
+  },
+  {
+    "name": "Documentaries",
+    "description": "Creative Commons belgeselleri (DocumentaryHeaven, Vimeo kaynaklı).",
+    "url": "https://raw.githubusercontent.com/lodistream/lodistream-legal/main/documentaries.csx"
+  },
+  {
+    "name": "Archive Movies",
+    "description": "Kamuya açık eski filmler (archive.org kaynaklı).",
+    "url": "https://raw.githubusercontent.com/lodistream/lodistream-legal/main/archive_movies.csx"
+  }
+]
