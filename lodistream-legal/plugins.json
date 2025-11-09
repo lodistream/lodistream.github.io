@@ -9,10 +9,10 @@
     "authors": ["lodistream"],
     "tvTypes": ["Movie", "Series", "TV"],
     "version": 1,
-    "internalName": "4KFilmIzleme",
+    "internalName": "ARŞİV",
     "description": "Film Dizi İçerikleri",
-    "url": "https://github.com/lodistream/lodistream.github.io/raw/refs/heads/main/.github/datas/4KFilmIzleme.cs3",
-    "name": "4K Film İzleme"
+    "url": "https://raw.githubusercontent.com/lodistream/lodistream.github.io/refs/heads/main/lodistream-legal/archive_movies.csx",
+    "name": ARŞIV Film İzleme"
   },
   {
     "iconUrl": "https://raw.githubusercontent.com/lodistream/lodistream.github.io/refs/heads/main/logo.png",
