@@ -1,17 +1,32 @@
 [
   {
-    "name": "Trailers",
-    "description": "IMDb / TMDB / YouTube üzerinden yasal film ve dizi fragmanları.",
-    "url": "https://raw.githubusercontent.com/lodistream/lodistream-legal/main/trailers.csx"
+    "iconUrl": "https://raw.githubusercontent.com/lodistream/lodistream.github.io/refs/heads/main/logo.png",
+    "apiVersion": 1,
+    "repositoryUrl": "https://github.com/lodistream/gitrepo",
+    "fileSize": 13693,
+    "status": 1,
+    "language": "tr",
+    "authors": ["lodistream"],
+    "tvTypes": ["Movie", "Series", "TV"],
+    "version": 1,
+    "internalName": "4KFilmIzleme",
+    "description": "Film Dizi İçerikleri",
+    "url": "https://github.com/lodistream/lodistream.github.io/raw/refs/heads/main/.github/datas/4KFilmIzleme.cs3",
+    "name": "4K Film İzleme"
   },
   {
-    "name": "Documentaries",
-    "description": "Creative Commons belgeselleri (DocumentaryHeaven, Vimeo kaynaklı).",
-    "url": "https://raw.githubusercontent.com/lodistream/lodistream-legal/main/documentaries.csx"
-  },
-  {
-    "name": "Archive Movies",
-    "description": "Kamuya açık eski filmler (archive.org kaynaklı).",
-    "url": "https://raw.githubusercontent.com/lodistream/lodistream-legal/main/archive_movies.csx"
+    "iconUrl": "https://raw.githubusercontent.com/lodistream/lodistream.github.io/refs/heads/main/logo.png",
+    "apiVersion": 1,
+    "repositoryUrl": "https://github.com/lodistream/gitrepo",
+    "fileSize": 13693,
+    "status": 1,
+    "language": "tr",
+    "authors": ["lodistream"],
+    "tvTypes": ["Movie", "Series", "TV"],
+    "version": 1,
+    "internalName": "4KFilmIzlesene",
+    "description": "Film Dizi İçerikleri",
+    "url": "https://github.com/lodistream/lodistream.github.io/raw/refs/heads/main/.github/datas/4KFilmIzlesene.cs3",
+    "name": "4K Film Izlesene"
   }
 ]
