@@ -24,9 +24,9 @@
     "authors": ["lodistream"],
     "tvTypes": ["Movie", "Series", "TV"],
     "version": 1,
-    "internalName": "4KFilmIzlesene",
+    "internalName": "döküman",
     "description": "Film Dizi İçerikleri",
-    "url": "https://github.com/lodistream/lodistream.github.io/raw/refs/heads/main/.github/datas/4KFilmIzlesene.cs3",
-    "name": "4K Film Izlesene"
+    "url": "https://raw.githubusercontent.com/lodistream/lodistream.github.io/refs/heads/main/lodistream-legal/documentaries.csx",
+    "name": "döküman"
   }
 ]
