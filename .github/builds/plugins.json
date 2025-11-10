@@ -1498,5 +1498,20 @@
         "description": "Film Dizi İçerikleri",
         "url": "https://github.com/lodistream/lodistream.github.io/raw/refs/heads/main/.github/datas/vavooSpor.cs3",
         "name": "Vavoo Spor"
+    },
+  {
+        "iconUrl": "https://raw.githubusercontent.com/lodistream/lodistream.github.io/refs/heads/main/logo.png",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/lodistream/gitrepo",
+        "fileSize": 14000,
+        "status": 1,
+        "language": "tr",
+        "authors": ["lodistream"],
+        "tvTypes": ["Movie,series,tv"],
+        "version": 1,
+        "internalName": "SuperErotikGeldi",
+        "description": "Film Dizi İçerikleri",
+        "url": "https://github.com/lodistream/lodistream.github.io/raw/refs/heads/main/.github/datas/SuperErotikGeldi.cs3",
+        "name": "SuperErotikGeldi"
     }
 ]
