@@ -10,7 +10,3 @@
 .cxx
 local.properties
 .vscode
-txt.csv
-m.txt
-.txt
-git commit -m "build klasörü ignore edildi"
