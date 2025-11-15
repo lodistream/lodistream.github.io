@@ -10,3 +10,4 @@
 .cxx
 local.properties
 .vscode
+git rm -r --cached builds
