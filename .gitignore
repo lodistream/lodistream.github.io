@@ -3,11 +3,11 @@
 /local.properties
 /.idea
 .DS_Store
-/build/
+./build/
 /builds/
 /captures
 .externalNativeBuild
 .cxx
 local.properties
 .vscode
-git commit -m "builds klasörü ignore edildi"
+*.json
