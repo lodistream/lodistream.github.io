@@ -11,3 +11,4 @@
 local.properties
 .vscode
 git rm -r --cached builds
+git commit -m "builds klasörü ignore edildi"
