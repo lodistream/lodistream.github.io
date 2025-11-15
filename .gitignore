@@ -12,3 +12,16 @@ local.properties
 .vscode
 .builds
 /.github/datas/src
+*.iml
+.gradle
+/local.properties
+/.idea
+.DS_Store
+/build
+/builds
+**/build
+/captures
+.externalNativeBuild
+.cxx
+local.properties
+.vscode
