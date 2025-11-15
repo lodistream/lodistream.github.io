@@ -1,0 +1,67 @@
+##############################
+#   CLOUDSTREAM PLUGIN
+#   Özel .gitignore Ayarları
+##############################
+
+##############
+# IDE Dosyaları
+##############
+
+# Visual Studio Code
+.vscode/
+
+# JetBrains IDEA
+.idea/
+
+# Generic workspace files
+*.swp
+*.swo
+
+##############
+# Build Çıktıları
+##############
+
+# Tüm builds klasörü yok sayılsın
+builds/
+
+# Ancak .jar dosyaları tekrar dahil edilsin
+!builds/*.jar
+
+##############
+# Kod Derleme Geçicileri
+##############
+
+*.class
+*.pyc
+__pycache__/
+*.cache
+*.tmp
+*.log
+
+##############
+# Cloudstream İçin Örnekleri ve 
+# Yükleme İçin Geçici Dosyalar
+##############
+
+# local plugin test klasörleri
+output/
+dist/
+
+##############
+# Dokümantasyon
+##############
+
+# GitHub Pages
+docs/
+.site/
+
+##############
+# Sistem Dosyaları
+##############
+
+# Windows
+Thumbs.db
+Desktop.ini
+
+# Mac
+.DS_Store
