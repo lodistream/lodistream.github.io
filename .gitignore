@@ -9,7 +9,7 @@
 
 # Visual Studio Code
 .vscode/
-
+.fork/
 # JetBrains IDEA
 .idea/
 
