@@ -3,6 +3,6 @@
     "description": "film dizi eklentisi",
     "manifestVersion": 1,
     "pluginLists": [
-      "https://raw.githubusercontent.com/lodistream/lodistream.github.io/refs/heads/main/.github/builds/plugins.json"
+      "https://raw.githubusercontent.com/lodistream/lodistream.github.io/refs/heads/lodimaster/.github/repository/vscode/plugins.json"
     ]
 }
