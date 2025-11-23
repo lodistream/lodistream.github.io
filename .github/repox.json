@@ -1,0 +1,8 @@
+{
+    "name":"🇹🇷X_LODISTREAM",
+    "description": "film dizi eklentisi",
+    "manifestVersion": 1,
+    "pluginLists": [
+      "https://raw.githubusercontent.com/lodistream/lodistream.github.io/refs/heads/lodimaster/.github/repository/vscode/plugins.json"
+    ]
+}
