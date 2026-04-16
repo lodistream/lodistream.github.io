@@ -1,10 +1,8 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="tv-trt1.tr" tvg-logo="https://raw.githubusercontent.com/lodistream/lodistream.github.io/refs/heads/lodimaster/logo.png" group-title="Ulusal",★★★TRT 1 YENI
 https://tv-trt1.medya.trt.com.tr/master_360.m3u8
-#EXTINF:-1 tvg-id="tv-trt1.tr" tvg-logo="https://raw.githubusercontent.com/lodistream/lodistream.github.io/refs/heads/lodimaster/logo.png" group-title="Ulusal",★★★TRT 1 YENI 2 720
+#EXTINF:-1 tvg-id="tv-trt1.tr" tvg-logo="https://raw.githubusercontent.com/lodistream/lodistream.github.io/refs/heads/lodimaster/logo.png" group-title="Ulusal",★TRT 1 YENI 2 720
 https://trt.daioncdn.net/trt-1/master_720p.m3u8?=&sid=88fo4g7z9gql&app=ed3904e8-737b-4a5e-856a-1b0d7a0a94e2&ce=2
-#EXTINF:-1 tvg-id="tv-trt1.tr" tvg-logo="https://raw.githubusercontent.com/lodistream/lodistream.github.io/refs/heads/lodimaster/logo.png" group-title="Ulusal",★★★ULUSAL KANALLARI★★★
-https://raw.githubusercontent.com/lodistream/lodistream.github.io/refs/heads/lodimaster/logo.png
 #EXTINF:-1 tvg-id="tv-trt1.tr" tvg-logo="https://raw.githubusercontent.com/lodistream/lodistream.github.io/refs/heads/lodimaster/logo.png" group-title="Ulusal",★ TRT 1 HD
 https://tv-trt1.medya.trt.com.tr/master_1440.m3u8
 #EXTINF:-1 tvg-id="TRT1.tr" tvg-logo="https://raw.githubusercontent.com/lodistream/lodistream.github.io/refs/heads/lodimaster/logo.png" group-title="Ulusal",★TRT 1
@@ -17,6 +15,8 @@ https://tv-trt1.medya.trt.com.tr/master_1440.m3u8
 https://tv-trt2.medya.trt.com.tr/master_720.m3u8
 #EXTINF:-1 tvg-id="TRT2.tr" tvg-logo="https://raw.githubusercontent.com/lodistream/lodistream.github.io/refs/heads/lodimaster/logo.png" group-title="Ulusal",★TRT 2
 https://tv-trt2.medya.trt.com.tr/master.m3u8
+#EXTINF:-1 tvg-id="tv-trt1.tr" tvg-logo="https://raw.githubusercontent.com/lodistream/lodistream.github.io/refs/heads/lodimaster/logo.png" group-title="Ulusal",★ TRT GENC TV
+https://tv-trtgenc.medya.trt.com.tr/master_1440.m3u8
 #EXTINF:-1 tvg-id="trtavaz.tr" tvg-logo="https://raw.githubusercontent.com/lodistream/lodistream.github.io/refs/heads/lodimaster/logo.png" group-title="Ulusal",★ TRT AVAZ 
 https://tv-trtavaz.medya.trt.com.tr/master_720.m3u8
 #EXTINF:-1 tvg-id="trtbelgesel.tr" tvg-logo="https://raw.githubusercontent.com/lodistream/lodistream.github.io/refs/heads/lodimaster/logo.png" group-title="Ulusal",★ TRT BELGESEL
@@ -47,24 +47,16 @@ https://ackaxsqacw.turknet.ercdn.net/ozfkfbbjba/kanald/kanald.m3u8
 http://live.duhnet.tv/S2/HLS_LIVE/eurodnp/playlist.m3u8
 #EXTINF:-1 tvg-id="atv.tr" tvg-logo="https://raw.githubusercontent.com/lodistream/lodistream.github.io/refs/heads/lodimaster/logo.png" group-title="Ulusal",★ATV TV
 https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/atv/atv_1080p.m3u8
-#EXTINF:-1 tvg-id="ATV.tr" tvg-logo="https://raw.githubusercontent.com/lodistream/lodistream.github.io/refs/heads/lodimaster/logo.png" group-title="Ulusal",★ATV 1
-http://116.202.238.88/ATV_TR/tracks-v1a1/index.m3u8
-#EXTINF:-1 tvg-id="ATV.tr" tvg-logo="https://raw.githubusercontent.com/lodistream/lodistream.github.io/refs/heads/lodimaster/logo.png" group-title="Ulusal",★ATV yedek
-http://116.202.238.88/ATV_TR/tracks-v1a1/index.m3u8
-#EXTINF:-1 tvg-id="ATV.tr" tvg-logo="https://raw.githubusercontent.com/lodistream/lodistream.github.io/refs/heads/lodimaster/logo.png" group-title="Ulusal",★ATV EURO
-http://162.212.179.33/dvrfl05/gin-atvavrupa/playlist.m3u8
-#EXTINF:-1 tvg-id="ATV.tr" tvg-logo="https://raw.githubusercontent.com/lodistream/lodistream.github.io/refs/heads/lodimaster/logo.png" group-title="Ulusal",★ATV AVRUPA
-http://162.212.179.33/dvrfl05/gin-atvavrupa/playlist.m3u8
-#EXTINF:-1 tvg-id="ATV.tr" tvg-logo="https://raw.githubusercontent.com/lodistream/lodistream.github.io/refs/heads/lodimaster/logo.png" group-title="Ulusal",★ATV yeni
-http://89.187.191.41/ATV-HD-TR/video.m3u8
+#EXTINF:-1 tvg-id="ATV.tr" tvg-logo="https://raw.githubusercontent.com/lodistream/lodistream.github.io/refs/heads/lodimaster/logo.png" group-title="Ulusal",★ATV FUL HD TV
+https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/atv/atv.m3u8
 #EXTINF:-1 tvg-id="StarTV.tr" tvg-logo="https://raw.githubusercontent.com/lodistream/lodistream.github.io/refs/heads/lodimaster/logo.png" group-title="Ulusal",★STAR TV
 https://dogus.daioncdn.net/startv/startv_720p.m3u8?sig=75299ace8ac8ce9c1f6c262430270c8c&token=TjZDY2VVWFBPWEZRWllxaXFwVkhpK1ZxNFkrenRqemp0aUhtYm4ySHlaWT0=&sid=7ukr3gyipxk9&app=1740db13-3ee9-4858-8d2c-b1a9cfaa3718&ce=3
 #EXTINF:-1 tvg-id="StarTV.tr" tvg-logo="https://raw.githubusercontent.com/lodistream/lodistream.github.io/refs/heads/lodimaster/logo.png" group-title="Ulusal",★STAR TV yedek
 https://dogus.daioncdn.net/startv/startv_720p.m3u8?sig=0109cd30b0ab671366995a8fdff48405&token=TjZDY2VVWFBPWEZRWllxaXFwVkhpK1ZxNFkrenRqemp0aUhtYm4ySHlaWT0=&sid=&app=1740db13-3ee9-4858-8d2c-b1a9cfaa3718&ce=3
 #EXTINF:-1 tvg-id="Now.tr" tvg-logo="https://raw.githubusercontent.com/lodistream/lodistream.github.io/refs/heads/lodimaster/logo.png" group-title="Ulusal",★NOW TV
-http://116.202.238.88/FOXTV_TR/index.m3u8
-#EXTINF:-1 tvg-id="Now.tr" tvg-logo="https://raw.githubusercontent.com/lodistream/lodistream.github.io/refs/heads/lodimaster/logo.png" group-title="Ulusal",★NOW TV yedek
 https://uycyyuuzyh.turknet.ercdn.net/nphindgytw/nowtv/nowtv.m3u8
+#EXTINF:-1 tvg-id="Now.tr" tvg-logo="https://raw.githubusercontent.com/lodistream/lodistream.github.io/refs/heads/lodimaster/logo.png" group-title="Ulusal",★NOW TV YEDEK
+https://uycyyuuzyh.turknet.ercdn.net/nphindgytw/nowtv/nowtv_720p-1776320340000.ts
 #EXTINF:-1 tvg-id="TV8.tr" tvg-logo="https://raw.githubusercontent.com/lodistream/lodistream.github.io/refs/heads/lodimaster/logo.png" group-title="Ulusal",★TV8
 https://tv8.daioncdn.net/tv8/tv8.m3u8?app=7ddc255a-ef47-4e81-ab14-c0e5f2949788
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/lodistream/lodistream.github.io/refs/heads/lodimaster/logo.png" group-title="Ulusal",★TV8 5
@@ -82,10 +74,6 @@ https://livetv.radyotvonline.net/kanal7live/kanal7avr/playlist.m3u8
 https://tv100-live.daioncdn.net/tv100/tv100_1080p.m3u8
 #EXTINF:-1 tvg-id="TRTTurk.tr" tvg-logo="https://raw.githubusercontent.com/lodistream/lodistream.github.io/refs/heads/lodimaster/logo.png" group-title="Ulusal",★TRT TURK
 https://tv-trtturk.medya.trt.com.tr/master.m3u8
-#EXTINF:-1 tvg-id="ShowTV.tr" tvg-logo="https://raw.githubusercontent.com/lodistream/lodistream.github.io/refs/heads/lodimaster/logo.png" group-title="Ulusal",★SHOW TV MAX
-https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/tur/shmax.m3u8
-#EXTINF:-1 tvg-id="StarTV.tr" tvg-logo="https://raw.githubusercontent.com/lodistream/lodistream.github.io/refs/heads/lodimaster/logo.png" group-title="Ulusal",★EUROSTAR
-https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/tur/estar.m3u8
 #EXTINF:-1 tvg-id="TRTWorld.tr" tvg-logo="https://raw.githubusercontent.com/lodistream/lodistream.github.io/refs/heads/lodimaster/logo.png" group-title="Ulusal",★TRT WORLD
 https://tv-trtworld.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-id="TRTAvaz.tr" tvg-logo="https://raw.githubusercontent.com/lodistream/lodistream.github.io/refs/heads/lodimaster/logo.png" group-title="Ulusal",★TRT AVAZ
@@ -96,57 +84,36 @@ https://turkhls.persiana.live/hls/stream.m3u8
 http://canbroadcast.com:7000/canlican/tv.m3u8
 #EXTINF:-1 tvg-id="SAT7TURK.tr" tvg-logo="https://raw.githubusercontent.com/lodistream/lodistream.github.io/refs/heads/lodimaster/logo.png" group-title="Ulusal",★SAT 7 TURK
 https://live.artidijitalmedya.com/artidijital_sat7turk/sat7turk/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/lodistream/lodistream.github.io/refs/heads/lodimaster/logo.png" group-title="Ulusal",★TYT TURK
-https://cdn-tytturk.yayin.com.tr/tytturk/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/lodistream/lodistream.github.io/refs/heads/lodimaster/logo.png" group-title="Ulusal",★TiVi 6
-https://live.artidijitalmedya.com/artidijital_tivi6/tivi6/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/lodistream/lodistream.github.io/refs/heads/lodimaster/logo.png" group-title="Ulusal",★AFROTURK TV
+https://edge2.taksimbilisim.com/naturaltv/bant1/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/lodistream/lodistream.github.io/refs/heads/lodimaster/logo.png" group-title="Ulusal",★KANAL 34 
 https://live.euromediacenter.com/kanal34/index.m3u8
-
-#EXTINF:-1 tvg-id="sinema.tr" tvg-logo="https://raw.githubusercontent.com/lodistream/lodistream.github.io/refs/heads/lodimaster/logo.png" group-title="Sinema",★ TIVI6 SINAMA
-https://boncuktv.dunya-yalan.workers.dev/tivi6
-#EXTINF:-1 tvg-id="sinema.tr" tvg-logo="https://raw.githubusercontent.com/lodistream/lodistream.github.io/refs/heads/lodimaster/logo.png" group-title="Sinema",★ BONCUK SINEMA
-http://104.238.23.221:82/boncuktv/Depo/live/out.m3u8
-#EXTINF:-1 tvg-id="sinema.tr" tvg-logo="https://raw.githubusercontent.com/lodistream/lodistream.github.io/refs/heads/lodimaster/logo.png" group-title="Sinema",★ KUZEYMAX SINEMA
-http://75.119.144.48/KUZEYMAXHD_STREAM/index.m3u8
-#EXTINF:-1 tvg-id="sinema.tr" tvg-logo="https://raw.githubusercontent.com/lodistream/lodistream.github.io/refs/heads/lodimaster/logo.png" group-title="Sinema",★ TRT NOSTALJI SINEMA
-https://playlist.fasttvcdn.com/pl/rfrk9821hdy9dayo8wfyha/dizi-tv/playlist/0.m3u8
-#EXTINF:-1 tvg-id="sinema.tr" tvg-logo="https://raw.githubusercontent.com/lodistream/lodistream.github.io/refs/heads/lodimaster/logo.png" group-title="Sinema",★ 90 TV SINEMA
-https://tv.ismailturret.workers.dev/euro90tvglobal.m3u8
-#EXTINF:-1 tvg-id="sinema.tr" tvg-logo="https://raw.githubusercontent.com/lodistream/lodistream.github.io/refs/heads/lodimaster/logo.png" group-title="Sinema",★ DENIZ SINEMA
-https://live.artidijitalmedya.com/artidijital_denizpostasi/denizpostasi/chunks.m3u8
-#EXTINF:-1 tvg-id="sinema.tr" tvg-logo="https://raw.githubusercontent.com/lodistream/lodistream.github.io/refs/heads/lodimaster/logo.png" group-title="Sinema",★ SDM SINEMA
-https://host.onlineradyotv.net:8081/sdmtv/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="sinema.tr" tvg-logo="https://raw.githubusercontent.com/lodistream/lodistream.github.io/refs/heads/lodimaster/logo.png" group-title="Sinema",★ YANSIMA SINEMA
-http://cdn4.yayin.com.tr/yansimasinematv/video.m3u8
-#EXTINF:-1 tvg-id="sinema.tr" tvg-logo="https://raw.githubusercontent.com/lodistream/lodistream.github.io/refs/heads/lodimaster/logo.png" group-title="Sinema",★ PLAY SINEMA
-https://ip100.radyotelekomtv.com:3784/stream/play.m3u8
-#EXTINF:-1 tvg-id="sinema.tr" tvg-logo="https://raw.githubusercontent.com/lodistream/lodistream.github.io/refs/heads/lodimaster/logo.png" group-title="Sinema",★ FX TV SINEMA
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/lodistream/lodistream.github.io/refs/heads/lodimaster/logo.png" group-title="Ulusal",★FX TV FULL TV
 https://saran-live.ercdn.net/fx/index.m3u8
-#EXTINF:-1 tvg-id="sinema.tr" tvg-logo="https://raw.githubusercontent.com/lodistream/lodistream.github.io/refs/heads/lodimaster/logo.png" group-title="Sinema",★ CINE 1 SINEMA
-https://live.artidijitalmedya.com/artidijital_cine1/cine1/playlist.m3u8
-#EXTINF:-1 tvg-id="sinema.tr" tvg-logo="https://raw.githubusercontent.com/lodistream/lodistream.github.io/refs/heads/lodimaster/logo.png" group-title="Sinema",★ EKONOMİK TV
-http://ip252.ozelip.com:1935/ekonomiktv/ekonomiktv/chunklist.m3u8
 
 #EXTINF:-1 tvg-id="TRTHaber.tr" tvg-logo="https://raw.githubusercontent.com/lodistream/lodistream.github.io/refs/heads/lodimaster/logo.png" group-title="Haber",★★★HABER KANALLARI★★★
 https://raw.githubusercontent.com/lodistream/lodistream.github.io/refs/heads/lodimaster/logo.png
+#EXTINF:-1 tvg-id="TRTHaber.tr" tvg-logo="https://raw.githubusercontent.com/lodistream/lodistream.github.io/refs/heads/lodimaster/logo.png" group-title="Haber",★BLOOMBERG HT
+https://rmtftbjlne.turknet.ercdn.net/bpeytmnqyp/bloomberght/bloomberght_720p.m3u8
 #EXTINF:-1 tvg-id="TRTHaber.tr" tvg-logo="https://raw.githubusercontent.com/lodistream/lodistream.github.io/refs/heads/lodimaster/logo.png" group-title="Haber",★TRT HABER
 https://tv-trthaber.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-id="TGRTHaber.tr" tvg-logo="https://raw.githubusercontent.com/lodistream/lodistream.github.io/refs/heads/lodimaster/logo.png" group-title="Haber",★TGRT HABER
 https://canli.tgrthaber.com/tgrt.m3u8
-#EXTINF:-1 tvg-id="AHaber.tr" tvg-logo="https://raw.githubusercontent.com/lodistream/lodistream.github.io/refs/heads/lodimaster/logo.png" group-title="Haber",★A HABER
-https://raw.githubusercontent.com/UzunMuhalefet/yt-streams/refs/heads/main/TR/dizi/ahaber.m3u8
-#EXTINF:-1 tvg-id="BeyazTV.tr" tvg-logo="https://raw.githubusercontent.com/lodistream/lodistream.github.io/refs/heads/lodimaster/logo.png" group-title="Haber",★BEYAZ TV
-https://beyaztv.daioncdn.net/beyaztv/beyaztv.m3u8?app=fcd5c66b-da9d-44ba-a410-4f34805c397d&ce=3
-#EXTINF:-1 tvg-id="BeyazTV.tr" tvg-logo="https://raw.githubusercontent.com/lodistream/lodistream.github.io/refs/heads/lodimaster/logo.png" group-title="Haber",★BEYAZ TV yedek
+#EXTINF:-1 tvg-id="BeyazTV.tr" tvg-logo="https://raw.githubusercontent.com/lodistream/lodistream.github.io/refs/heads/lodimaster/logo.png" group-title="Haber",★BEYAZ TV 
 https://beyaztv-live.daioncdn.net/beyaztv/beyaztv.m3u8
+#EXTINF:-1 tvg-id="BeyazTV.tr" tvg-logo="https://raw.githubusercontent.com/lodistream/lodistream.github.io/refs/heads/lodimaster/logo.png" group-title="Haber",★BEYAZ TV ( YEDEK)
+https://beyaztv.daioncdn.net/beyaztv/beyaztv.m3u8?app=fcd5c66b-da9d-44ba-a410-4f34805c397d
 #EXTINF:-1 tvg-id="HaberturkTV.tr" tvg-logo="https://raw.githubusercontent.com/lodistream/lodistream.github.io/refs/heads/lodimaster/logo.png" group-title="Haber",★HABERTURK
 https://tv.ensonhaber.com/haberturk/haberturk.m3u8
 #EXTINF:-1 tvg-id="HaberGlobal.tr" tvg-logo="https://raw.githubusercontent.com/lodistream/lodistream.github.io/refs/heads/lodimaster/logo.png" group-title="Haber",★HABER GLOBAL
 https://tv.ensonhaber.com/haberglobal/haberglobal.m3u8
+#EXTINF:-1 tvg-id="HaberGlobal.tr" tvg-logo="https://raw.githubusercontent.com/lodistream/lodistream.github.io/refs/heads/lodimaster/logo.png" group-title="Haber",★HABER GLOBAL 2
+https://github.com/tecotv2025/tecotv/raw/main/playlist/Haber_Global_TV.m3u8
 #EXTINF:-1 tvg-id="HalkTV.tr" tvg-logo="https://raw.githubusercontent.com/lodistream/lodistream.github.io/refs/heads/lodimaster/logo.png" group-title="Haber",★HALK TV
 https://halktv-live.daioncdn.net/halktv/halktv.m3u8
 #EXTINF:-1 tvg-id="NTV.tr" tvg-logo="https://raw.githubusercontent.com/lodistream/lodistream.github.io/refs/heads/lodimaster/logo.png" group-title="Haber",★NTV
+http://dygvideo.dygdigital.com/live/hls/ntv4puhu?m3u8
+#EXTINF:-1 tvg-id="NTV.tr" tvg-logo="https://raw.githubusercontent.com/lodistream/lodistream.github.io/refs/heads/lodimaster/logo.png" group-title="Haber",★NTV yedek
 http://dygvideo.dygdigital.com/live/hls/ntv4puhu?m3u8
 #EXTINF:-1 tvg-id="ULKE.tr" tvg-logo="https://raw.githubusercontent.com/lodistream/lodistream.github.io/refs/heads/lodimaster/logo.png" group-title="Haber",★ULKE TV
 https://livetv.radyotvonline.net/kanal7live/ulketv/playlist.m3u8
@@ -176,11 +143,30 @@ https://603c568fccdf5.streamlock.net/live/dhaweb1_C5efC/playlist.m3u8
 https://flashhaber-live.ercdn.net/flashhaber/flashhaber.m3u8
 #EXTINF:-1 tvg-id="BloombergHT.tr" tvg-logo="https://raw.githubusercontent.com/lodistream/lodistream.github.io/refs/heads/lodimaster/logo.png" group-title="Haber",★BLOOMBERG HT
 https://ciner.daioncdn.net/bloomberght/bloomberght.m3u8
-#EXTINF:-1 tvg-id="Ekoturk.tr" tvg-logo="https://raw.githubusercontent.com/lodistream/lodistream.github.io/refs/heads/lodimaster/logo.png" group-title="Haber",★EKOTURK
-https://raw.githubusercontent.com/UzunMuhalefet/yt-streams/refs/heads/main/TR/haber/ekoturk.m3u8
 
-#EXTINF:-1 tvg-id="BabyTV.tr" tvg-logo="https://raw.githubusercontent.com/lodistream/lodistream.github.io/refs/heads/lodimaster/logo.png" group-title="COCUK",★★★COCUK KANALLARI★★★
-https://raw.githubusercontent.com/lodistream/lodistream.github.io/refs/heads/lodimaster/logo.png
+
+#EXTINF:-1 tvg-id="sinema.tr" tvg-logo="https://raw.githubusercontent.com/lodistream/lodistream.github.io/refs/heads/lodimaster/logo.png" group-title="Sinema",★ TV6  SINEMA
+https://live.artidijitalmedya.com/artidijital_tivi6/tivi6/chunks.m3u8
+#EXTINF:-1 tvg-id="sinema.tr" tvg-logo="https://raw.githubusercontent.com/lodistream/lodistream.github.io/refs/heads/lodimaster/logo.png" group-title="Sinema",★ KUZEYMAX SINEMA
+http://75.119.144.48/KUZEYMAXHD_STREAM/index.m3u8
+#EXTINF:-1 tvg-id="sinema.tr" tvg-logo="https://raw.githubusercontent.com/lodistream/lodistream.github.io/refs/heads/lodimaster/logo.png" group-title="Sinema",★ TRT NOSTALJI SINEMA
+https://playlist.fasttvcdn.com/pl/rfrk9821hdy9dayo8wfyha/dizi-tv/playlist/0.m3u8
+#EXTINF:-1 tvg-id="sinema.tr" tvg-logo="https://raw.githubusercontent.com/lodistream/lodistream.github.io/refs/heads/lodimaster/logo.png" group-title="Sinema",★ 90 TV SINEMA
+https://tv.ismailturret.workers.dev/euro90tvglobal.m3u8
+#EXTINF:-1 tvg-id="sinema.tr" tvg-logo="https://raw.githubusercontent.com/lodistream/lodistream.github.io/refs/heads/lodimaster/logo.png" group-title="Sinema",★ DENIZ SINEMA
+https://live.artidijitalmedya.com/artidijital_denizpostasi/denizpostasi/chunks.m3u8
+#EXTINF:-1 tvg-id="sinema.tr" tvg-logo="https://raw.githubusercontent.com/lodistream/lodistream.github.io/refs/heads/lodimaster/logo.png" group-title="Sinema",★ SDM SINEMA
+https://host.onlineradyotv.net:8081/sdmtv/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="sinema.tr" tvg-logo="https://raw.githubusercontent.com/lodistream/lodistream.github.io/refs/heads/lodimaster/logo.png" group-title="Sinema",★ PLAY SINEMA
+https://ip100.radyotelekomtv.com:3784/stream/play.m3u8
+#EXTINF:-1 tvg-id="sinema.tr" tvg-logo="https://raw.githubusercontent.com/lodistream/lodistream.github.io/refs/heads/lodimaster/logo.png" group-title="Sinema",★ FX TV SINEMA
+https://saran-live.ercdn.net/fx/index.m3u8
+#EXTINF:-1 tvg-id="sinema.tr" tvg-logo="https://raw.githubusercontent.com/lodistream/lodistream.github.io/refs/heads/lodimaster/logo.png" group-title="Sinema",★ EKONOMİK TV
+http://ip252.ozelip.com:1935/ekonomiktv/ekonomiktv/chunklist.m3u8
+
+
+#EXTINF:-1 tvg-id="BabyTV.tr" tvg-logo="https://raw.githubusercontent.com/lodistream/lodistream.github.io/refs/heads/lodimaster/logo.png" group-title="COCUK",★CARTOON NETWORK 1
+https://yayin.tvfrekanslar.com/api/bot/alfa?action=m3u8&url=aHR0cHM6Ly95YXlpbjIuY2FubGl0di5mdW4vbGl2ZS9jYXJ0b29uLW5ldHdvcmsuc3RyZWFtL2NodW5rbGlzdF93MTg5NTYxMjEyMS5tM3U4P2hhc2g9ZWUyMjJkMWUzOWRlMDJkMzNlY2QxOWFjY2NiYTA4Zjg%3D&ext=.m3u8
 #EXTINF:-1 tvg-id="BabyTV.tr" tvg-logo="https://raw.githubusercontent.com/lodistream/lodistream.github.io/refs/heads/lodimaster/logo.png" group-title="COCUK",★BABY TV
 https://saran-live.ercdn.net/babytv/index.m3u8
 #EXTINF:-1 tvg-id="TRTEbaTV.tr" tvg-logo="https://raw.githubusercontent.com/lodistream/lodistream.github.io/refs/heads/lodimaster/logo.png" group-title="COCUK",★TRT EBA TV
@@ -195,8 +181,10 @@ https://tv-trtdiyanetcocuk.medya.trt.com.tr/master_1440.m3u8
 https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/minikago_cocuk/minikago_cocuk_480p.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/lodistream/lodistream.github.io/refs/heads/lodimaster/logo.png" group-title="COCUK",★MiNiKA GO
 https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/minikago/minikago_480p.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/lodistream/lodistream.github.io/refs/heads/lodimaster/logo.png" group-title="COCUK",★ CARTOON NETWORK
-https://yayin2.canlitv.fun/live/cartoon-network.stream/chunklist_w799983719.m3u8?hash=1b83229214e67a1e99ac3fada8db7671
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/lodistream/lodistream.github.io/refs/heads/lodimaster/logo.png" group-title="COCUK",★ DISNEY JUNIOR 
+https://saran-live.ercdn.net/disneyjunior/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/lodistream/lodistream.github.io/refs/heads/lodimaster/logo.png" group-title="COCUK",★ BABY TV
+https://saran-live.ercdn.net/babytv/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/lodistream/lodistream.github.io/refs/heads/lodimaster/logo.png" group-title="COCUK",★BBC KIDS
 https://jmp2.uk/stvp-US800003JM
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/lodistream/lodistream.github.io/refs/heads/lodimaster/logo.png" group-title="COCUK",★DUCK TV
@@ -207,24 +195,12 @@ https://jmp2.uk/stvp-USBB11000015Q
 https://jmp2.uk/stvp-USBB3600001R6
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/lodistream/lodistream.github.io/refs/heads/lodimaster/logo.png" group-title="COCUK",★ SUPER TONS TV
 https://jmp2.uk/stvp-ESBD5100001G0
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/lodistream/lodistream.github.io/refs/heads/lodimaster/logo.png" group-title="COCUK",★ MAYA TV
-https://jmp2.uk/stvp-ESBD3200002V5
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/lodistream/lodistream.github.io/refs/heads/lodimaster/logo.png" group-title="COCUK",★ RABBITS TV
 https://jmp2.uk/stvp-ESBD2300003S5
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/lodistream/lodistream.github.io/refs/heads/lodimaster/logo.png" group-title="COCUK",★ NINJA BOY
 https://jmp2.uk/stvp-ES2600008NX
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/lodistream/lodistream.github.io/refs/heads/lodimaster/logo.png" group-title="COCUK",★ CRY BABIES
-https://jmp2.uk/stvp-ES4400005EJ
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/lodistream/lodistream.github.io/refs/heads/lodimaster/logo.png" group-title="COCUK",★ DUCK TV
 https://jmp2.uk/stvp-ESBC4700001GR
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/lodistream/lodistream.github.io/refs/heads/lodimaster/logo.png" group-title="COCUK",★ POCOYO TV
-https://jmp2.uk/stvp-ESBC3900004ED
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/lodistream/lodistream.github.io/refs/heads/lodimaster/logo.png" group-title="COCUK",★ CAILLOU TV
-https://jmp2.uk/stvp-ES4800002OZ
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/lodistream/lodistream.github.io/refs/heads/lodimaster/logo.png" group-title="COCUK",★ BABY SHARK TV
-https://jmp2.uk/stvp-ES17000065P
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/lodistream/lodistream.github.io/refs/heads/lodimaster/logo.png" group-title="COCUK",★ SIRINLER TV
-https://jmp2.uk/stvp-ESBD130000205
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/lodistream/lodistream.github.io/refs/heads/lodimaster/logo.png" group-title="COCUK",★ LOO LOO KIDS
 https://jmp2.uk/stvp-ES5000001CS
 
@@ -238,8 +214,9 @@ https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/a2tv/a2tv.m3u8
 http://live.duhnet.tv/S2/HLS_LIVE/teve2np/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/lodistream/lodistream.github.io/refs/heads/lodimaster/logo.png" group-title="BELGESEL",★TEVE 2 yedek
 https://demiroren.daioncdn.net/teve2/teve2.m3u8?app=6aab838a-437e-4a1b-bbd0-e30f79cdbbbd
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/lodistream/lodistream.github.io/refs/heads/lodimaster/logo.png" group-title="BELGESEL",★BBC EARTH HD
-https://ds.ayakkabiparti.lol/bbc/index.m3u8
+
+#EXTINF:-1 tvg-id="DMAX.tr" tvg-logo="https://raw.githubusercontent.com/lodistream/lodistream.github.io/refs/heads/lodimaster/logo.png" group-title="BELGESEL",★TOPRAK TV
+https://yayin1.canlitv.fun/canlitv/topraktv.stream/chunklist_w237725668.m3u8?hash=d1e17304686b3f8d04777cb6fd56fccf
 #EXTINF:-1 tvg-id="DMAX.tr" tvg-logo="https://raw.githubusercontent.com/lodistream/lodistream.github.io/refs/heads/lodimaster/logo.png" group-title="BELGESEL",★DMAX
 http://dygvideo.dygdigital.com/live/hls/dmaxdai?m3u8
 #EXTINF:-1 tvg-id="TLC.tr" tvg-logo="https://raw.githubusercontent.com/lodistream/lodistream.github.io/refs/heads/lodimaster/logo.png" group-title="BELGESEL",★TLC
@@ -248,8 +225,6 @@ http://dygvideo.dygdigital.com/live/hls/tlctvdai?m3u8
 https://dogus.daioncdn.net/tlc/tlc.m3u8?app=1aca0aa1-06e3-41ff-a8e5-38d7df475469
 #EXTINF:-1 tvg-id="TV4.tr" tvg-logo="https://raw.githubusercontent.com/lodistream/lodistream.github.io/refs/heads/lodimaster/logo.png" group-title="BELGESEL",★TV 4
 https://turkmedya-live.ercdn.net/tv4/tv4.m3u8
-#EXTINF:-1 tvg-id="Cine1.tr" tvg-logo="https://raw.githubusercontent.com/lodistream/lodistream.github.io/refs/heads/lodimaster/logo.png" group-title="BELGESEL",★CINE 1 TV
-https://live.artidijitalmedya.com/artidijital_cine1/cine1/playlist.m3u8
 #EXTINF:-1 tvg-id="Ciftci.tr" tvg-logo="https://raw.githubusercontent.com/lodistream/lodistream.github.io/refs/heads/lodimaster/logo.png" group-title="BELGESEL",★CIFTCI TV
 https://live.artidijitalmedya.com/artidijital_ciftcitv/ciftcitv/playlist.m3u8
 #EXTINF:-1 tvg-id="TIVI6.tr" tvg-logo="https://raw.githubusercontent.com/lodistream/lodistream.github.io/refs/heads/lodimaster/logo.png" group-title="BELGESEL",★TIVI 6
@@ -322,8 +297,6 @@ https://tjktv-live.tjk.org/tjktv.m3u8
 https://tjktv-live.tjk.org/tjktv2/tjktv2.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/lodistream/lodistream.github.io/refs/heads/lodimaster/logo.png" group-title="Spor",★SIFIR TV 
 http://ahr7chck.rocketcdn.com/sifirtv.stream/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/lodistream/lodistream.github.io/refs/heads/lodimaster/logo.png" group-title="Spor",★SPORTS TV 
-https://live.sportstv.com.tr/hls/low/sportstv_hd/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/lodistream/lodistream.github.io/refs/heads/lodimaster/logo.png" group-title="Spor",★EKOL SPORTS
 https://ekoltv-live.ercdn.net/ekolsport/ekolsport.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/lodistream/lodistream.github.io/refs/heads/lodimaster/logo.png" group-title="Spor",★TAY TV
@@ -332,8 +305,6 @@ http://duhnet.hipodrom.com/S2/HLS_LIVE/mislitaynp/playlist.m3u8
 https://ciner-live.ercdn.net/htspor/htspor.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/lodistream/lodistream.github.io/refs/heads/lodimaster/logo.png" group-title="Spor",★HT SPOR
 https://ciner.daioncdn.net/ht-spor/ht-spor.m3u8?app=web&ce=3
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/lodistream/lodistream.github.io/refs/heads/lodimaster/logo.png" group-title="Spor",★BEİNSPORTS 1
-https://m3u8-proxy-1-urh0.onrender.com/proxy?url=https://biraz.7486038.xyz/checklist/androstreamlivebiraz1.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/lodistream/lodistream.github.io/refs/heads/lodimaster/logo.png" group-title="Spor",★TIVIBU SPOR 
 https://trn03.tulix.tv/gt-tivibuspor1/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/lodistream/lodistream.github.io/refs/heads/lodimaster/logo.png" group-title="Spor",★TIVIBU SPOR 1
@@ -495,10 +466,9 @@ https://ankatvplus.github.io/github/relax/relax19.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/lodistream/lodistream.github.io/refs/heads/lodimaster/logo.png" group-title="Relax",★ RELAX 20
 https://ankatvplus.github.io/github/relax/relax20.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="MOVIES",Sinema TV
-http://65.108.239.207/sinema/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="MOVIES",Sinema Aile
-http://65.108.239.207/sinemaaile/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/lodistream/lodistream.github.io/refs/heads/lodimaster/logo.png" group-title="Relax",★ yeni sinema
+http://23.146.40.56:8000/onurksipsks/0VO9AyDBfv/17891
+
 #EXTINF:-1 tvg-id="Play Sinema" tvg-name="Play Sinema" tvg-logo="https://r.resimlink.com/JhZ4a.png" group-title="MOVIES",Play Sinema
 https://ip100.radyotelekomtv.com:3784/stream/play.m3u8
 #EXTINF:-1 tvg-id="Play TV" tvg-name="Play TV" tvg-logo="https://assets.uzunmuhalefet.com/logos/0d2381f6-d09e-4054-9845-2ff72539ecad.png" group-title="MOVIES",Play TV
