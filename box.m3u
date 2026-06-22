@@ -1,8 +1,8 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="TR: X-MEN HD" tvg-logo="" group-title="TR ✦ 7/24 CINESTARS",TR: X-MEN HD
-http://smarterss.xyz:2095/bbkr5838tv/bbrk0505yy00/222411
-#EXTINF:-1 tvg-id="" tvg-name="⭐ WORLD CUP⭐" tvg-logo="https://png.pngtree.com/png-clipart/20250517/original/pngtree-2026-fifa-world-cup-logo-with-trophy-png-image_21016269.png" group-title="EU ⭐ World Cup Nations ⭐",⭐ WORLD CUP⭐
-http://smarterss.xyz:2095/bbkr5838tv/bbrk0505yy00/222088
+#EXTINF:-1 tvg-id="" tvg-name="TR: Gülümseyerek Başlayalım :-)" tvg-logo="http://bluelogo8990.duckdns.org:8080/LOGO.YENI/TR/ULUSALL/GULUMSE.png" group-title="TR ✦ ULUSAL",TR: Gülümseyerek Başlayalım :-)
+http://smarterss.xyz:2095/bbkr5838tv/bbrk0505yy00/102428
+#EXTINF:-1 tvg-id="" tvg-name="✦ ✦ ULUSAL ✦✦" tvg-logo="http://bluelogo8990.duckdns.org:8080/LOGO/TR/BAYRAK.png" group-title="TR ✦ ULUSAL",✦ ✦ ULUSAL ✦✦
+http://smarterss.xyz:2095/bbkr5838tv/bbrk0505yy00/130393
 #EXTINF:-1 tvg-id="trt1.tr" tvg-name="TR: TRT 1 FHD" tvg-logo="" group-title="EU ⭐ World Cup Nations ⭐",TR: TRT 1 FHD
 http://smarterss.xyz:2095/bbkr5838tv/bbrk0505yy00/222061
 #EXTINF:-1 tvg-id="trt1.tr" tvg-name="TR: TRT 1 HD" tvg-logo="" group-title="EU ⭐ World Cup Nations ⭐",TR: TRT 1 HD
@@ -11,42 +11,6 @@ http://smarterss.xyz:2095/bbkr5838tv/bbrk0505yy00/222062
 http://smarterss.xyz:2095/bbkr5838tv/bbrk0505yy00/222071
 #EXTINF:-1 tvg-id="" tvg-name="TR: Tabii Spor HD" tvg-logo="" group-title="EU ⭐ World Cup Nations ⭐",TR: Tabii Spor HD
 http://smarterss.xyz:2095/bbkr5838tv/bbrk0505yy00/222070
-#EXTINF:-1 tvg-id="zdf.de" tvg-name="DE: ZDF FHD" tvg-logo="" group-title="EU ⭐ World Cup Nations ⭐",DE: ZDF FHD
-http://smarterss.xyz:2095/bbkr5838tv/bbrk0505yy00/222064
-#EXTINF:-1 tvg-id="zdf.de" tvg-name="DE: ZDF HD" tvg-logo="" group-title="EU ⭐ World Cup Nations ⭐",DE: ZDF HD
-http://smarterss.xyz:2095/bbkr5838tv/bbrk0505yy00/222063
-#EXTINF:-1 tvg-id="" tvg-name="DE: FussBall Sport 1 HD" tvg-logo="" group-title="EU ⭐ World Cup Nations ⭐",DE: FussBall Sport 1 HD
-http://smarterss.xyz:2095/bbkr5838tv/bbrk0505yy00/222197
-#EXTINF:-1 tvg-id="" tvg-name="DE: FussBall Sport 1 FHD" tvg-logo="" group-title="EU ⭐ World Cup Nations ⭐",DE: FussBall Sport 1 FHD
-http://smarterss.xyz:2095/bbkr5838tv/bbrk0505yy00/222196
-#EXTINF:-1 tvg-id="" tvg-name="DE: FussBall Sport 2 HD" tvg-logo="" group-title="EU ⭐ World Cup Nations ⭐",DE: FussBall Sport 2 HD
-http://smarterss.xyz:2095/bbkr5838tv/bbrk0505yy00/222199
-#EXTINF:-1 tvg-id="" tvg-name="DE: FussBall Sport 2 FHD" tvg-logo="" group-title="EU ⭐ World Cup Nations ⭐",DE: FussBall Sport 2 FHD
-http://smarterss.xyz:2095/bbkr5838tv/bbrk0505yy00/222198
-#EXTINF:-1 tvg-id="" tvg-name="DE: FussBall Sport 3 HD" tvg-logo="" group-title="EU ⭐ World Cup Nations ⭐",DE: FussBall Sport 3 HD
-http://smarterss.xyz:2095/bbkr5838tv/bbrk0505yy00/222201
-#EXTINF:-1 tvg-id="" tvg-name="DE: FussBall Sport 3 FHD" tvg-logo="" group-title="EU ⭐ World Cup Nations ⭐",DE: FussBall Sport 3 FHD
-http://smarterss.xyz:2095/bbkr5838tv/bbrk0505yy00/222200
-#EXTINF:-1 tvg-id="ard.de" tvg-name="DE: DAS ERSTE FHD" tvg-logo="" group-title="EU ⭐ World Cup Nations ⭐",DE: DAS ERSTE FHD
-http://smarterss.xyz:2095/bbkr5838tv/bbrk0505yy00/222066
-#EXTINF:-1 tvg-id="ard.de" tvg-name="DE: DAS ERSTE HD" tvg-logo="" group-title="EU ⭐ World Cup Nations ⭐",DE: DAS ERSTE HD
-http://smarterss.xyz:2095/bbkr5838tv/bbrk0505yy00/222065
-#EXTINF:-1 tvg-id="orf1.at" tvg-name="AT: ORF 1" tvg-logo="" group-title="EU ⭐ World Cup Nations ⭐",AT: ORF 1
-http://smarterss.xyz:2095/bbkr5838tv/bbrk0505yy00/222068
-#EXTINF:-1 tvg-id="servustv.at" tvg-name="AT: SERVUS TV ÖSTERREICH" tvg-logo="" group-title="EU ⭐ World Cup Nations ⭐",AT: SERVUS TV ÖSTERREICH
-http://smarterss.xyz:2095/bbkr5838tv/bbrk0505yy00/222069
-#EXTINF:-1 tvg-id="" tvg-name="GR: ERT" tvg-logo="" group-title="EU ⭐ World Cup Nations ⭐",GR: ERT
-http://smarterss.xyz:2095/bbkr5838tv/bbrk0505yy00/222089
-#EXTINF:-1 tvg-id="" tvg-name="GR: ERT 1" tvg-logo="" group-title="EU ⭐ World Cup Nations ⭐",GR: ERT 1
-http://smarterss.xyz:2095/bbkr5838tv/bbrk0505yy00/222090
-#EXTINF:-1 tvg-id="" tvg-name="IT: RAI 1 HD" tvg-logo="" group-title="EU ⭐ World Cup Nations ⭐",IT: RAI 1 HD
-http://smarterss.xyz:2095/bbkr5838tv/bbrk0505yy00/222067
-#EXTINF:-1 tvg-id="" tvg-name="HR: HRT 2 FHD" tvg-logo="" group-title="EU ⭐ World Cup Nations ⭐",HR: HRT 2 FHD
-http://smarterss.xyz:2095/bbkr5838tv/bbrk0505yy00/222072
-#EXTINF:-1 tvg-id="" tvg-name="✦ ✦ ULUSAL ✦✦" tvg-logo="http://bluelogo8990.duckdns.org:8080/LOGO/TR/BAYRAK.png" group-title="TR ✦ ULUSAL",✦ ✦ ULUSAL ✦✦
-http://smarterss.xyz:2095/bbkr5838tv/bbrk0505yy00/130393
-#EXTINF:-1 tvg-id="" tvg-name="TR: Gülümseyerek Başlayalım :-)" tvg-logo="http://bluelogo8990.duckdns.org:8080/LOGO.YENI/TR/ULUSALL/GULUMSE.png" group-title="TR ✦ ULUSAL",TR: Gülümseyerek Başlayalım :-)
-http://smarterss.xyz:2095/bbkr5838tv/bbrk0505yy00/102428
 #EXTINF:-1 tvg-id="trt1.tr" tvg-name="TR: TRT 1 FHD" tvg-logo="http://bluelogo8990.duckdns.org:8080/LOGO.YENI/TR/ULUSALL/TRT.1.png" group-title="TR ✦ ULUSAL",TR: TRT 1 FHD
 http://smarterss.xyz:2095/bbkr5838tv/bbrk0505yy00/32770
 #EXTINF:-1 tvg-id="trt1.tr" tvg-name="TR: TRT 1 HD" tvg-logo="http://bluelogo8990.duckdns.org:8080/LOGO.YENI/TR/ULUSALL/TRT.1.png" group-title="TR ✦ ULUSAL",TR: TRT 1 HD
@@ -379,8 +343,6 @@ http://smarterss.xyz:2095/bbkr5838tv/bbrk0505yy00/6673
 http://smarterss.xyz:2095/bbkr5838tv/bbrk0505yy00/83263
 #EXTINF:-1 tvg-id="" tvg-name="TR: GODZİLLA & KONG HD" tvg-logo="" group-title="TR ✦ 7/24 CINESTARS",TR: GODZİLLA & KONG HD
 http://smarterss.xyz:2095/bbkr5838tv/bbrk0505yy00/222427
-#EXTINF:-1 tvg-id="" tvg-name="TR: AMERİKAN PASTASI HD" tvg-logo="" group-title="TR ✦ 7/24 CINESTARS",TR: AMERİKAN PASTASI HD
-http://smarterss.xyz:2095/bbkr5838tv/bbrk0505yy00/222426
 #EXTINF:-1 tvg-id="" tvg-name="TR: GÖREVİMİZ TEHLİKE HD" tvg-logo="" group-title="TR ✦ 7/24 CINESTARS",TR: GÖREVİMİZ TEHLİKE HD
 http://smarterss.xyz:2095/bbkr5838tv/bbrk0505yy00/222425
 #EXTINF:-1 tvg-id="" tvg-name="TR: BlueTV HARRY POTER ʜᴅ" tvg-logo="" group-title="TR ✦ 7/24 CINESTARS",TR: BlueTV HARRY POTER ʜᴅ
@@ -529,6 +491,22 @@ http://smarterss.xyz:2095/bbkr5838tv/bbrk0505yy00/220684
 http://smarterss.xyz:2095/bbkr5838tv/bbrk0505yy00/220685
 #EXTINF:-1 tvg-id="" tvg-name="✦ ✦YEŞİLÇAM✦✦" tvg-logo="http://bluelogo8990.duckdns.org:8080/LOGO/TR/BAYRAK.png" group-title="TR ✦ 7/24  YEŞİLÇAM",✦ ✦YEŞİLÇAM✦✦
 http://smarterss.xyz:2095/bbkr5838tv/bbrk0505yy00/120153
+#EXTINF:-1 tvg-id="" tvg-name="TR: YEŞİLÇAM 1 ʜᴅ" tvg-logo="http://bluelogo8990.duckdns.org:8080/LOGO.YENI/TR/YESILCAM/YESILCAM.01.png" group-title="TR ✦ 7/24  YEŞİLÇAM",TR: YEŞİLÇAM 1 ʜᴅ
+http://smarterss.xyz:2095/bbkr5838tv/bbrk0505yy00/58341
+#EXTINF:-1 tvg-id="" tvg-name="TR: YEŞİLÇAM 2 ʜᴅ" tvg-logo="http://bluelogo8990.duckdns.org:8080/LOGO.YENI/TR/YESILCAM/YESILCAM.02.png" group-title="TR ✦ 7/24  YEŞİLÇAM",TR: YEŞİLÇAM 2 ʜᴅ
+http://smarterss.xyz:2095/bbkr5838tv/bbrk0505yy00/79019
+#EXTINF:-1 tvg-id="" tvg-name="TR: YEŞİLÇAM 3 ʜᴅ" tvg-logo="http://bluelogo8990.duckdns.org:8080/LOGO.YENI/TR/YESILCAM/YESILCAM.03.png" group-title="TR ✦ 7/24  YEŞİLÇAM",TR: YEŞİLÇAM 3 ʜᴅ
+http://smarterss.xyz:2095/bbkr5838tv/bbrk0505yy00/83992
+#EXTINF:-1 tvg-id="" tvg-name="TR: YEŞİLÇAM 4 ʜᴅ" tvg-logo="http://bluelogo8990.duckdns.org:8080/LOGO.YENI/TR/YESILCAM/YESILCAM.04.png" group-title="TR ✦ 7/24  YEŞİLÇAM",TR: YEŞİLÇAM 4 ʜᴅ
+http://smarterss.xyz:2095/bbkr5838tv/bbrk0505yy00/14414
+#EXTINF:-1 tvg-id="" tvg-name="TR: YEŞİLÇAM 5 ʜᴅ" tvg-logo="http://bluelogo8990.duckdns.org:8080/LOGO.YENI/TR/YESILCAM/YESILCAM.05.png" group-title="TR ✦ 7/24  YEŞİLÇAM",TR: YEŞİLÇAM 5 ʜᴅ
+http://smarterss.xyz:2095/bbkr5838tv/bbrk0505yy00/120383
+#EXTINF:-1 tvg-id="" tvg-name="TR: YEŞİLÇAM 6 ʜᴅ" tvg-logo="http://bluelogo8990.duckdns.org:8080/LOGO.YENI/TR/YESILCAM/YESILCAM.06.png" group-title="TR ✦ 7/24  YEŞİLÇAM",TR: YEŞİLÇAM 6 ʜᴅ
+http://smarterss.xyz:2095/bbkr5838tv/bbrk0505yy00/84603
+#EXTINF:-1 tvg-id="" tvg-name="TR: YEŞİLÇAM 7 ʜᴅ" tvg-logo="http://bluelogo8990.duckdns.org:8080/LOGO.YENI/TR/YESILCAM/YESILCAM.07.png" group-title="TR ✦ 7/24  YEŞİLÇAM",TR: YEŞİLÇAM 7 ʜᴅ
+http://smarterss.xyz:2095/bbkr5838tv/bbrk0505yy00/61124
+#EXTINF:-1 tvg-id="" tvg-name="TR: YEŞİLÇAM 8 ʜᴅ" tvg-logo="http://bluelogo8990.duckdns.org:8080/LOGO.YENI/TR/YESILCAM/YESILCAM.08.png" group-title="TR ✦ 7/24  YEŞİLÇAM",TR: YEŞİLÇAM 8 ʜᴅ
+http://smarterss.xyz:2095/bbkr5838tv/bbrk0505yy00/162196
 #EXTINF:-1 tvg-id="" tvg-name="TR: KEMAL SUNAL 1 ʜᴅ" tvg-logo="http://bluelogo8990.duckdns.org:8080/LOGO.YENI/TR/YESILCAM/KEMAL.SUNAL.01.png" group-title="TR ✦ 7/24  YEŞİLÇAM",TR: KEMAL SUNAL 1 ʜᴅ
 http://smarterss.xyz:2095/bbkr5838tv/bbrk0505yy00/123072
 #EXTINF:-1 tvg-id="" tvg-name="TR: KEMAL SUNAL 2 ʜᴅ" tvg-logo="http://bluelogo8990.duckdns.org:8080/LOGO.YENI/TR/YESILCAM/KEMAL.SUNAL.02.png" group-title="TR ✦ 7/24  YEŞİLÇAM",TR: KEMAL SUNAL 2 ʜᴅ
@@ -567,22 +545,6 @@ http://smarterss.xyz:2095/bbkr5838tv/bbrk0505yy00/75839
 http://smarterss.xyz:2095/bbkr5838tv/bbrk0505yy00/39191
 #EXTINF:-1 tvg-id="" tvg-name="TR: HABAMAM SINIFI ʜᴅ" tvg-logo="http://bluelogo8990.duckdns.org:8080/LOGO.YENI/TR/YESILCAM/HABABAM.SINIFI.png" group-title="TR ✦ 7/24  YEŞİLÇAM",TR: HABAMAM SINIFI ʜᴅ
 http://smarterss.xyz:2095/bbkr5838tv/bbrk0505yy00/95631
-#EXTINF:-1 tvg-id="" tvg-name="TR: YEŞİLÇAM 1 ʜᴅ" tvg-logo="http://bluelogo8990.duckdns.org:8080/LOGO.YENI/TR/YESILCAM/YESILCAM.01.png" group-title="TR ✦ 7/24  YEŞİLÇAM",TR: YEŞİLÇAM 1 ʜᴅ
-http://smarterss.xyz:2095/bbkr5838tv/bbrk0505yy00/58341
-#EXTINF:-1 tvg-id="" tvg-name="TR: YEŞİLÇAM 2 ʜᴅ" tvg-logo="http://bluelogo8990.duckdns.org:8080/LOGO.YENI/TR/YESILCAM/YESILCAM.02.png" group-title="TR ✦ 7/24  YEŞİLÇAM",TR: YEŞİLÇAM 2 ʜᴅ
-http://smarterss.xyz:2095/bbkr5838tv/bbrk0505yy00/79019
-#EXTINF:-1 tvg-id="" tvg-name="TR: YEŞİLÇAM 3 ʜᴅ" tvg-logo="http://bluelogo8990.duckdns.org:8080/LOGO.YENI/TR/YESILCAM/YESILCAM.03.png" group-title="TR ✦ 7/24  YEŞİLÇAM",TR: YEŞİLÇAM 3 ʜᴅ
-http://smarterss.xyz:2095/bbkr5838tv/bbrk0505yy00/83992
-#EXTINF:-1 tvg-id="" tvg-name="TR: YEŞİLÇAM 4 ʜᴅ" tvg-logo="http://bluelogo8990.duckdns.org:8080/LOGO.YENI/TR/YESILCAM/YESILCAM.04.png" group-title="TR ✦ 7/24  YEŞİLÇAM",TR: YEŞİLÇAM 4 ʜᴅ
-http://smarterss.xyz:2095/bbkr5838tv/bbrk0505yy00/14414
-#EXTINF:-1 tvg-id="" tvg-name="TR: YEŞİLÇAM 5 ʜᴅ" tvg-logo="http://bluelogo8990.duckdns.org:8080/LOGO.YENI/TR/YESILCAM/YESILCAM.05.png" group-title="TR ✦ 7/24  YEŞİLÇAM",TR: YEŞİLÇAM 5 ʜᴅ
-http://smarterss.xyz:2095/bbkr5838tv/bbrk0505yy00/120383
-#EXTINF:-1 tvg-id="" tvg-name="TR: YEŞİLÇAM 6 ʜᴅ" tvg-logo="http://bluelogo8990.duckdns.org:8080/LOGO.YENI/TR/YESILCAM/YESILCAM.06.png" group-title="TR ✦ 7/24  YEŞİLÇAM",TR: YEŞİLÇAM 6 ʜᴅ
-http://smarterss.xyz:2095/bbkr5838tv/bbrk0505yy00/84603
-#EXTINF:-1 tvg-id="" tvg-name="TR: YEŞİLÇAM 7 ʜᴅ" tvg-logo="http://bluelogo8990.duckdns.org:8080/LOGO.YENI/TR/YESILCAM/YESILCAM.07.png" group-title="TR ✦ 7/24  YEŞİLÇAM",TR: YEŞİLÇAM 7 ʜᴅ
-http://smarterss.xyz:2095/bbkr5838tv/bbrk0505yy00/61124
-#EXTINF:-1 tvg-id="" tvg-name="TR: YEŞİLÇAM 8 ʜᴅ" tvg-logo="http://bluelogo8990.duckdns.org:8080/LOGO.YENI/TR/YESILCAM/YESILCAM.08.png" group-title="TR ✦ 7/24  YEŞİLÇAM",TR: YEŞİLÇAM 8 ʜᴅ
-http://smarterss.xyz:2095/bbkr5838tv/bbrk0505yy00/162196
 #EXTINF:-1 tvg-id="" tvg-name="TR: MAX AKSİYON 1 ʜᴅ" tvg-logo="http://bluelogo8990.duckdns.org:8080/LOGO.YENI/TR/CINEBOX/MAX.AKSIYON.1.png" group-title="TR ✦ 7/24  CINEVERSE",TR: MAX AKSİYON 1 ʜᴅ
 http://smarterss.xyz:2095/bbkr5838tv/bbrk0505yy00/117921
 #EXTINF:-1 tvg-id="" tvg-name="TR: MAX PREMIER HD" tvg-logo="http://bluelogo8990.duckdns.org:8080/LOGO.YENI/TR/CINEBOX/MAX.PREMIER.png" group-title="TR ✦ 7/24  CINEVERSE",TR: MAX PREMIER HD
@@ -1021,132 +983,6 @@ http://smarterss.xyz:2095/bbkr5838tv/bbrk0505yy00/29203
 http://smarterss.xyz:2095/bbkr5838tv/bbrk0505yy00/29210
 #EXTINF:-1 tvg-id="" tvg-name="TR: ÜÇ KIZ KARDEŞ ʜᴅ" tvg-logo="http://bluelogo8990.duckdns.org:8080/LOGO.YENI/TR/DOBLYYY/DOLBYY.png" group-title="TR ✦ 7/24  YERLİ DİZİLER",TR: ÜÇ KIZ KARDEŞ ʜᴅ
 http://smarterss.xyz:2095/bbkr5838tv/bbrk0505yy00/3855
-#EXTINF:-1 tvg-id="" tvg-name="✦ ✦ NHL SPORT ✦ ✦" tvg-logo="" group-title="EU ✦ NHL GAME PASS",✦ ✦ NHL SPORT ✦ ✦
-http://smarterss.xyz:2095/bbkr5838tv/bbrk0505yy00/201233
-#EXTINF:-1 tvg-id="" tvg-name="NHL 1 HD" tvg-logo="" group-title="EU ✦ NHL GAME PASS",NHL 1 HD
-http://smarterss.xyz:2095/bbkr5838tv/bbrk0505yy00/201234
-#EXTINF:-1 tvg-id="" tvg-name="NHL 2 HD" tvg-logo="" group-title="EU ✦ NHL GAME PASS",NHL 2 HD
-http://smarterss.xyz:2095/bbkr5838tv/bbrk0505yy00/201235
-#EXTINF:-1 tvg-id="" tvg-name="NHL 3 HD" tvg-logo="" group-title="EU ✦ NHL GAME PASS",NHL 3 HD
-http://smarterss.xyz:2095/bbkr5838tv/bbrk0505yy00/201236
-#EXTINF:-1 tvg-id="" tvg-name="NHL 4 HD" tvg-logo="" group-title="EU ✦ NHL GAME PASS",NHL 4 HD
-http://smarterss.xyz:2095/bbkr5838tv/bbrk0505yy00/201237
-#EXTINF:-1 tvg-id="" tvg-name="NHL 5 HD" tvg-logo="" group-title="EU ✦ NHL GAME PASS",NHL 5 HD
-http://smarterss.xyz:2095/bbkr5838tv/bbrk0505yy00/201238
-#EXTINF:-1 tvg-id="" tvg-name="NHL 6 HD" tvg-logo="" group-title="EU ✦ NHL GAME PASS",NHL 6 HD
-http://smarterss.xyz:2095/bbkr5838tv/bbrk0505yy00/201239
-#EXTINF:-1 tvg-id="" tvg-name="NHL 7 HD" tvg-logo="" group-title="EU ✦ NHL GAME PASS",NHL 7 HD
-http://smarterss.xyz:2095/bbkr5838tv/bbrk0505yy00/201240
-#EXTINF:-1 tvg-id="" tvg-name="NHL 8 HD" tvg-logo="" group-title="EU ✦ NHL GAME PASS",NHL 8 HD
-http://smarterss.xyz:2095/bbkr5838tv/bbrk0505yy00/201241
-#EXTINF:-1 tvg-id="" tvg-name="NHL 9 HD" tvg-logo="" group-title="EU ✦ NHL GAME PASS",NHL 9 HD
-http://smarterss.xyz:2095/bbkr5838tv/bbrk0505yy00/201242
-#EXTINF:-1 tvg-id="" tvg-name="NHL 10 HD" tvg-logo="" group-title="EU ✦ NHL GAME PASS",NHL 10 HD
-http://smarterss.xyz:2095/bbkr5838tv/bbrk0505yy00/201243
-#EXTINF:-1 tvg-id="" tvg-name="NHL 11 HD" tvg-logo="" group-title="EU ✦ NHL GAME PASS",NHL 11 HD
-http://smarterss.xyz:2095/bbkr5838tv/bbrk0505yy00/201244
-#EXTINF:-1 tvg-id="" tvg-name="NHL 12 HD" tvg-logo="" group-title="EU ✦ NHL GAME PASS",NHL 12 HD
-http://smarterss.xyz:2095/bbkr5838tv/bbrk0505yy00/201245
-#EXTINF:-1 tvg-id="" tvg-name="NHL 13 HD" tvg-logo="" group-title="EU ✦ NHL GAME PASS",NHL 13 HD
-http://smarterss.xyz:2095/bbkr5838tv/bbrk0505yy00/201246
-#EXTINF:-1 tvg-id="" tvg-name="NHL 14 HD" tvg-logo="" group-title="EU ✦ NHL GAME PASS",NHL 14 HD
-http://smarterss.xyz:2095/bbkr5838tv/bbrk0505yy00/201247
-#EXTINF:-1 tvg-id="" tvg-name="NHL 15 HD" tvg-logo="" group-title="EU ✦ NHL GAME PASS",NHL 15 HD
-http://smarterss.xyz:2095/bbkr5838tv/bbrk0505yy00/201248
-#EXTINF:-1 tvg-id="" tvg-name="NHL 16 HD" tvg-logo="" group-title="EU ✦ NHL GAME PASS",NHL 16 HD
-http://smarterss.xyz:2095/bbkr5838tv/bbrk0505yy00/201249
-#EXTINF:-1 tvg-id="" tvg-name="NHL 17 HD" tvg-logo="" group-title="EU ✦ NHL GAME PASS",NHL 17 HD
-http://smarterss.xyz:2095/bbkr5838tv/bbrk0505yy00/201250
-#EXTINF:-1 tvg-id="" tvg-name="NHL 18 HD" tvg-logo="" group-title="EU ✦ NHL GAME PASS",NHL 18 HD
-http://smarterss.xyz:2095/bbkr5838tv/bbrk0505yy00/201251
-#EXTINF:-1 tvg-id="" tvg-name="NHL 19 HD" tvg-logo="" group-title="EU ✦ NHL GAME PASS",NHL 19 HD
-http://smarterss.xyz:2095/bbkr5838tv/bbrk0505yy00/201252
-#EXTINF:-1 tvg-id="" tvg-name="NHL 20 HD" tvg-logo="" group-title="EU ✦ NHL GAME PASS",NHL 20 HD
-http://smarterss.xyz:2095/bbkr5838tv/bbrk0505yy00/201253
-#EXTINF:-1 tvg-id="" tvg-name="*** VIA PLAY ***" tvg-logo="" group-title="EU ✦ VIAPLAY SPORTS",*** VIA PLAY ***
-http://smarterss.xyz:2095/bbkr5838tv/bbrk0505yy00/201214
-#EXTINF:-1 tvg-id="" tvg-name="VIAPLAY 1" tvg-logo="" group-title="EU ✦ VIAPLAY SPORTS",VIAPLAY 1
-http://smarterss.xyz:2095/bbkr5838tv/bbrk0505yy00/201194
-#EXTINF:-1 tvg-id="" tvg-name="VIAPLAY 2" tvg-logo="" group-title="EU ✦ VIAPLAY SPORTS",VIAPLAY 2
-http://smarterss.xyz:2095/bbkr5838tv/bbrk0505yy00/201195
-#EXTINF:-1 tvg-id="" tvg-name="VIAPLAY 3" tvg-logo="" group-title="EU ✦ VIAPLAY SPORTS",VIAPLAY 3
-http://smarterss.xyz:2095/bbkr5838tv/bbrk0505yy00/201196
-#EXTINF:-1 tvg-id="" tvg-name="VIAPLAY 4" tvg-logo="" group-title="EU ✦ VIAPLAY SPORTS",VIAPLAY 4
-http://smarterss.xyz:2095/bbkr5838tv/bbrk0505yy00/201197
-#EXTINF:-1 tvg-id="" tvg-name="VIAPLAY 5" tvg-logo="" group-title="EU ✦ VIAPLAY SPORTS",VIAPLAY 5
-http://smarterss.xyz:2095/bbkr5838tv/bbrk0505yy00/201198
-#EXTINF:-1 tvg-id="" tvg-name="VIAPLAY 6" tvg-logo="" group-title="EU ✦ VIAPLAY SPORTS",VIAPLAY 6
-http://smarterss.xyz:2095/bbkr5838tv/bbrk0505yy00/201199
-#EXTINF:-1 tvg-id="" tvg-name="VIAPLAY 7" tvg-logo="" group-title="EU ✦ VIAPLAY SPORTS",VIAPLAY 7
-http://smarterss.xyz:2095/bbkr5838tv/bbrk0505yy00/201200
-#EXTINF:-1 tvg-id="" tvg-name="VIAPLAY 8" tvg-logo="" group-title="EU ✦ VIAPLAY SPORTS",VIAPLAY 8
-http://smarterss.xyz:2095/bbkr5838tv/bbrk0505yy00/201201
-#EXTINF:-1 tvg-id="" tvg-name="VIAPLAY 9" tvg-logo="" group-title="EU ✦ VIAPLAY SPORTS",VIAPLAY 9
-http://smarterss.xyz:2095/bbkr5838tv/bbrk0505yy00/201202
-#EXTINF:-1 tvg-id="" tvg-name="VIAPLAY 10" tvg-logo="" group-title="EU ✦ VIAPLAY SPORTS",VIAPLAY 10
-http://smarterss.xyz:2095/bbkr5838tv/bbrk0505yy00/201203
-#EXTINF:-1 tvg-id="" tvg-name="VIAPLAY 11" tvg-logo="" group-title="EU ✦ VIAPLAY SPORTS",VIAPLAY 11
-http://smarterss.xyz:2095/bbkr5838tv/bbrk0505yy00/201204
-#EXTINF:-1 tvg-id="" tvg-name="VIAPLAY 12" tvg-logo="" group-title="EU ✦ VIAPLAY SPORTS",VIAPLAY 12
-http://smarterss.xyz:2095/bbkr5838tv/bbrk0505yy00/201205
-#EXTINF:-1 tvg-id="" tvg-name="VIAPLAY 13" tvg-logo="" group-title="EU ✦ VIAPLAY SPORTS",VIAPLAY 13
-http://smarterss.xyz:2095/bbkr5838tv/bbrk0505yy00/201206
-#EXTINF:-1 tvg-id="" tvg-name="VIAPLAY 14" tvg-logo="" group-title="EU ✦ VIAPLAY SPORTS",VIAPLAY 14
-http://smarterss.xyz:2095/bbkr5838tv/bbrk0505yy00/201207
-#EXTINF:-1 tvg-id="" tvg-name="VIAPLAY 15" tvg-logo="" group-title="EU ✦ VIAPLAY SPORTS",VIAPLAY 15
-http://smarterss.xyz:2095/bbkr5838tv/bbrk0505yy00/201208
-#EXTINF:-1 tvg-id="" tvg-name="VIAPLAY 16" tvg-logo="" group-title="EU ✦ VIAPLAY SPORTS",VIAPLAY 16
-http://smarterss.xyz:2095/bbkr5838tv/bbrk0505yy00/201209
-#EXTINF:-1 tvg-id="" tvg-name="VIAPLAY 17" tvg-logo="" group-title="EU ✦ VIAPLAY SPORTS",VIAPLAY 17
-http://smarterss.xyz:2095/bbkr5838tv/bbrk0505yy00/201210
-#EXTINF:-1 tvg-id="" tvg-name="VIAPLAY 18" tvg-logo="" group-title="EU ✦ VIAPLAY SPORTS",VIAPLAY 18
-http://smarterss.xyz:2095/bbkr5838tv/bbrk0505yy00/201211
-#EXTINF:-1 tvg-id="" tvg-name="VIAPLAY 19" tvg-logo="" group-title="EU ✦ VIAPLAY SPORTS",VIAPLAY 19
-http://smarterss.xyz:2095/bbkr5838tv/bbrk0505yy00/201212
-#EXTINF:-1 tvg-id="" tvg-name="VIAPLAY 20" tvg-logo="" group-title="EU ✦ VIAPLAY SPORTS",VIAPLAY 20
-http://smarterss.xyz:2095/bbkr5838tv/bbrk0505yy00/201213
-#EXTINF:-1 tvg-id="" tvg-name="*** NFL GAME PASS ***" tvg-logo="" group-title="EU ✦ NFL GAME PASS",*** NFL GAME PASS ***
-http://smarterss.xyz:2095/bbkr5838tv/bbrk0505yy00/201193
-#EXTINF:-1 tvg-id="" tvg-name="NFL GAME PASS 1" tvg-logo="" group-title="EU ✦ NFL GAME PASS",NFL GAME PASS 1
-http://smarterss.xyz:2095/bbkr5838tv/bbrk0505yy00/201172
-#EXTINF:-1 tvg-id="" tvg-name="NFL GAME PASS 2" tvg-logo="" group-title="EU ✦ NFL GAME PASS",NFL GAME PASS 2
-http://smarterss.xyz:2095/bbkr5838tv/bbrk0505yy00/201173
-#EXTINF:-1 tvg-id="" tvg-name="NFL GAME PASS 3" tvg-logo="" group-title="EU ✦ NFL GAME PASS",NFL GAME PASS 3
-http://smarterss.xyz:2095/bbkr5838tv/bbrk0505yy00/201174
-#EXTINF:-1 tvg-id="" tvg-name="NFL GAME PASS 4" tvg-logo="" group-title="EU ✦ NFL GAME PASS",NFL GAME PASS 4
-http://smarterss.xyz:2095/bbkr5838tv/bbrk0505yy00/201175
-#EXTINF:-1 tvg-id="" tvg-name="NFL GAME PASS 5" tvg-logo="" group-title="EU ✦ NFL GAME PASS",NFL GAME PASS 5
-http://smarterss.xyz:2095/bbkr5838tv/bbrk0505yy00/201177
-#EXTINF:-1 tvg-id="" tvg-name="NFL GAME PASS 6" tvg-logo="" group-title="EU ✦ NFL GAME PASS",NFL GAME PASS 6
-http://smarterss.xyz:2095/bbkr5838tv/bbrk0505yy00/201178
-#EXTINF:-1 tvg-id="" tvg-name="NFL GAME PASS 7" tvg-logo="" group-title="EU ✦ NFL GAME PASS",NFL GAME PASS 7
-http://smarterss.xyz:2095/bbkr5838tv/bbrk0505yy00/201179
-#EXTINF:-1 tvg-id="" tvg-name="NFL GAME PASS 8" tvg-logo="" group-title="EU ✦ NFL GAME PASS",NFL GAME PASS 8
-http://smarterss.xyz:2095/bbkr5838tv/bbrk0505yy00/201180
-#EXTINF:-1 tvg-id="" tvg-name="NFL GAME PASS 9" tvg-logo="" group-title="EU ✦ NFL GAME PASS",NFL GAME PASS 9
-http://smarterss.xyz:2095/bbkr5838tv/bbrk0505yy00/201181
-#EXTINF:-1 tvg-id="" tvg-name="NFL GAME PASS 10" tvg-logo="" group-title="EU ✦ NFL GAME PASS",NFL GAME PASS 10
-http://smarterss.xyz:2095/bbkr5838tv/bbrk0505yy00/201182
-#EXTINF:-1 tvg-id="" tvg-name="NFL GAME PASS 11" tvg-logo="" group-title="EU ✦ NFL GAME PASS",NFL GAME PASS 11
-http://smarterss.xyz:2095/bbkr5838tv/bbrk0505yy00/201183
-#EXTINF:-1 tvg-id="" tvg-name="NFL GAME PASS 12" tvg-logo="" group-title="EU ✦ NFL GAME PASS",NFL GAME PASS 12
-http://smarterss.xyz:2095/bbkr5838tv/bbrk0505yy00/201184
-#EXTINF:-1 tvg-id="" tvg-name="NFL GAME PASS 13" tvg-logo="" group-title="EU ✦ NFL GAME PASS",NFL GAME PASS 13
-http://smarterss.xyz:2095/bbkr5838tv/bbrk0505yy00/201185
-#EXTINF:-1 tvg-id="" tvg-name="NFL GAME PASS 14" tvg-logo="" group-title="EU ✦ NFL GAME PASS",NFL GAME PASS 14
-http://smarterss.xyz:2095/bbkr5838tv/bbrk0505yy00/201186
-#EXTINF:-1 tvg-id="" tvg-name="NFL GAME PASS 15" tvg-logo="" group-title="EU ✦ NFL GAME PASS",NFL GAME PASS 15
-http://smarterss.xyz:2095/bbkr5838tv/bbrk0505yy00/201187
-#EXTINF:-1 tvg-id="" tvg-name="NFL GAME PASS 16" tvg-logo="" group-title="EU ✦ NFL GAME PASS",NFL GAME PASS 16
-http://smarterss.xyz:2095/bbkr5838tv/bbrk0505yy00/201188
-#EXTINF:-1 tvg-id="" tvg-name="NFL GAME PASS 17" tvg-logo="" group-title="EU ✦ NFL GAME PASS",NFL GAME PASS 17
-http://smarterss.xyz:2095/bbkr5838tv/bbrk0505yy00/201189
-#EXTINF:-1 tvg-id="" tvg-name="NFL GAME PASS 18" tvg-logo="" group-title="EU ✦ NFL GAME PASS",NFL GAME PASS 18
-http://smarterss.xyz:2095/bbkr5838tv/bbrk0505yy00/201190
-#EXTINF:-1 tvg-id="" tvg-name="NFL GAME PASS 19" tvg-logo="" group-title="EU ✦ NFL GAME PASS",NFL GAME PASS 19
-http://smarterss.xyz:2095/bbkr5838tv/bbrk0505yy00/201191
-#EXTINF:-1 tvg-id="" tvg-name="NFL GAME PASS 20" tvg-logo="" group-title="EU ✦ NFL GAME PASS",NFL GAME PASS 20
-http://smarterss.xyz:2095/bbkr5838tv/bbrk0505yy00/201192
 #EXTINF:-1 tvg-id="" tvg-name="✦✦ S SPORT ✦✦" tvg-logo="http://bluelogo8990.duckdns.org:8080/LOGO/TR/BAYRAK.png" group-title="TR ✦ S SPORT",✦✦ S SPORT ✦✦
 http://smarterss.xyz:2095/bbkr5838tv/bbrk0505yy00/44623
 #EXTINF:-1 tvg-id="ssport.tr" tvg-name="TR: S-SPORT 1 FHD" tvg-logo="http://bluelogo8990.duckdns.org:8080/LOGO.YENI/TR/S.SPORT/S.SPORT.1.FHD.png" group-title="TR ✦ S SPORT",TR: S-SPORT 1 FHD
@@ -1265,6 +1101,24 @@ http://smarterss.xyz:2095/bbkr5838tv/bbrk0505yy00/106452
 http://smarterss.xyz:2095/bbkr5838tv/bbrk0505yy00/22121
 #EXTINF:-1 tvg-id="" tvg-name="TR: bE*IN CONNECT 5" tvg-logo="http://bluelogo8990.duckdns.org:8080/LOGO.YENI/TR/BEIN.Y/CONNECT.5.png" group-title="TR ✦ be*IN SPORTS LIVE",TR: bE*IN CONNECT 5
 http://smarterss.xyz:2095/bbkr5838tv/bbrk0505yy00/89842
+#EXTINF:-1 tvg-id="" tvg-name="✦✦ EXXEN SPORT ✦✦" tvg-logo="http://bluelogo8990.duckdns.org:8080/LOGO/TR/BAYRAK.png" group-title="TR ✦ EXXEN SPORTS",✦✦ EXXEN SPORT ✦✦
+http://smarterss.xyz:2095/bbkr5838tv/bbrk0505yy00/86508
+#EXTINF:-1 tvg-id="" tvg-name="TR: EXXEN SPORT 1 FHD" tvg-logo="http://bluelogo8990.duckdns.org:8080/LOGO.YENI/TR/EXXEN.SPORTS/1.FHD.png" group-title="TR ✦ EXXEN SPORTS",TR: EXXEN SPORT 1 FHD
+http://smarterss.xyz:2095/bbkr5838tv/bbrk0505yy00/143915
+#EXTINF:-1 tvg-id="" tvg-name="TR: EXXEN SPORT 2 FHD" tvg-logo="http://bluelogo8990.duckdns.org:8080/LOGO.YENI/TR/EXXEN.SPORTS/2.FHD.png" group-title="TR ✦ EXXEN SPORTS",TR: EXXEN SPORT 2 FHD
+http://smarterss.xyz:2095/bbkr5838tv/bbrk0505yy00/114070
+#EXTINF:-1 tvg-id="" tvg-name="TR: EXXEN SPORT 3 FHD" tvg-logo="http://bluelogo8990.duckdns.org:8080/LOGO.YENI/TR/EXXEN.SPORTS/3.FHD.png" group-title="TR ✦ EXXEN SPORTS",TR: EXXEN SPORT 3 FHD
+http://smarterss.xyz:2095/bbkr5838tv/bbrk0505yy00/122853
+#EXTINF:-1 tvg-id="" tvg-name="TR: EXXEN SPORT 4 FHD" tvg-logo="http://bluelogo8990.duckdns.org:8080/LOGO.YENI/TR/EXXEN.SPORTS/4.FHD.png" group-title="TR ✦ EXXEN SPORTS",TR: EXXEN SPORT 4 FHD
+http://smarterss.xyz:2095/bbkr5838tv/bbrk0505yy00/133406
+#EXTINF:-1 tvg-id="" tvg-name="TR: EXXEN SPORT 5 FHD" tvg-logo="http://bluelogo8990.duckdns.org:8080/LOGO.YENI/TR/EXXEN.SPORTS/5.FHD.png" group-title="TR ✦ EXXEN SPORTS",TR: EXXEN SPORT 5 FHD
+http://smarterss.xyz:2095/bbkr5838tv/bbrk0505yy00/99140
+#EXTINF:-1 tvg-id="" tvg-name="TR: EXXEN SPORT 6 FHD" tvg-logo="http://bluelogo8990.duckdns.org:8080/LOGO.YENI/TR/EXXEN.SPORTS/6.FHD.png" group-title="TR ✦ EXXEN SPORTS",TR: EXXEN SPORT 6 FHD
+http://smarterss.xyz:2095/bbkr5838tv/bbrk0505yy00/116627
+#EXTINF:-1 tvg-id="" tvg-name="TR: EXXEN SPORT 7 FHD" tvg-logo="http://bluelogo8990.duckdns.org:8080/LOGO.YENI/TR/EXXEN.SPORTS/7.FHD.png" group-title="TR ✦ EXXEN SPORTS",TR: EXXEN SPORT 7 FHD
+http://smarterss.xyz:2095/bbkr5838tv/bbrk0505yy00/68647
+#EXTINF:-1 tvg-id="" tvg-name="TR: EXXEN SPORT 8 FHD" tvg-logo="http://bluelogo8990.duckdns.org:8080/LOGO.YENI/TR/EXXEN.SPORTS/8.FHD.png" group-title="TR ✦ EXXEN SPORTS",TR: EXXEN SPORT 8 FHD
+http://smarterss.xyz:2095/bbkr5838tv/bbrk0505yy00/58551
 #EXTINF:-1 tvg-id="" tvg-name="✦✦TR SPOR✦✦" tvg-logo="http://bluelogo8990.duckdns.org:8080/LOGO/TR/BAYRAK.png" group-title="TR ✦ SPORT ARENA",✦✦TR SPOR✦✦
 http://smarterss.xyz:2095/bbkr5838tv/bbrk0505yy00/82918
 #EXTINF:-1 tvg-id="trtspor.tr" tvg-name="TR: TRT SPOR FHD" tvg-logo="http://bluelogo8990.duckdns.org:8080/LOGO.YENI/TR/TR.SPOR/TRT.SPOR.png" group-title="TR ✦ SPORT ARENA",TR: TRT SPOR FHD
@@ -1387,178 +1241,6 @@ http://smarterss.xyz:2095/bbkr5838tv/bbrk0505yy00/146644
 http://smarterss.xyz:2095/bbkr5838tv/bbrk0505yy00/38622
 #EXTINF:-1 tvg-id="" tvg-name="TR: TRABZONSPOR TEKRAR" tvg-logo="http://bluelogo8990.duckdns.org:8080/LOGO.YENI/TR/OZET/trabzonspor.png" group-title="TR ✦ SüPERLiG öZET & TEKRAR",TR: TRABZONSPOR TEKRAR
 http://smarterss.xyz:2095/bbkr5838tv/bbrk0505yy00/124465
-#EXTINF:-1 tvg-id="" tvg-name="UFC FIGHT PASS 1" tvg-logo="http://bluelogo8990.duckdns.org:8080/LOGO.YENI/UFC/1.png" group-title="EU ✦ UFC FIGHT PASS",UFC FIGHT PASS 1
-http://smarterss.xyz:2095/bbkr5838tv/bbrk0505yy00/144515
-#EXTINF:-1 tvg-id="" tvg-name="UFC FIGHT PASS 2" tvg-logo="http://bluelogo8990.duckdns.org:8080/LOGO.YENI/UFC/2.png" group-title="EU ✦ UFC FIGHT PASS",UFC FIGHT PASS 2
-http://smarterss.xyz:2095/bbkr5838tv/bbrk0505yy00/125442
-#EXTINF:-1 tvg-id="" tvg-name="UFC FIGHT PASS 3" tvg-logo="http://bluelogo8990.duckdns.org:8080/LOGO.YENI/UFC/3.png" group-title="EU ✦ UFC FIGHT PASS",UFC FIGHT PASS 3
-http://smarterss.xyz:2095/bbkr5838tv/bbrk0505yy00/30211
-#EXTINF:-1 tvg-id="" tvg-name="UFC FIGHT PASS 4" tvg-logo="http://bluelogo8990.duckdns.org:8080/LOGO.YENI/UFC/4.png" group-title="EU ✦ UFC FIGHT PASS",UFC FIGHT PASS 4
-http://smarterss.xyz:2095/bbkr5838tv/bbrk0505yy00/115665
-#EXTINF:-1 tvg-id="" tvg-name="UFC FIGHT PASS 5" tvg-logo="http://bluelogo8990.duckdns.org:8080/LOGO.YENI/UFC/5.png" group-title="EU ✦ UFC FIGHT PASS",UFC FIGHT PASS 5
-http://smarterss.xyz:2095/bbkr5838tv/bbrk0505yy00/153162
-#EXTINF:-1 tvg-id="" tvg-name="UFC FIGHT PASS 6" tvg-logo="http://bluelogo8990.duckdns.org:8080/LOGO.YENI/UFC/6.png" group-title="EU ✦ UFC FIGHT PASS",UFC FIGHT PASS 6
-http://smarterss.xyz:2095/bbkr5838tv/bbrk0505yy00/44592
-#EXTINF:-1 tvg-id="" tvg-name="UFC FIGHT PASS 7" tvg-logo="http://bluelogo8990.duckdns.org:8080/LOGO.YENI/UFC/7.png" group-title="EU ✦ UFC FIGHT PASS",UFC FIGHT PASS 7
-http://smarterss.xyz:2095/bbkr5838tv/bbrk0505yy00/100862
-#EXTINF:-1 tvg-id="" tvg-name="UFC FIGHT PASS 8" tvg-logo="http://bluelogo8990.duckdns.org:8080/LOGO.YENI/UFC/8.png" group-title="EU ✦ UFC FIGHT PASS",UFC FIGHT PASS 8
-http://smarterss.xyz:2095/bbkr5838tv/bbrk0505yy00/37363
-#EXTINF:-1 tvg-id="" tvg-name="UFC FIGHT PASS 9" tvg-logo="http://bluelogo8990.duckdns.org:8080/LOGO.YENI/UFC/9.png" group-title="EU ✦ UFC FIGHT PASS",UFC FIGHT PASS 9
-http://smarterss.xyz:2095/bbkr5838tv/bbrk0505yy00/74391
-#EXTINF:-1 tvg-id="" tvg-name="UFC FIGHT PASS 10" tvg-logo="http://bluelogo8990.duckdns.org:8080/LOGO.YENI/UFC/10.png" group-title="EU ✦ UFC FIGHT PASS",UFC FIGHT PASS 10
-http://smarterss.xyz:2095/bbkr5838tv/bbrk0505yy00/135354
-#EXTINF:-1 tvg-id="" tvg-name="NBA TV" tvg-logo="http://bluelogo8990.duckdns.org:8080/LOGO.YENI/NBA/PASS.png" group-title="EU ✦ NBA LEAUGE PASS",NBA TV
-http://smarterss.xyz:2095/bbkr5838tv/bbrk0505yy00/46281
-#EXTINF:-1 tvg-id="" tvg-name="NBA League Pass 1" tvg-logo="http://bluelogo8990.duckdns.org:8080/LOGO.YENI/NBA/PASS.png" group-title="EU ✦ NBA LEAUGE PASS",NBA League Pass 1
-http://smarterss.xyz:2095/bbkr5838tv/bbrk0505yy00/136595
-#EXTINF:-1 tvg-id="" tvg-name="NBA League Pass 2" tvg-logo="http://bluelogo8990.duckdns.org:8080/LOGO.YENI/NBA/PASS.png" group-title="EU ✦ NBA LEAUGE PASS",NBA League Pass 2
-http://smarterss.xyz:2095/bbkr5838tv/bbrk0505yy00/12946
-#EXTINF:-1 tvg-id="" tvg-name="NBA League Pass 3" tvg-logo="http://bluelogo8990.duckdns.org:8080/LOGO.YENI/NBA/PASS.png" group-title="EU ✦ NBA LEAUGE PASS",NBA League Pass 3
-http://smarterss.xyz:2095/bbkr5838tv/bbrk0505yy00/82559
-#EXTINF:-1 tvg-id="" tvg-name="NBA League Pass 4" tvg-logo="http://bluelogo8990.duckdns.org:8080/LOGO.YENI/NBA/PASS.png" group-title="EU ✦ NBA LEAUGE PASS",NBA League Pass 4
-http://smarterss.xyz:2095/bbkr5838tv/bbrk0505yy00/141775
-#EXTINF:-1 tvg-id="" tvg-name="NBA League Pass 5" tvg-logo="http://bluelogo8990.duckdns.org:8080/LOGO.YENI/NBA/PASS.png" group-title="EU ✦ NBA LEAUGE PASS",NBA League Pass 5
-http://smarterss.xyz:2095/bbkr5838tv/bbrk0505yy00/156393
-#EXTINF:-1 tvg-id="" tvg-name="NBA League Pass 6" tvg-logo="http://bluelogo8990.duckdns.org:8080/LOGO.YENI/NBA/PASS.png" group-title="EU ✦ NBA LEAUGE PASS",NBA League Pass 6
-http://smarterss.xyz:2095/bbkr5838tv/bbrk0505yy00/157241
-#EXTINF:-1 tvg-id="" tvg-name="NBA League Pass 7" tvg-logo="http://bluelogo8990.duckdns.org:8080/LOGO.YENI/NBA/PASS.png" group-title="EU ✦ NBA LEAUGE PASS",NBA League Pass 7
-http://smarterss.xyz:2095/bbkr5838tv/bbrk0505yy00/107824
-#EXTINF:-1 tvg-id="" tvg-name="NBA League Pass 8" tvg-logo="http://bluelogo8990.duckdns.org:8080/LOGO.YENI/NBA/PASS.png" group-title="EU ✦ NBA LEAUGE PASS",NBA League Pass 8
-http://smarterss.xyz:2095/bbkr5838tv/bbrk0505yy00/66304
-#EXTINF:-1 tvg-id="" tvg-name="NBA League Pass 9" tvg-logo="http://bluelogo8990.duckdns.org:8080/LOGO.YENI/NBA/PASS.png" group-title="EU ✦ NBA LEAUGE PASS",NBA League Pass 9
-http://smarterss.xyz:2095/bbkr5838tv/bbrk0505yy00/21499
-#EXTINF:-1 tvg-id="" tvg-name="NBA League Pass 10" tvg-logo="http://bluelogo8990.duckdns.org:8080/LOGO.YENI/NBA/PASS.png" group-title="EU ✦ NBA LEAUGE PASS",NBA League Pass 10
-http://smarterss.xyz:2095/bbkr5838tv/bbrk0505yy00/35826
-#EXTINF:-1 tvg-id="" tvg-name="NBA League Pass 11" tvg-logo="http://bluelogo8990.duckdns.org:8080/LOGO.YENI/NBA/PASS.png" group-title="EU ✦ NBA LEAUGE PASS",NBA League Pass 11
-http://smarterss.xyz:2095/bbkr5838tv/bbrk0505yy00/124735
-#EXTINF:-1 tvg-id="" tvg-name="NBA League Pass 12" tvg-logo="http://bluelogo8990.duckdns.org:8080/LOGO.YENI/NBA/PASS.png" group-title="EU ✦ NBA LEAUGE PASS",NBA League Pass 12
-http://smarterss.xyz:2095/bbkr5838tv/bbrk0505yy00/132541
-#EXTINF:-1 tvg-id="" tvg-name="NBA League Pass 13" tvg-logo="http://bluelogo8990.duckdns.org:8080/LOGO.YENI/NBA/PASS.png" group-title="EU ✦ NBA LEAUGE PASS",NBA League Pass 13
-http://smarterss.xyz:2095/bbkr5838tv/bbrk0505yy00/301
-#EXTINF:-1 tvg-id="" tvg-name="NBA League Pass 14" tvg-logo="http://bluelogo8990.duckdns.org:8080/LOGO.YENI/NBA/PASS.png" group-title="EU ✦ NBA LEAUGE PASS",NBA League Pass 14
-http://smarterss.xyz:2095/bbkr5838tv/bbrk0505yy00/2107
-#EXTINF:-1 tvg-id="" tvg-name="NBA League Pass 15" tvg-logo="http://bluelogo8990.duckdns.org:8080/LOGO.YENI/NBA/PASS.png" group-title="EU ✦ NBA LEAUGE PASS",NBA League Pass 15
-http://smarterss.xyz:2095/bbkr5838tv/bbrk0505yy00/20543
-#EXTINF:-1 tvg-id="" tvg-name="NBA League Pass 16" tvg-logo="http://bluelogo8990.duckdns.org:8080/LOGO.YENI/NBA/PASS.png" group-title="EU ✦ NBA LEAUGE PASS",NBA League Pass 16
-http://smarterss.xyz:2095/bbkr5838tv/bbrk0505yy00/158493
-#EXTINF:-1 tvg-id="" tvg-name="NBA League Pass 17" tvg-logo="http://bluelogo8990.duckdns.org:8080/LOGO.YENI/NBA/PASS.png" group-title="EU ✦ NBA LEAUGE PASS",NBA League Pass 17
-http://smarterss.xyz:2095/bbkr5838tv/bbrk0505yy00/86999
-#EXTINF:-1 tvg-id="" tvg-name="NBA League Pass 18" tvg-logo="" group-title="",NBA League Pass 18
-http://smarterss.xyz:2095/bbkr5838tv/bbrk0505yy00/109127
-#EXTINF:-1 tvg-id="" tvg-name="NBA League Pass 19" tvg-logo="http://bluelogo8990.duckdns.org:8080/LOGO.YENI/NBA/PASS.png" group-title="EU ✦ NBA LEAUGE PASS",NBA League Pass 19
-http://smarterss.xyz:2095/bbkr5838tv/bbrk0505yy00/151227
-#EXTINF:-1 tvg-id="" tvg-name="NBA League Pass 20" tvg-logo="http://bluelogo8990.duckdns.org:8080/LOGO.YENI/NBA/PASS.png" group-title="EU ✦ NBA LEAUGE PASS",NBA League Pass 20
-http://smarterss.xyz:2095/bbkr5838tv/bbrk0505yy00/13361
-#EXTINF:-1 tvg-id="" tvg-name="NBA League Pass 21" tvg-logo="http://bluelogo8990.duckdns.org:8080/LOGO.YENI/NBA/PASS.png" group-title="EU ✦ NBA LEAUGE PASS",NBA League Pass 21
-http://smarterss.xyz:2095/bbkr5838tv/bbrk0505yy00/64515
-#EXTINF:-1 tvg-id="" tvg-name="NBA League Pass 22" tvg-logo="http://bluelogo8990.duckdns.org:8080/LOGO.YENI/NBA/PASS.png" group-title="EU ✦ NBA LEAUGE PASS",NBA League Pass 22
-http://smarterss.xyz:2095/bbkr5838tv/bbrk0505yy00/131600
-#EXTINF:-1 tvg-id="" tvg-name="NBA League Pass 23" tvg-logo="http://bluelogo8990.duckdns.org:8080/LOGO.YENI/NBA/PASS.png" group-title="EU ✦ NBA LEAUGE PASS",NBA League Pass 23
-http://smarterss.xyz:2095/bbkr5838tv/bbrk0505yy00/164058
-#EXTINF:-1 tvg-id="" tvg-name="NBA League Pass 24" tvg-logo="http://bluelogo8990.duckdns.org:8080/LOGO.YENI/NBA/PASS.png" group-title="EU ✦ NBA LEAUGE PASS",NBA League Pass 24
-http://smarterss.xyz:2095/bbkr5838tv/bbrk0505yy00/155449
-#EXTINF:-1 tvg-id="" tvg-name="NBA League Pass 25" tvg-logo="http://bluelogo8990.duckdns.org:8080/LOGO.YENI/NBA/PASS.png" group-title="EU ✦ NBA LEAUGE PASS",NBA League Pass 25
-http://smarterss.xyz:2095/bbkr5838tv/bbrk0505yy00/118938
-#EXTINF:-1 tvg-id="" tvg-name="NBA League Pass 26" tvg-logo="http://bluelogo8990.duckdns.org:8080/LOGO.YENI/NBA/PASS.png" group-title="EU ✦ NBA LEAUGE PASS",NBA League Pass 26
-http://smarterss.xyz:2095/bbkr5838tv/bbrk0505yy00/13135
-#EXTINF:-1 tvg-id="" tvg-name="NBA League Pass 27" tvg-logo="http://bluelogo8990.duckdns.org:8080/LOGO.YENI/NBA/PASS.png" group-title="EU ✦ NBA LEAUGE PASS",NBA League Pass 27
-http://smarterss.xyz:2095/bbkr5838tv/bbrk0505yy00/53004
-#EXTINF:-1 tvg-id="" tvg-name="NBA League Pass 28" tvg-logo="http://bluelogo8990.duckdns.org:8080/LOGO.YENI/NBA/PASS.png" group-title="EU ✦ NBA LEAUGE PASS",NBA League Pass 28
-http://smarterss.xyz:2095/bbkr5838tv/bbrk0505yy00/68339
-#EXTINF:-1 tvg-id="" tvg-name="NBA League Pass 29" tvg-logo="http://bluelogo8990.duckdns.org:8080/LOGO.YENI/NBA/PASS.png" group-title="EU ✦ NBA LEAUGE PASS",NBA League Pass 29
-http://smarterss.xyz:2095/bbkr5838tv/bbrk0505yy00/111237
-#EXTINF:-1 tvg-id="" tvg-name="NBA League Pass 30" tvg-logo="http://bluelogo8990.duckdns.org:8080/LOGO.YENI/NBA/PASS.png" group-title="EU ✦ NBA LEAUGE PASS",NBA League Pass 30
-http://smarterss.xyz:2095/bbkr5838tv/bbrk0505yy00/136309
-#EXTINF:-1 tvg-id="" tvg-name="NBA League Pass 31" tvg-logo="http://bluelogo8990.duckdns.org:8080/LOGO.YENI/NBA/PASS.png" group-title="EU ✦ NBA LEAUGE PASS",NBA League Pass 31
-http://smarterss.xyz:2095/bbkr5838tv/bbrk0505yy00/55465
-#EXTINF:-1 tvg-id="" tvg-name="NBA League Pass 32" tvg-logo="http://bluelogo8990.duckdns.org:8080/LOGO.YENI/NBA/PASS.png" group-title="EU ✦ NBA LEAUGE PASS",NBA League Pass 32
-http://smarterss.xyz:2095/bbkr5838tv/bbrk0505yy00/55627
-#EXTINF:-1 tvg-id="" tvg-name="NBA League Pass 33" tvg-logo="http://bluelogo8990.duckdns.org:8080/LOGO.YENI/NBA/PASS.png" group-title="EU ✦ NBA LEAUGE PASS",NBA League Pass 33
-http://smarterss.xyz:2095/bbkr5838tv/bbrk0505yy00/112931
-#EXTINF:-1 tvg-id="" tvg-name="NBA League Pass 34" tvg-logo="http://bluelogo8990.duckdns.org:8080/LOGO.YENI/NBA/PASS.png" group-title="EU ✦ NBA LEAUGE PASS",NBA League Pass 34
-http://smarterss.xyz:2095/bbkr5838tv/bbrk0505yy00/142412
-#EXTINF:-1 tvg-id="" tvg-name="NBA League Pass 35" tvg-logo="http://bluelogo8990.duckdns.org:8080/LOGO.YENI/NBA/PASS.png" group-title="EU ✦ NBA LEAUGE PASS",NBA League Pass 35
-http://smarterss.xyz:2095/bbkr5838tv/bbrk0505yy00/36968
-#EXTINF:-1 tvg-id="" tvg-name="NBA League Pass 36" tvg-logo="http://bluelogo8990.duckdns.org:8080/LOGO.YENI/NBA/PASS.png" group-title="EU ✦ NBA LEAUGE PASS",NBA League Pass 36
-http://smarterss.xyz:2095/bbkr5838tv/bbrk0505yy00/97349
-#EXTINF:-1 tvg-id="" tvg-name="NBA League Pass 37" tvg-logo="http://bluelogo8990.duckdns.org:8080/LOGO.YENI/NBA/PASS.png" group-title="EU ✦ NBA LEAUGE PASS",NBA League Pass 37
-http://smarterss.xyz:2095/bbkr5838tv/bbrk0505yy00/16367
-#EXTINF:-1 tvg-id="" tvg-name="NBA League Pass 38" tvg-logo="http://bluelogo8990.duckdns.org:8080/LOGO.YENI/NBA/PASS.png" group-title="EU ✦ NBA LEAUGE PASS",NBA League Pass 38
-http://smarterss.xyz:2095/bbkr5838tv/bbrk0505yy00/75946
-#EXTINF:-1 tvg-id="" tvg-name="NBA League Pass 39" tvg-logo="http://bluelogo8990.duckdns.org:8080/LOGO.YENI/NBA/PASS.png" group-title="EU ✦ NBA LEAUGE PASS",NBA League Pass 39
-http://smarterss.xyz:2095/bbkr5838tv/bbrk0505yy00/137080
-#EXTINF:-1 tvg-id="" tvg-name="NBA League Pass 40" tvg-logo="http://bluelogo8990.duckdns.org:8080/LOGO.YENI/NBA/PASS.png" group-title="EU ✦ NBA LEAUGE PASS",NBA League Pass 40
-http://smarterss.xyz:2095/bbkr5838tv/bbrk0505yy00/159801
-#EXTINF:-1 tvg-id="" tvg-name="NBA League Pass 41" tvg-logo="http://bluelogo8990.duckdns.org:8080/LOGO.YENI/NBA/PASS.png" group-title="EU ✦ NBA LEAUGE PASS",NBA League Pass 41
-http://smarterss.xyz:2095/bbkr5838tv/bbrk0505yy00/163416
-#EXTINF:-1 tvg-id="" tvg-name="NBA League Pass 42" tvg-logo="http://bluelogo8990.duckdns.org:8080/LOGO.YENI/NBA/PASS.png" group-title="EU ✦ NBA LEAUGE PASS",NBA League Pass 42
-http://smarterss.xyz:2095/bbkr5838tv/bbrk0505yy00/116186
-#EXTINF:-1 tvg-id="" tvg-name="NBA League Pass 43" tvg-logo="http://bluelogo8990.duckdns.org:8080/LOGO.YENI/NBA/PASS.png" group-title="EU ✦ NBA LEAUGE PASS",NBA League Pass 43
-http://smarterss.xyz:2095/bbkr5838tv/bbrk0505yy00/84809
-#EXTINF:-1 tvg-id="" tvg-name="NBA League Pass 44" tvg-logo="http://bluelogo8990.duckdns.org:8080/LOGO.YENI/NBA/PASS.png" group-title="EU ✦ NBA LEAUGE PASS",NBA League Pass 44
-http://smarterss.xyz:2095/bbkr5838tv/bbrk0505yy00/151999
-#EXTINF:-1 tvg-id="" tvg-name="NBA League Pass 45" tvg-logo="http://bluelogo8990.duckdns.org:8080/LOGO.YENI/NBA/PASS.png" group-title="EU ✦ NBA LEAUGE PASS",NBA League Pass 45
-http://smarterss.xyz:2095/bbkr5838tv/bbrk0505yy00/11758
-#EXTINF:-1 tvg-id="" tvg-name="NBA League Pass 46" tvg-logo="http://bluelogo8990.duckdns.org:8080/LOGO.YENI/NBA/PASS.png" group-title="EU ✦ NBA LEAUGE PASS",NBA League Pass 46
-http://smarterss.xyz:2095/bbkr5838tv/bbrk0505yy00/24731
-#EXTINF:-1 tvg-id="" tvg-name="NBA League Pass 47" tvg-logo="http://bluelogo8990.duckdns.org:8080/LOGO.YENI/NBA/PASS.png" group-title="EU ✦ NBA LEAUGE PASS",NBA League Pass 47
-http://smarterss.xyz:2095/bbkr5838tv/bbrk0505yy00/25487
-#EXTINF:-1 tvg-id="" tvg-name="NBA League Pass 48" tvg-logo="http://bluelogo8990.duckdns.org:8080/LOGO.YENI/NBA/PASS.png" group-title="EU ✦ NBA LEAUGE PASS",NBA League Pass 48
-http://smarterss.xyz:2095/bbkr5838tv/bbrk0505yy00/108189
-#EXTINF:-1 tvg-id="" tvg-name="NBA League Pass 49" tvg-logo="http://bluelogo8990.duckdns.org:8080/LOGO.YENI/NBA/PASS.png" group-title="EU ✦ NBA LEAUGE PASS",NBA League Pass 49
-http://smarterss.xyz:2095/bbkr5838tv/bbrk0505yy00/108261
-#EXTINF:-1 tvg-id="" tvg-name="NBA League Pass 50" tvg-logo="http://bluelogo8990.duckdns.org:8080/LOGO.YENI/NBA/PASS.png" group-title="EU ✦ NBA LEAUGE PASS",NBA League Pass 50
-http://smarterss.xyz:2095/bbkr5838tv/bbrk0505yy00/59526
-#EXTINF:-1 tvg-id="" tvg-name="NBA League Pass 51" tvg-logo="http://bluelogo8990.duckdns.org:8080/LOGO.YENI/NBA/PASS.png" group-title="EU ✦ NBA LEAUGE PASS",NBA League Pass 51
-http://smarterss.xyz:2095/bbkr5838tv/bbrk0505yy00/170406
-#EXTINF:-1 tvg-id="" tvg-name="NBA League Pass 52" tvg-logo="http://bluelogo8990.duckdns.org:8080/LOGO.YENI/NBA/PASS.png" group-title="EU ✦ NBA LEAUGE PASS",NBA League Pass 52
-http://smarterss.xyz:2095/bbkr5838tv/bbrk0505yy00/170407
-#EXTINF:-1 tvg-id="" tvg-name="NBA League Pass 53" tvg-logo="http://bluelogo8990.duckdns.org:8080/LOGO.YENI/NBA/PASS.png" group-title="EU ✦ NBA LEAUGE PASS",NBA League Pass 53
-http://smarterss.xyz:2095/bbkr5838tv/bbrk0505yy00/170408
-#EXTINF:-1 tvg-id="" tvg-name="NBA League Pass 54" tvg-logo="http://bluelogo8990.duckdns.org:8080/LOGO.YENI/NBA/PASS.png" group-title="EU ✦ NBA LEAUGE PASS",NBA League Pass 54
-http://smarterss.xyz:2095/bbkr5838tv/bbrk0505yy00/170409
-#EXTINF:-1 tvg-id="" tvg-name="NBA League Pass 55" tvg-logo="http://bluelogo8990.duckdns.org:8080/LOGO.YENI/NBA/PASS.png" group-title="EU ✦ NBA LEAUGE PASS",NBA League Pass 55
-http://smarterss.xyz:2095/bbkr5838tv/bbrk0505yy00/170410
-#EXTINF:-1 tvg-id="" tvg-name="NBA League Pass 56" tvg-logo="http://bluelogo8990.duckdns.org:8080/LOGO.YENI/NBA/PASS.png" group-title="EU ✦ NBA LEAUGE PASS",NBA League Pass 56
-http://smarterss.xyz:2095/bbkr5838tv/bbrk0505yy00/170411
-#EXTINF:-1 tvg-id="" tvg-name="NBA League Pass 57" tvg-logo="http://bluelogo8990.duckdns.org:8080/LOGO.YENI/NBA/PASS.png" group-title="EU ✦ NBA LEAUGE PASS",NBA League Pass 57
-http://smarterss.xyz:2095/bbkr5838tv/bbrk0505yy00/170412
-#EXTINF:-1 tvg-id="" tvg-name="NBA League Pass 58" tvg-logo="http://bluelogo8990.duckdns.org:8080/LOGO.YENI/NBA/PASS.png" group-title="EU ✦ NBA LEAUGE PASS",NBA League Pass 58
-http://smarterss.xyz:2095/bbkr5838tv/bbrk0505yy00/170413
-#EXTINF:-1 tvg-id="" tvg-name="NBA League Pass 59" tvg-logo="http://bluelogo8990.duckdns.org:8080/LOGO.YENI/NBA/PASS.png" group-title="EU ✦ NBA LEAUGE PASS",NBA League Pass 59
-http://smarterss.xyz:2095/bbkr5838tv/bbrk0505yy00/170414
-#EXTINF:-1 tvg-id="" tvg-name="NBA League Pass 60" tvg-logo="http://bluelogo8990.duckdns.org:8080/LOGO.YENI/NBA/PASS.png" group-title="EU ✦ NBA LEAUGE PASS",NBA League Pass 60
-http://smarterss.xyz:2095/bbkr5838tv/bbrk0505yy00/170415
-#EXTINF:-1 tvg-id="" tvg-name="NBA League Pass 61" tvg-logo="http://bluelogo8990.duckdns.org:8080/LOGO.YENI/NBA/PASS.png" group-title="EU ✦ NBA LEAUGE PASS",NBA League Pass 61
-http://smarterss.xyz:2095/bbkr5838tv/bbrk0505yy00/170416
-#EXTINF:-1 tvg-id="" tvg-name="NBA League Pass 62" tvg-logo="http://bluelogo8990.duckdns.org:8080/LOGO.YENI/NBA/PASS.png" group-title="EU ✦ NBA LEAUGE PASS",NBA League Pass 62
-http://smarterss.xyz:2095/bbkr5838tv/bbrk0505yy00/170417
-#EXTINF:-1 tvg-id="" tvg-name="NBA League Pass 63" tvg-logo="http://bluelogo8990.duckdns.org:8080/LOGO.YENI/NBA/PASS.png" group-title="EU ✦ NBA LEAUGE PASS",NBA League Pass 63
-http://smarterss.xyz:2095/bbkr5838tv/bbrk0505yy00/170418
-#EXTINF:-1 tvg-id="" tvg-name="NBA League Pass 64" tvg-logo="http://bluelogo8990.duckdns.org:8080/LOGO.YENI/NBA/PASS.png" group-title="EU ✦ NBA LEAUGE PASS",NBA League Pass 64
-http://smarterss.xyz:2095/bbkr5838tv/bbrk0505yy00/170419
-#EXTINF:-1 tvg-id="" tvg-name="NBA League Pass 65" tvg-logo="http://bluelogo8990.duckdns.org:8080/LOGO.YENI/NBA/PASS.png" group-title="EU ✦ NBA LEAUGE PASS",NBA League Pass 65
-http://smarterss.xyz:2095/bbkr5838tv/bbrk0505yy00/170420
-#EXTINF:-1 tvg-id="" tvg-name="NBA League Pass 66" tvg-logo="http://bluelogo8990.duckdns.org:8080/LOGO.YENI/NBA/PASS.png" group-title="EU ✦ NBA LEAUGE PASS",NBA League Pass 66
-http://smarterss.xyz:2095/bbkr5838tv/bbrk0505yy00/170421
-#EXTINF:-1 tvg-id="" tvg-name="NBA League Pass 67" tvg-logo="http://bluelogo8990.duckdns.org:8080/LOGO.YENI/NBA/PASS.png" group-title="EU ✦ NBA LEAUGE PASS",NBA League Pass 67
-http://smarterss.xyz:2095/bbkr5838tv/bbrk0505yy00/170422
-#EXTINF:-1 tvg-id="" tvg-name="NBA League Pass 68" tvg-logo="http://bluelogo8990.duckdns.org:8080/LOGO.YENI/NBA/PASS.png" group-title="EU ✦ NBA LEAUGE PASS",NBA League Pass 68
-http://smarterss.xyz:2095/bbkr5838tv/bbrk0505yy00/170423
-#EXTINF:-1 tvg-id="" tvg-name="NBA League Pass 69" tvg-logo="http://bluelogo8990.duckdns.org:8080/LOGO.YENI/NBA/PASS.png" group-title="EU ✦ NBA LEAUGE PASS",NBA League Pass 69
-http://smarterss.xyz:2095/bbkr5838tv/bbrk0505yy00/170424
-#EXTINF:-1 tvg-id="" tvg-name="NBA League Pass 70" tvg-logo="http://bluelogo8990.duckdns.org:8080/LOGO.YENI/NBA/PASS.png" group-title="EU ✦ NBA LEAUGE PASS",NBA League Pass 70
-http://smarterss.xyz:2095/bbkr5838tv/bbrk0505yy00/170425
-#EXTINF:-1 tvg-id="" tvg-name="NBA League Pass 71" tvg-logo="http://bluelogo8990.duckdns.org:8080/LOGO.YENI/NBA/PASS.png" group-title="EU ✦ NBA LEAUGE PASS",NBA League Pass 71
-http://smarterss.xyz:2095/bbkr5838tv/bbrk0505yy00/170426
-#EXTINF:-1 tvg-id="" tvg-name="NBA League Pass 72" tvg-logo="http://bluelogo8990.duckdns.org:8080/LOGO.YENI/NBA/PASS.png" group-title="EU ✦ NBA LEAUGE PASS",NBA League Pass 72
-http://smarterss.xyz:2095/bbkr5838tv/bbrk0505yy00/170427
-#EXTINF:-1 tvg-id="" tvg-name="NBA League Pass 73" tvg-logo="http://bluelogo8990.duckdns.org:8080/LOGO.YENI/NBA/PASS.png" group-title="EU ✦ NBA LEAUGE PASS",NBA League Pass 73
-http://smarterss.xyz:2095/bbkr5838tv/bbrk0505yy00/170428
-#EXTINF:-1 tvg-id="" tvg-name="NBA League Pass 74" tvg-logo="http://bluelogo8990.duckdns.org:8080/LOGO.YENI/NBA/PASS.png" group-title="EU ✦ NBA LEAUGE PASS",NBA League Pass 74
-http://smarterss.xyz:2095/bbkr5838tv/bbrk0505yy00/170429
-#EXTINF:-1 tvg-id="" tvg-name="NBA League Pass 75" tvg-logo="http://bluelogo8990.duckdns.org:8080/LOGO.YENI/NBA/PASS.png" group-title="EU ✦ NBA LEAUGE PASS",NBA League Pass 75
-http://smarterss.xyz:2095/bbkr5838tv/bbrk0505yy00/170430
 #EXTINF:-1 tvg-id="" tvg-name="TR: bE*IN CONNECT 7" tvg-logo="http://bluelogo8990.duckdns.org:8080/LOGO.YENI/TR/BEIN.Y/CONNECT.7.png" group-title="TR ✦ be*IN SPORTS LIVE",TR: bE*IN CONNECT 7
 http://smarterss.xyz:2095/bbkr5838tv/bbrk0505yy00/19677
 #EXTINF:-1 tvg-id="" tvg-name="TR: be*IN CONNECT 8" tvg-logo="http://bluelogo8990.duckdns.org:8080/LOGO.YENI/TR/BEIN.Y/CONNECT.8.png" group-title="TR ✦ be*IN SPORTS LIVE",TR: be*IN CONNECT 8
@@ -1871,146 +1553,6 @@ http://smarterss.xyz:2095/bbkr5838tv/bbrk0505yy00/213810
 http://smarterss.xyz:2095/bbkr5838tv/bbrk0505yy00/213806
 #EXTINF:-1 tvg-id="" tvg-name="TR: TYT TÜRK HD" tvg-logo="" group-title="TR ✦ YEREL",TR: TYT TÜRK HD
 http://smarterss.xyz:2095/bbkr5838tv/bbrk0505yy00/180744
-#EXTINF:-1 tvg-id="" tvg-name="TR: KÖY TV" tvg-logo="http://bluelogo8990.duckdns.org:8080/LOGO.YENI/TR/YEREL/KOY.TV.png" group-title="TR ✦ YEREL",TR: KÖY TV
-http://smarterss.xyz:2095/bbkr5838tv/bbrk0505yy00/6853
-#EXTINF:-1 tvg-id="" tvg-name="TR: TV 264" tvg-logo="http://bluelogo8990.duckdns.org:8080/LOGO.YENI/TR/YEREL/TV.264.png" group-title="TR ✦ YEREL",TR: TV 264
-http://smarterss.xyz:2095/bbkr5838tv/bbrk0505yy00/141209
-#EXTINF:-1 tvg-id="" tvg-name="TR: MERCAN TV" tvg-logo="http://bluelogo8990.duckdns.org:8080/LOGO.YENI/TR/YEREL/MERCAN.png" group-title="TR ✦ YEREL",TR: MERCAN TV
-http://smarterss.xyz:2095/bbkr5838tv/bbrk0505yy00/53352
-#EXTINF:-1 tvg-id="" tvg-name="TR: TV 42" tvg-logo="http://bluelogo8990.duckdns.org:8080/LOGO.YENI/TR/YEREL/TV.42.png" group-title="TR ✦ YEREL",TR: TV 42
-http://smarterss.xyz:2095/bbkr5838tv/bbrk0505yy00/139920
-#EXTINF:-1 tvg-id="" tvg-name="TR: EKINTÜRK" tvg-logo="http://bluelogo8990.duckdns.org:8080/LOGO.YENI/TR/YEREL/EKIN.TURK.png" group-title="TR ✦ YEREL",TR: EKINTÜRK
-http://smarterss.xyz:2095/bbkr5838tv/bbrk0505yy00/96419
-#EXTINF:-1 tvg-id="" tvg-name="TR: LIDER TV" tvg-logo="http://bluelogo8990.duckdns.org:8080/LOGO.YENI/TR/YEREL/LIDER.TV.png" group-title="TR ✦ YEREL",TR: LIDER TV
-http://smarterss.xyz:2095/bbkr5838tv/bbrk0505yy00/131087
-#EXTINF:-1 tvg-id="" tvg-name="TR: BIR TV" tvg-logo="http://bluelogo8990.duckdns.org:8080/LOGO.YENI/TR/YEREL/BIR.TV.png" group-title="TR ✦ YEREL",TR: BIR TV
-http://smarterss.xyz:2095/bbkr5838tv/bbrk0505yy00/146109
-#EXTINF:-1 tvg-id="" tvg-name="TR: KANAL 15" tvg-logo="http://bluelogo8990.duckdns.org:8080/LOGO.YENI/TR/YEREL/KANAL.15.png" group-title="TR ✦ YEREL",TR: KANAL 15
-http://smarterss.xyz:2095/bbkr5838tv/bbrk0505yy00/99904
-#EXTINF:-1 tvg-id="" tvg-name="TR: KANAL 3" tvg-logo="http://bluelogo8990.duckdns.org:8080/LOGO.YENI/TR/YEREL/KANAL.3.png" group-title="TR ✦ YEREL",TR: KANAL 3
-http://smarterss.xyz:2095/bbkr5838tv/bbrk0505yy00/58719
-#EXTINF:-1 tvg-id="" tvg-name="TR: KANAL 58" tvg-logo="http://bluelogo8990.duckdns.org:8080/LOGO.YENI/TR/YEREL/KANAL.58.png" group-title="TR ✦ YEREL",TR: KANAL 58
-http://smarterss.xyz:2095/bbkr5838tv/bbrk0505yy00/58881
-#EXTINF:-1 tvg-id="" tvg-name="TR: KENT TÜRK" tvg-logo="http://bluelogo8990.duckdns.org:8080/LOGO.YENI/TR/YEREL/KENT.TURK.png" group-title="TR ✦ YEREL",TR: KENT TÜRK
-http://smarterss.xyz:2095/bbkr5838tv/bbrk0505yy00/122837
-#EXTINF:-1 tvg-id="" tvg-name="TR: GÜNES TV" tvg-logo="http://bluelogo8990.duckdns.org:8080/LOGO.YENI/TR/YEREL/GUNES.png" group-title="TR ✦ YEREL",TR: GÜNES TV
-http://smarterss.xyz:2095/bbkr5838tv/bbrk0505yy00/64621
-#EXTINF:-1 tvg-id="" tvg-name="TR: BEA TV" tvg-logo="http://bluelogo8990.duckdns.org:8080/LOGO.YENI/TR/YEREL/BEA.png" group-title="TR ✦ YEREL",TR: BEA TV
-http://smarterss.xyz:2095/bbkr5838tv/bbrk0505yy00/94460
-#EXTINF:-1 tvg-id="" tvg-name="TR: KANAL 12" tvg-logo="http://bluelogo8990.duckdns.org:8080/LOGO.YENI/TR/SONRADAN/KANAL.12.png" group-title="TR ✦ YEREL",TR: KANAL 12
-http://smarterss.xyz:2095/bbkr5838tv/bbrk0505yy00/173955
-#EXTINF:-1 tvg-id="" tvg-name="TR: ANADOLUM TV FHD" tvg-logo="http://bluelogo8990.duckdns.org:8080/LOGO.YENI/TR/SONRADAN/ANADOLUM.png" group-title="TR ✦ YEREL",TR: ANADOLUM TV FHD
-http://smarterss.xyz:2095/bbkr5838tv/bbrk0505yy00/173953
-#EXTINF:-1 tvg-id="" tvg-name="TR: EGE MAX TV FHD" tvg-logo="http://bluelogo8990.duckdns.org:8080/LOGO.YENI/TR/SONRADAN/EGEMAX.png" group-title="TR ✦ YEREL",TR: EGE MAX TV FHD
-http://smarterss.xyz:2095/bbkr5838tv/bbrk0505yy00/173951
-#EXTINF:-1 tvg-id="" tvg-name="TR: ASFTV" tvg-logo="http://bluelogo8990.duckdns.org:8080/LOGO.YENI/TR/SONRADAN/SERHAT.png" group-title="TR ✦ YEREL",TR: ASFTV
-http://smarterss.xyz:2095/bbkr5838tv/bbrk0505yy00/173941
-#EXTINF:-1 tvg-id="" tvg-name="TR: YENI KOCAELI TV" tvg-logo="http://bluelogo8990.duckdns.org:8080/LOGO.YENI/TR/YEREL/KOCAELI.png" group-title="TR ✦ YEREL",TR: YENI KOCAELI TV
-http://smarterss.xyz:2095/bbkr5838tv/bbrk0505yy00/20095
-#EXTINF:-1 tvg-id="" tvg-name="TR: TIVI6" tvg-logo="http://bluelogo8990.duckdns.org:8080/LOGO.YENI/TR/YEREL/TIVI.6.png" group-title="TR ✦ YEREL",TR: TIVI6
-http://smarterss.xyz:2095/bbkr5838tv/bbrk0505yy00/94059
-#EXTINF:-1 tvg-id="" tvg-name="TR: TV A" tvg-logo="http://bluelogo8990.duckdns.org:8080/LOGO.YENI/TR/YEREL/TV.A.png" group-title="TR ✦ YEREL",TR: TV A
-http://smarterss.xyz:2095/bbkr5838tv/bbrk0505yy00/68094
-#EXTINF:-1 tvg-id="" tvg-name="TR: TV 41" tvg-logo="http://bluelogo8990.duckdns.org:8080/LOGO.YENI/TR/YEREL/TV.41.png" group-title="TR ✦ YEREL",TR: TV 41
-http://smarterss.xyz:2095/bbkr5838tv/bbrk0505yy00/107606
-#EXTINF:-1 tvg-id="" tvg-name="TR: TEMPO TV" tvg-logo="http://bluelogo8990.duckdns.org:8080/LOGO.YENI/TR/YEREL/TEMPO.png" group-title="TR ✦ YEREL",TR: TEMPO TV
-http://smarterss.xyz:2095/bbkr5838tv/bbrk0505yy00/7755
-#EXTINF:-1 tvg-id="" tvg-name="TR: SUN RTV" tvg-logo="http://bluelogo8990.duckdns.org:8080/LOGO.YENI/TR/YEREL/SUN.png" group-title="TR ✦ YEREL",TR: SUN RTV
-http://smarterss.xyz:2095/bbkr5838tv/bbrk0505yy00/109039
-#EXTINF:-1 tvg-id="" tvg-name="TR: DersSim TV" tvg-logo="http://bluelogo8990.duckdns.org:8080/LOGO.YENI/TR/YEREL/DERSIM.png" group-title="TR ✦ YEREL",TR: DersSim TV
-http://smarterss.xyz:2095/bbkr5838tv/bbrk0505yy00/135049
-#EXTINF:-1 tvg-id="" tvg-name="TR: ES TV" tvg-logo="http://bluelogo8990.duckdns.org:8080/LOGO.YENI/TR/YEREL/ES.TV.png" group-title="TR ✦ YEREL",TR: ES TV
-http://smarterss.xyz:2095/bbkr5838tv/bbrk0505yy00/9734
-#EXTINF:-1 tvg-id="" tvg-name="TR: AFYON TÜRK TV" tvg-logo="http://bluelogo8990.duckdns.org:8080/LOGO.YENI/TR/YEREL/AFYON.TURK.png" group-title="TR ✦ YEREL",TR: AFYON TÜRK TV
-http://smarterss.xyz:2095/bbkr5838tv/bbrk0505yy00/60396
-#EXTINF:-1 tvg-id="" tvg-name="TR: ANADOLU DERNEK TV" tvg-logo="http://bluelogo8990.duckdns.org:8080/LOGO.YENI/TR/YEREL/ANADOLU.DERNEK.png" group-title="TR ✦ YEREL",TR: ANADOLU DERNEK TV
-http://smarterss.xyz:2095/bbkr5838tv/bbrk0505yy00/68185
-#EXTINF:-1 tvg-id="kanalv.tr" tvg-name="TR: Kanal V" tvg-logo="http://bluelogo8990.duckdns.org:8080/LOGO.YENI/TR/YEREL/KANAL.V.png" group-title="TR ✦ YEREL",TR: Kanal V
-http://smarterss.xyz:2095/bbkr5838tv/bbrk0505yy00/10584
-#EXTINF:-1 tvg-id="kanal33.tr" tvg-name="TR: KANAL 33" tvg-logo="http://bluelogo8990.duckdns.org:8080/LOGO.YENI/TR/YEREL/KANAL.33.png" group-title="TR ✦ YEREL",TR: KANAL 33
-http://smarterss.xyz:2095/bbkr5838tv/bbrk0505yy00/127433
-#EXTINF:-1 tvg-id="" tvg-name="TR: TMB TV" tvg-logo="http://bluelogo8990.duckdns.org:8080/LOGO.YENI/TR/YEREL/TMB.png" group-title="TR ✦ YEREL",TR: TMB TV
-http://smarterss.xyz:2095/bbkr5838tv/bbrk0505yy00/134471
-#EXTINF:-1 tvg-id="" tvg-name="TR: ON6 TV" tvg-logo="http://bluelogo8990.duckdns.org:8080/LOGO.YENI/TR/YEREL/ON6.png" group-title="TR ✦ YEREL",TR: ON6 TV
-http://smarterss.xyz:2095/bbkr5838tv/bbrk0505yy00/71338
-#EXTINF:-1 tvg-id="" tvg-name="TR: KADIRGA TV" tvg-logo="http://bluelogo8990.duckdns.org:8080/LOGO.YENI/TR/YEREL/KADIRGA.png" group-title="TR ✦ YEREL",TR: KADIRGA TV
-http://smarterss.xyz:2095/bbkr5838tv/bbrk0505yy00/24066
-#EXTINF:-1 tvg-id="" tvg-name="TR: CAN TV" tvg-logo="http://bluelogo8990.duckdns.org:8080/LOGO.YENI/TR/YEREL/CANTV.png" group-title="TR ✦ YEREL",TR: CAN TV
-http://smarterss.xyz:2095/bbkr5838tv/bbrk0505yy00/131194
-#EXTINF:-1 tvg-id="" tvg-name="TR: DENİZLİ DEHA TV" tvg-logo="http://bluelogo8990.duckdns.org:8080/LOGO.YENI/TR/YEREL/DEHA.png" group-title="TR ✦ YEREL",TR: DENİZLİ DEHA TV
-http://smarterss.xyz:2095/bbkr5838tv/bbrk0505yy00/17380
-#EXTINF:-1 tvg-id="" tvg-name="TR: Er TV HD" tvg-logo="http://bluelogo8990.duckdns.org:8080/LOGO.YENI/TR/YEREL/ER.TV.png" group-title="TR ✦ YEREL",TR: Er TV HD
-http://smarterss.xyz:2095/bbkr5838tv/bbrk0505yy00/13731
-#EXTINF:-1 tvg-id="kanal26.tr" tvg-name="TR: KANAL 26" tvg-logo="http://bluelogo8990.duckdns.org:8080/LOGO.YENI/TR/YEREL/KANAL.26.png" group-title="TR ✦ YEREL",TR: KANAL 26
-http://smarterss.xyz:2095/bbkr5838tv/bbrk0505yy00/148483
-#EXTINF:-1 tvg-id="" tvg-name="TR: FMTV" tvg-logo="http://bluelogo8990.duckdns.org:8080/LOGO.YENI/TR/YEREL/FMTV.png" group-title="TR ✦ YEREL",TR: FMTV
-http://smarterss.xyz:2095/bbkr5838tv/bbrk0505yy00/11071
-#EXTINF:-1 tvg-id="" tvg-name="TR: GAZIANTEP GRT TV" tvg-logo="http://bluelogo8990.duckdns.org:8080/LOGO.YENI/TR/YEREL/GRT.png" group-title="TR ✦ YEREL",TR: GAZIANTEP GRT TV
-http://smarterss.xyz:2095/bbkr5838tv/bbrk0505yy00/124581
-#EXTINF:-1 tvg-id="" tvg-name="TR: GAZIANTEP OLAY TV" tvg-logo="http://bluelogo8990.duckdns.org:8080/LOGO.YENI/TR/YEREL/GAZIANTEP.OLAY.png" group-title="TR ✦ YEREL",TR: GAZIANTEP OLAY TV
-http://smarterss.xyz:2095/bbkr5838tv/bbrk0505yy00/21730
-#EXTINF:-1 tvg-id="" tvg-name="TR: HRT TV HD" tvg-logo="http://bluelogo8990.duckdns.org:8080/LOGO.YENI/TR/YEREL/HRT.png" group-title="TR ✦ YEREL",TR: HRT TV HD
-http://smarterss.xyz:2095/bbkr5838tv/bbrk0505yy00/126050
-#EXTINF:-1 tvg-id="" tvg-name="TR: AKSU TV" tvg-logo="http://bluelogo8990.duckdns.org:8080/LOGO.YENI/TR/YEREL/AKSU.png" group-title="TR ✦ YEREL",TR: AKSU TV
-http://smarterss.xyz:2095/bbkr5838tv/bbrk0505yy00/32
-#EXTINF:-1 tvg-id="" tvg-name="TR: KARADENİZ BRTV" tvg-logo="http://bluelogo8990.duckdns.org:8080/LOGO.YENI/TR/YEREL/BRTV.png" group-title="TR ✦ YEREL",TR: KARADENİZ BRTV
-http://smarterss.xyz:2095/bbkr5838tv/bbrk0505yy00/17037
-#EXTINF:-1 tvg-id="" tvg-name="TR: KAYSERİ KAY TV" tvg-logo="http://bluelogo8990.duckdns.org:8080/LOGO.YENI/TR/YEREL/KAY.TV.png" group-title="TR ✦ YEREL",TR: KAYSERİ KAY TV
-http://smarterss.xyz:2095/bbkr5838tv/bbrk0505yy00/111116
-#EXTINF:-1 tvg-id="" tvg-name="TR: KAYSERİ KENT TV" tvg-logo="http://bluelogo8990.duckdns.org:8080/LOGO.YENI/TR/YEREL/KAYSERI.KENT.TURK.png" group-title="TR ✦ YEREL",TR: KAYSERİ KENT TV
-http://smarterss.xyz:2095/bbkr5838tv/bbrk0505yy00/122608
-#EXTINF:-1 tvg-id="" tvg-name="TR: KAYSERİ OLAY TÜRK TV" tvg-logo="http://bluelogo8990.duckdns.org:8080/LOGO.YENI/TR/YEREL/OLAY.TURK.png" group-title="TR ✦ YEREL",TR: KAYSERİ OLAY TÜRK TV
-http://smarterss.xyz:2095/bbkr5838tv/bbrk0505yy00/151600
-#EXTINF:-1 tvg-id="" tvg-name="TR: KONYA KON TV" tvg-logo="http://bluelogo8990.duckdns.org:8080/LOGO.YENI/TR/YEREL/KON.TV.png" group-title="TR ✦ YEREL",TR: KONYA KON TV
-http://smarterss.xyz:2095/bbkr5838tv/bbrk0505yy00/101427
-#EXTINF:-1 tvg-id="" tvg-name="TR: MAVİ KARADENİZ" tvg-logo="http://bluelogo8990.duckdns.org:8080/LOGO.YENI/TR/YEREL/MAVI.KARADENIZ.png" group-title="TR ✦ YEREL",TR: MAVİ KARADENİZ
-http://smarterss.xyz:2095/bbkr5838tv/bbrk0505yy00/150767
-#EXTINF:-1 tvg-id="meltemtv.tr" tvg-name="TR: MELTEM TV" tvg-logo="http://bluelogo8990.duckdns.org:8080/LOGO.YENI/TR/YEREL/MELTEM.png" group-title="TR ✦ YEREL",TR: MELTEM TV
-http://smarterss.xyz:2095/bbkr5838tv/bbrk0505yy00/96559
-#EXTINF:-1 tvg-id="" tvg-name="TR: SAT 7 TURK" tvg-logo="http://bluelogo8990.duckdns.org:8080/LOGO.YENI/TR/YEREL/SAT7.TURK.png" group-title="TR ✦ YEREL",TR: SAT 7 TURK
-http://smarterss.xyz:2095/bbkr5838tv/bbrk0505yy00/131476
-#EXTINF:-1 tvg-id="" tvg-name="TR: TRABZON HABER 61 TV HD" tvg-logo="http://bluelogo8990.duckdns.org:8080/LOGO.YENI/TR/YEREL/HABER.61.png" group-title="TR ✦ YEREL",TR: TRABZON HABER 61 TV HD
-http://smarterss.xyz:2095/bbkr5838tv/bbrk0505yy00/168958
-#EXTINF:-1 tvg-id="" tvg-name="TR: TV 52" tvg-logo="http://bluelogo8990.duckdns.org:8080/LOGO.YENI/TR/YEREL/TV.52.png" group-title="TR ✦ YEREL",TR: TV 52
-http://smarterss.xyz:2095/bbkr5838tv/bbrk0505yy00/88419
-#EXTINF:-1 tvg-id="" tvg-name="TR: TVO TV" tvg-logo="http://bluelogo8990.duckdns.org:8080/LOGO.YENI/TR/YEREL/TVO.png" group-title="TR ✦ YEREL",TR: TVO TV
-http://smarterss.xyz:2095/bbkr5838tv/bbrk0505yy00/90604
-#EXTINF:-1 tvg-id="" tvg-name="TR: YILDIZ EN TV" tvg-logo="http://bluelogo8990.duckdns.org:8080/LOGO.YENI/TR/YEREL/YILDIZ.EN.png" group-title="TR ✦ YEREL",TR: YILDIZ EN TV
-http://smarterss.xyz:2095/bbkr5838tv/bbrk0505yy00/150015
-#EXTINF:-1 tvg-id="" tvg-name="TR: ZONGULDAK KANAL Z" tvg-logo="http://bluelogo8990.duckdns.org:8080/LOGO.YENI/TR/YEREL/KANAL.Z.png" group-title="TR ✦ YEREL",TR: ZONGULDAK KANAL Z
-http://smarterss.xyz:2095/bbkr5838tv/bbrk0505yy00/12194
-#EXTINF:-1 tvg-id="" tvg-name="TR: KANAL URFA" tvg-logo="http://bluelogo8990.duckdns.org:8080/LOGO.YENI/TR/YEREL/KANAL.URFA.png" group-title="TR ✦ YEREL",TR: KANAL URFA
-http://smarterss.xyz:2095/bbkr5838tv/bbrk0505yy00/158033
-#EXTINF:-1 tvg-id="" tvg-name="TR: EDESSA TV" tvg-logo="http://bluelogo8990.duckdns.org:8080/LOGO.YENI/TR/YEREL/EDESSA.png" group-title="TR ✦ YEREL",TR: EDESSA TV
-http://smarterss.xyz:2095/bbkr5838tv/bbrk0505yy00/128314
-#EXTINF:-1 tvg-id="linetv.tr" tvg-name="TR: LINE TV" tvg-logo="http://bluelogo8990.duckdns.org:8080/LOGO.YENI/TR/YEREL/LINE.png" group-title="TR ✦ YEREL",TR: LINE TV
-http://smarterss.xyz:2095/bbkr5838tv/bbrk0505yy00/28702
-#EXTINF:-1 tvg-id="" tvg-name="TR: Yol Tv" tvg-logo="http://bluelogo8990.duckdns.org:8080/LOGO.YENI/TR/YEREL/YOL.png" group-title="TR ✦ YEREL",TR: Yol Tv
-http://smarterss.xyz:2095/bbkr5838tv/bbrk0505yy00/10367
-#EXTINF:-1 tvg-id="" tvg-name="TR: CAY TV" tvg-logo="http://bluelogo8990.duckdns.org:8080/LOGO.YENI/TR/YEREL/CAY.png" group-title="TR ✦ YEREL",TR: CAY TV
-http://smarterss.xyz:2095/bbkr5838tv/bbrk0505yy00/30327
-#EXTINF:-1 tvg-id="" tvg-name="TR: KANAL FIRAT" tvg-logo="http://bluelogo8990.duckdns.org:8080/LOGO.YENI/TR/YEREL/KANAL.FIRAT.png" group-title="TR ✦ YEREL",TR: KANAL FIRAT
-http://smarterss.xyz:2095/bbkr5838tv/bbrk0505yy00/62860
-#EXTINF:-1 tvg-id="" tvg-name="TR: KANAL 23" tvg-logo="http://bluelogo8990.duckdns.org:8080/LOGO.YENI/TR/YEREL/KANAL.23.png" group-title="TR ✦ YEREL",TR: KANAL 23
-http://smarterss.xyz:2095/bbkr5838tv/bbrk0505yy00/161338
-#EXTINF:-1 tvg-id="" tvg-name="TR: ADANA TV" tvg-logo="http://bluelogo8990.duckdns.org:8080/LOGO.YENI/TR/YEREL/TV.ADANA.png" group-title="TR ✦ YEREL",TR: ADANA TV
-http://smarterss.xyz:2095/bbkr5838tv/bbrk0505yy00/135406
-#EXTINF:-1 tvg-id="" tvg-name="TR: KANAL B HD" tvg-logo="http://bluelogo8990.duckdns.org:8080/LOGO.YENI/TR/YEREL/KANAL.B.png" group-title="TR ✦ YEREL",TR: KANAL B HD
-http://smarterss.xyz:2095/bbkr5838tv/bbrk0505yy00/16912
-#EXTINF:-1 tvg-id="" tvg-name="TR: VUSLAT TV HD" tvg-logo="http://bluelogo8990.duckdns.org:8080/LOGO.YENI/TR/YEREL/MALATYA.VUSLAT.png" group-title="TR ✦ YEREL",TR: VUSLAT TV HD
-http://smarterss.xyz:2095/bbkr5838tv/bbrk0505yy00/112982
-#EXTINF:-1 tvg-id="kozatv.tr" tvg-name="TR: KOZA TV  HD" tvg-logo="http://bluelogo8990.duckdns.org:8080/LOGO.YENI/TR/YEREL/KOZA.png" group-title="TR ✦ YEREL",TR: KOZA TV  HD
-http://smarterss.xyz:2095/bbkr5838tv/bbrk0505yy00/22596
-#EXTINF:-1 tvg-id="" tvg-name="TR: DRT DENIZLI TV" tvg-logo="http://bluelogo8990.duckdns.org:8080/LOGO.YENI/TR/YEREL/DRT.DENIZLI.png" group-title="TR ✦ YEREL",TR: DRT DENIZLI TV
-http://smarterss.xyz:2095/bbkr5838tv/bbrk0505yy00/48178
-#EXTINF:-1 tvg-id="" tvg-name="TR: TV 3 HD" tvg-logo="http://bluelogo8990.duckdns.org:8080/LOGO.YENI/TR/YEREL/TV.3.png" group-title="TR ✦ YEREL",TR: TV 3 HD
-http://smarterss.xyz:2095/bbkr5838tv/bbrk0505yy00/73676
-#EXTINF:-1 tvg-id="" tvg-name="TR: K KARDELEN TV HD" tvg-logo="http://bluelogo8990.duckdns.org:8080/LOGO.YENI/TR/YEREL/KARDELEN.png" group-title="TR ✦ YEREL",TR: K KARDELEN TV HD
-http://smarterss.xyz:2095/bbkr5838tv/bbrk0505yy00/143838
-#EXTINF:-1 tvg-id="" tvg-name="TR: GÜNEYDOĞU TV HD" tvg-logo="http://bluelogo8990.duckdns.org:8080/LOGO.YENI/TR/YEREL/GTV.png" group-title="TR ✦ YEREL",TR: GÜNEYDOĞU TV HD
-http://smarterss.xyz:2095/bbkr5838tv/bbrk0505yy00/151491
-#EXTINF:-1 tvg-id="" tvg-name="TR: BURSA TV HD" tvg-logo="http://bluelogo8990.duckdns.org:8080/LOGO.YENI/TR/YEREL/BURSA.png" group-title="TR ✦ YEREL",TR: BURSA TV HD
-http://smarterss.xyz:2095/bbkr5838tv/bbrk0505yy00/19354
 #EXTINF:-1 tvg-id="" tvg-name="TR:VAN 65" tvg-logo="http://bluelogo8990.duckdns.org:8080/LOGO.YENI/TR/YEREL/TRAKYA.png" group-title="TR ✦ YEREL",TR:VAN 65
 http://smarterss.xyz:2095/bbkr5838tv/bbrk0505yy00/120405
 #EXTINF:-1 tvg-id="" tvg-name="TR: CINE 1 HD" tvg-logo="http://bluelogo8990.duckdns.org:8080/LOGO.YENI/TR/YEREL/CINE.1.png" group-title="TR ✦ YEREL",TR: CINE 1 HD
@@ -2091,21 +1633,3 @@ http://smarterss.xyz:2095/bbkr5838tv/bbrk0505yy00/166812
 http://smarterss.xyz:2095/bbkr5838tv/bbrk0505yy00/129358
 #EXTINF:-1 tvg-id="" tvg-name="TR: FERDİ TAYFUR  HD" tvg-logo="http://bluelogo8990.duckdns.org:8080/LOGO.YENI/TR/MUZIK/FERDI.TAYFUR.png" group-title="TR ✦ MÜZİK",TR: FERDİ TAYFUR  HD
 http://smarterss.xyz:2095/bbkr5838tv/bbrk0505yy00/72278
-#EXTINF:-1 tvg-id="" tvg-name="✦✦ EXXEN SPORT ✦✦" tvg-logo="http://bluelogo8990.duckdns.org:8080/LOGO/TR/BAYRAK.png" group-title="TR ✦ EXXEN SPORTS",✦✦ EXXEN SPORT ✦✦
-http://smarterss.xyz:2095/bbkr5838tv/bbrk0505yy00/86508
-#EXTINF:-1 tvg-id="" tvg-name="TR: EXXEN SPORT 1 FHD" tvg-logo="http://bluelogo8990.duckdns.org:8080/LOGO.YENI/TR/EXXEN.SPORTS/1.FHD.png" group-title="TR ✦ EXXEN SPORTS",TR: EXXEN SPORT 1 FHD
-http://smarterss.xyz:2095/bbkr5838tv/bbrk0505yy00/143915
-#EXTINF:-1 tvg-id="" tvg-name="TR: EXXEN SPORT 2 FHD" tvg-logo="http://bluelogo8990.duckdns.org:8080/LOGO.YENI/TR/EXXEN.SPORTS/2.FHD.png" group-title="TR ✦ EXXEN SPORTS",TR: EXXEN SPORT 2 FHD
-http://smarterss.xyz:2095/bbkr5838tv/bbrk0505yy00/114070
-#EXTINF:-1 tvg-id="" tvg-name="TR: EXXEN SPORT 3 FHD" tvg-logo="http://bluelogo8990.duckdns.org:8080/LOGO.YENI/TR/EXXEN.SPORTS/3.FHD.png" group-title="TR ✦ EXXEN SPORTS",TR: EXXEN SPORT 3 FHD
-http://smarterss.xyz:2095/bbkr5838tv/bbrk0505yy00/122853
-#EXTINF:-1 tvg-id="" tvg-name="TR: EXXEN SPORT 4 FHD" tvg-logo="http://bluelogo8990.duckdns.org:8080/LOGO.YENI/TR/EXXEN.SPORTS/4.FHD.png" group-title="TR ✦ EXXEN SPORTS",TR: EXXEN SPORT 4 FHD
-http://smarterss.xyz:2095/bbkr5838tv/bbrk0505yy00/133406
-#EXTINF:-1 tvg-id="" tvg-name="TR: EXXEN SPORT 5 FHD" tvg-logo="http://bluelogo8990.duckdns.org:8080/LOGO.YENI/TR/EXXEN.SPORTS/5.FHD.png" group-title="TR ✦ EXXEN SPORTS",TR: EXXEN SPORT 5 FHD
-http://smarterss.xyz:2095/bbkr5838tv/bbrk0505yy00/99140
-#EXTINF:-1 tvg-id="" tvg-name="TR: EXXEN SPORT 6 FHD" tvg-logo="http://bluelogo8990.duckdns.org:8080/LOGO.YENI/TR/EXXEN.SPORTS/6.FHD.png" group-title="TR ✦ EXXEN SPORTS",TR: EXXEN SPORT 6 FHD
-http://smarterss.xyz:2095/bbkr5838tv/bbrk0505yy00/116627
-#EXTINF:-1 tvg-id="" tvg-name="TR: EXXEN SPORT 7 FHD" tvg-logo="http://bluelogo8990.duckdns.org:8080/LOGO.YENI/TR/EXXEN.SPORTS/7.FHD.png" group-title="TR ✦ EXXEN SPORTS",TR: EXXEN SPORT 7 FHD
-http://smarterss.xyz:2095/bbkr5838tv/bbrk0505yy00/68647
-#EXTINF:-1 tvg-id="" tvg-name="TR: EXXEN SPORT 8 FHD" tvg-logo="http://bluelogo8990.duckdns.org:8080/LOGO.YENI/TR/EXXEN.SPORTS/8.FHD.png" group-title="TR ✦ EXXEN SPORTS",TR: EXXEN SPORT 8 FHD
-http://smarterss.xyz:2095/bbkr5838tv/bbrk0505yy00/58551
