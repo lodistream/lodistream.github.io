@@ -1,0 +1,1085 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="TRT1.tr" tvg-name="TRT1 HD" tvg-logo="https://lo1.in/trk/tr1.png" group-title="TR| ULUSAL HD",TRT1 HD
+http://dbox.livingteam.cc:80/yigittiner/10052019-dro/14233
+#EXTINF:-1 tvg-id="trt4k.tr" tvg-name="TRT4K" tvg-logo="https://lo1.in/trk/tr4k.png" group-title="TR| ULUSAL UHD",TRT4K
+http://dbox.livingteam.cc:80/yigittiner/10052019-dro/46647
+#EXTINF:-1 tvg-id="TRT1.tr" tvg-name="TRT1 UHD" tvg-logo="https://sltv-icon.cms-s.com/logo/turkeyT/trt_1.png" group-title="TR| ULUSAL UHD",TRT1 UHD
+http://dbox.livingteam.cc:80/yigittiner/10052019-dro/14234
+#EXTINF:-1 tvg-id="TRT2.tr" tvg-name="TRT2 UHD" tvg-logo="https://xatemo.pro/picons/tr/trt_2.png" group-title="TR| ULUSAL UHD",TRT2 UHD
+http://dbox.livingteam.cc:80/yigittiner/10052019-dro/26238
+#EXTINF:-1 tvg-id="TRTAvaz.tr" tvg-name="TRT AVAZ UHD" tvg-logo="https://xatemo.pro/picons/tr/trt_avaz.png" group-title="TR| ULUSAL UHD",TRT AVAZ UHD
+http://dbox.livingteam.cc:80/yigittiner/10052019-dro/14247
+#EXTINF:-1 tvg-id="Teve2.tr" tvg-name="tv2 HD" tvg-logo="https://xatemo.pro/picons/tr/teve2.png" group-title="TR| ULUSAL HD",tv2 HD
+http://dbox.livingteam.cc:80/yigittiner/10052019-dro/2215
+#EXTINF:-1 tvg-id="Teve2.tr" tvg-name="tv2 UHD" tvg-logo="https://xatemo.pro/picons/tr/teve2.png" group-title="TR| ULUSAL UHD",tv2 UHD
+http://dbox.livingteam.cc:80/yigittiner/10052019-dro/15805
+#EXTINF:-1 tvg-id="TV8.tr" tvg-name="TV8 HD" tvg-logo="https://xatemo.pro/picons/tr/tv_8.png" group-title="TR| ULUSAL HD",TV8 HD
+http://dbox.livingteam.cc:80/yigittiner/10052019-dro/14235
+#EXTINF:-1 tvg-id="TV8.tr" tvg-name="TV8 UHD" tvg-logo="https://xatemo.pro/picons/tr/tv_8.png" group-title="TR| ULUSAL UHD",TV8 UHD
+http://dbox.livingteam.cc:80/yigittiner/10052019-dro/14236
+#EXTINF:-1 tvg-id="tv85.tr" tvg-name="TV8.5 HD" tvg-logo="https://lo1.in/trk/tv85.png" group-title="TR| ULUSAL HD",TV8.5 HD
+http://dbox.livingteam.cc:80/yigittiner/10052019-dro/15802
+#EXTINF:-1 tvg-id="tv85.tr" tvg-name="TV8.5 UHD" tvg-logo="https://xatemo.pro/picons/tr/tv_8-5.png" group-title="TR| ULUSAL UHD",TV8.5 UHD
+http://dbox.livingteam.cc:80/yigittiner/10052019-dro/15803
+#EXTINF:-1 tvg-id="fox.tr" tvg-name="NOW HD" tvg-logo="http://sltv-icon.cms-s.com/logo/turkeyT/nowTv.png" group-title="TR| ULUSAL HD",NOW HD
+http://dbox.livingteam.cc:80/yigittiner/10052019-dro/14237
+#EXTINF:-1 tvg-id="fox.tr" tvg-name="NOW UHD" tvg-logo="http://sltv-icon.cms-s.com/logo/turkeyT/nowTv.png" group-title="TR| ULUSAL UHD",NOW UHD
+http://dbox.livingteam.cc:80/yigittiner/10052019-dro/14238
+#EXTINF:-1 tvg-id="StarTV.tr" tvg-name="STAR TV HD" tvg-logo="https://xatemo.pro/picons/tr/star.png" group-title="TR| ULUSAL HD",STAR TV HD
+http://dbox.livingteam.cc:80/yigittiner/10052019-dro/14239
+#EXTINF:-1 tvg-id="StarTV.tr" tvg-name="STAR TV UHD" tvg-logo="https://xatemo.pro/picons/tr/star.png" group-title="TR| ULUSAL UHD",STAR TV UHD
+http://dbox.livingteam.cc:80/yigittiner/10052019-dro/14240
+#EXTINF:-1 tvg-id="KanalD.tr" tvg-name="KANAL D HD" tvg-logo="https://lo1.in/trk/kd.png" group-title="TR| ULUSAL HD",KANAL D HD
+http://dbox.livingteam.cc:80/yigittiner/10052019-dro/14243
+#EXTINF:-1 tvg-id="KanalD.tr" tvg-name="KANAL D UHD" tvg-logo="https://lo1.in/trk/kd.png" group-title="TR| ULUSAL UHD",KANAL D UHD
+http://dbox.livingteam.cc:80/yigittiner/10052019-dro/14244
+#EXTINF:-1 tvg-id="ShowTV.tr" tvg-name="SHOW TV HD" tvg-logo="https://xatemo.pro/picons/tr/show.png" group-title="TR| ULUSAL HD",SHOW TV HD
+http://dbox.livingteam.cc:80/yigittiner/10052019-dro/14241
+#EXTINF:-1 tvg-id="ShowTV.tr" tvg-name="SHOW TV UHD" tvg-logo="https://xatemo.pro/picons/tr/show.png" group-title="TR| ULUSAL UHD",SHOW TV UHD
+http://dbox.livingteam.cc:80/yigittiner/10052019-dro/14242
+#EXTINF:-1 tvg-id="ATV.tr" tvg-name="ATV HD" tvg-logo="https://xatemo.pro/picons/tr/atv.png" group-title="TR| ULUSAL HD",ATV HD
+http://dbox.livingteam.cc:80/yigittiner/10052019-dro/14245
+#EXTINF:-1 tvg-id="ATV.tr" tvg-name="ATV UHD" tvg-logo="https://xatemo.pro/picons/tr/atv.png" group-title="TR| ULUSAL UHD",ATV UHD
+http://dbox.livingteam.cc:80/yigittiner/10052019-dro/32261
+#EXTINF:-1 tvg-id="beyaztv.tr" tvg-name="BEYAZ TV HD" tvg-logo="https://xatemo.pro/picons/tr/beyaz.png" group-title="TR| ULUSAL HD",BEYAZ TV HD
+http://dbox.livingteam.cc:80/yigittiner/10052019-dro/2217
+#EXTINF:-1 tvg-id="BeyazTV.tr" tvg-name="BEYAZ TV UHD" tvg-logo="https://xatemo.pro/picons/tr/beyaz.png" group-title="TR| ULUSAL UHD",BEYAZ TV UHD
+http://dbox.livingteam.cc:80/yigittiner/10052019-dro/15806
+#EXTINF:-1 tvg-id="kanal7.tr" tvg-name="KANAL 7 HD" tvg-logo="https://xatemo.pro/picons/tr/kanal_7.png" group-title="TR| ULUSAL HD",KANAL 7 HD
+http://dbox.livingteam.cc:80/yigittiner/10052019-dro/15807
+#EXTINF:-1 tvg-id="Kanal7.tr" tvg-name="KANAL 7 UHD" tvg-logo="https://xatemo.pro/picons/tr/kanal_7.png" group-title="TR| ULUSAL UHD",KANAL 7 UHD
+http://dbox.livingteam.cc:80/yigittiner/10052019-dro/21999
+#EXTINF:-1 tvg-id="" tvg-name="TYT TURK UHD" tvg-logo="http://sltv-icon.cms-s.com/logo/turkeyT/tytTurk.png" group-title="TR| ULUSAL UHD",TYT TURK UHD
+http://dbox.livingteam.cc:80/yigittiner/10052019-dro/23641
+#EXTINF:-1 tvg-id="" tvg-name="BI KANAL UHD" tvg-logo="" group-title="TR| ULUSAL UHD",BI KANAL UHD
+http://dbox.livingteam.cc:80/yigittiner/10052019-dro/180083
+#EXTINF:-1 tvg-id="" tvg-name="KANAL 1 HD" tvg-logo="http://sltv-icon.cms-s.com/logo/a-z/--K--/k1-wricobrufr.png" group-title="TR| ULUSAL HD",KANAL 1 HD
+http://dbox.livingteam.cc:80/yigittiner/10052019-dro/8472
+#EXTINF:-1 tvg-id="tlc.tr" tvg-name="TLC HD" tvg-logo="https://lo1.in/trk/tlc.png" group-title="TR| ULUSAL HD",TLC HD
+http://dbox.livingteam.cc:80/yigittiner/10052019-dro/38793
+#EXTINF:-1 tvg-id="TLCTurkey.tr" tvg-name="TLC UHD" tvg-logo="https://xatemo.pro/picons/tr/tlc.png" group-title="TR| ULUSAL UHD",TLC UHD
+http://dbox.livingteam.cc:80/yigittiner/10052019-dro/15845
+#EXTINF:-1 tvg-id="360.tr" tvg-name="360 HD" tvg-logo="https://xatemo.pro/picons/tr/360.png" group-title="TR| ULUSAL HD",360 HD
+http://dbox.livingteam.cc:80/yigittiner/10052019-dro/6350
+#EXTINF:-1 tvg-id="360.tr" tvg-name="360 UHD" tvg-logo="https://lo1.in/trk/360v.png" group-title="TR| ULUSAL UHD",360 UHD
+http://dbox.livingteam.cc:80/yigittiner/10052019-dro/2210
+#EXTINF:-1 tvg-id="" tvg-name="TV4 HD" tvg-logo="https://xatemo.pro/picons/tr/tv_4.png" group-title="TR| ULUSAL HD",TV4 HD
+http://dbox.livingteam.cc:80/yigittiner/10052019-dro/47899
+#EXTINF:-1 tvg-id="tv4.tr" tvg-name="tv4 UHD" tvg-logo="https://xatemo.pro/picons/tr/tv_4.png" group-title="TR| ULUSAL UHD",tv4 UHD
+http://dbox.livingteam.cc:80/yigittiner/10052019-dro/46617
+#EXTINF:-1 tvg-id="meltemtv.tr" tvg-name="MELTEM TV UHD" tvg-logo="https://xatemo.pro/picons/tr/meltem_tv.png" group-title="TR| ULUSAL UHD",MELTEM TV UHD
+http://dbox.livingteam.cc:80/yigittiner/10052019-dro/16277
+#EXTINF:-1 tvg-id="a2tv.tr" tvg-name="A2 HD" tvg-logo="https://xatemo.pro/picons/tr/a_2.png" group-title="TR| ULUSAL HD",A2 HD
+http://dbox.livingteam.cc:80/yigittiner/10052019-dro/5975
+#EXTINF:-1 tvg-id="A2.tr" tvg-name="A2 UHD" tvg-logo="https://xatemo.pro/picons/tr/a_2.png" group-title="TR| ULUSAL UHD",A2 UHD
+http://dbox.livingteam.cc:80/yigittiner/10052019-dro/2222
+#EXTINF:-1 tvg-id="TRTTurk.tr" tvg-name="TRT TURK UHD" tvg-logo="http://sltv-icon.cms-s.com/logo/turkeyT/trt_turk.png" group-title="TR| ULUSAL UHD",TRT TURK UHD
+http://dbox.livingteam.cc:80/yigittiner/10052019-dro/13215
+#EXTINF:-1 tvg-id="EBALISE-0xa" tvg-name="SHOW TURK UHD" tvg-logo="https://xatemo.pro/picons/tr/show_turk.png" group-title="TR| ULUSAL UHD",SHOW TURK UHD
+http://dbox.livingteam.cc:80/yigittiner/10052019-dro/2227
+#EXTINF:-1 tvg-id="" tvg-name="SHOWMAX UHD" tvg-logo="https://sltv-icon.cms-s.com/logo/turkeyT/show_max.png" group-title="TR| ULUSAL UHD",SHOWMAX UHD
+http://dbox.livingteam.cc:80/yigittiner/10052019-dro/15973
+#EXTINF:-1 tvg-id="beinhe.tr" tvg-name="EKOL TV" tvg-logo="http://sltv-icon.cms-s.com/logo/turkeyT/ekolTV.png" group-title="TR| ULUSAL UHD",EKOL TV
+http://dbox.livingteam.cc:80/yigittiner/10052019-dro/70125
+#EXTINF:-1 tvg-id="" tvg-name="TABii TV UHD" tvg-logo="http://sltv-icon.cms-s.com/logo/turkeyT/tabiiTV.png" group-title="TR| ULUSAL UHD",TABii TV UHD
+http://dbox.livingteam.cc:80/yigittiner/10052019-dro/26721
+#EXTINF:-1 tvg-id="" tvg-name="TIVI 6 HD" tvg-logo="http://sltv-icon.cms-s.com/logo/turkey/tv6_tr.png" group-title="TR| ULUSAL UHD",TIVI 6 HD
+http://dbox.livingteam.cc:80/yigittiner/10052019-dro/45231
+#EXTINF:-1 tvg-id="TV8.tr" tvg-name="TV8 INT HD" tvg-logo="https://sltv-icon.cms-s.com/logo/TURKIYE/TV%208INTEUROPA.png" group-title="TR| ULUSAL HD",TV8 INT HD
+http://dbox.livingteam.cc:80/yigittiner/10052019-dro/10311
+#EXTINF:-1 tvg-id="StarTV.tr" tvg-name="EUROSTAR HD" tvg-logo="https://sltv-icon.cms-s.com/logo/turkeyT/eurostar.png" group-title="TR| ULUSAL HD",EUROSTAR HD
+http://dbox.livingteam.cc:80/yigittiner/10052019-dro/10305
+#EXTINF:-1 tvg-id="EUROD-0xa" tvg-name="EURO D HD" tvg-logo="https://sltv-icon.cms-s.com/logo/TURKIYE/KANALDEUROPA.png" group-title="TR| ULUSAL HD",EURO D HD
+http://dbox.livingteam.cc:80/yigittiner/10052019-dro/14290
+#EXTINF:-1 tvg-id="SHOWTURK-0xa" tvg-name="SHOWTURK HD" tvg-logo="https://xatemo.pro/picons/tr/show_turk.png" group-title="TR| ULUSAL HD",SHOWTURK HD
+http://dbox.livingteam.cc:80/yigittiner/10052019-dro/14291
+#EXTINF:-1 tvg-id="ATV.tr" tvg-name="ATV EU HD" tvg-logo="http://sltv-icon.cms-s.com/logo/turkeyT/atv_avrupa.png" group-title="TR| ULUSAL HD",ATV EU HD
+http://dbox.livingteam.cc:80/yigittiner/10052019-dro/10306
+#EXTINF:-1 tvg-id="Kanal7.tr" tvg-name="KANAL 7 AVRUPA HD" tvg-logo="https://sltv-icon.cms-s.com/logo/TURKIYE/KANAL7EUROPA.png" group-title="TR| ULUSAL HD",KANAL 7 AVRUPA HD
+http://dbox.livingteam.cc:80/yigittiner/10052019-dro/10303
+#EXTINF:-1 tvg-id="" tvg-name="TGRT EU" tvg-logo="https://xatemo.pro/picons/tr/tgrt_eu.png" group-title="TR| ULUSAL HD",TGRT EU
+http://dbox.livingteam.cc:80/yigittiner/10052019-dro/29825
+#EXTINF:-1 tvg-id="" tvg-name="TV 5 HD" tvg-logo="https://xatemo.pro/picons/tr/tv_5.png" group-title="TR| ULUSAL HD",TV 5 HD
+http://dbox.livingteam.cc:80/yigittiner/10052019-dro/45225
+#EXTINF:-1 tvg-id="MELTEMTV-0xa" tvg-name="MELTEM TV HD" tvg-logo="https://sltv-icon.cms-s.com/logo/TURKIYE/MELTEMTV.png" group-title="TR| ULUSAL HD",MELTEM TV HD
+http://dbox.livingteam.cc:80/yigittiner/10052019-dro/14677
+#EXTINF:-1 tvg-id="" tvg-name="SAT7 TURK HD" tvg-logo="https://sltv-icon.cms-s.com/logo/turkeyT/sat_7_turk.png" group-title="TR| ULUSAL HD",SAT7 TURK HD
+http://dbox.livingteam.cc:80/yigittiner/10052019-dro/21915
+#EXTINF:-1 tvg-id="BRT1-0xa" tvg-name="BRT 1 HD" tvg-logo="https://xatemo.pro/picons/tr/brt_1.png" group-title="TR| ULUSAL HD",BRT 1 HD
+http://dbox.livingteam.cc:80/yigittiner/10052019-dro/38655
+#EXTINF:-1 tvg-id="BRT2-0xa" tvg-name="BRT 2 HD" tvg-logo="https://xatemo.pro/picons/tr/brt2.png" group-title="TR| ULUSAL HD",BRT 2 HD
+http://dbox.livingteam.cc:80/yigittiner/10052019-dro/38654
+#EXTINF:-1 tvg-id="KANALT-0xa" tvg-name="KIBRIS KANAL T" tvg-logo="https://xatemo.pro/picons/tr/kanalt_kibris.png" group-title="TR| ULUSAL HD",KIBRIS KANAL T
+http://dbox.livingteam.cc:80/yigittiner/10052019-dro/38651
+#EXTINF:-1 tvg-id="KIBRISADA-0xa" tvg-name="KIBRIS ADA TV" tvg-logo="https://sltv-icon.cms-s.com/logo/TURKIYE/KIBRISADATV.png" group-title="TR| ULUSAL HD",KIBRIS ADA TV
+http://dbox.livingteam.cc:80/yigittiner/10052019-dro/38650
+#EXTINF:-1 tvg-id="KIBRISGENC-0xa" tvg-name="KIBRIS GENC TV" tvg-logo="https://xatemo.pro/picons/tr/kinris_genc_tv.png" group-title="TR| ULUSAL HD",KIBRIS GENC TV
+http://dbox.livingteam.cc:80/yigittiner/10052019-dro/38649
+#EXTINF:-1 tvg-id="SIMTV-0xa" tvg-name="KANAL SIM" tvg-logo="https://xatemo.pro/picons/tr/kanal_sim.png" group-title="TR| ULUSAL HD",KANAL SIM
+http://dbox.livingteam.cc:80/yigittiner/10052019-dro/38652
+#EXTINF:-1 tvg-id="9807" tvg-name="EPIC DRAMA HD" tvg-logo="http://logo.premium-ott.com:9999/logo/51754.png" group-title="TR| SINEMA",EPIC DRAMA HD
+http://dbox.livingteam.cc:80/yigittiner/10052019-dro/31100
+#EXTINF:-1 tvg-id="" tvg-name="FILM SCREEN" tvg-logo="https://www.dsmart.com.tr/api/v1/public/images/kanallar/FILMSCREEN.png" group-title="TR| SINEMA",FILM SCREEN
+http://dbox.livingteam.cc:80/yigittiner/10052019-dro/46035
+#EXTINF:-1 tvg-id="beinmoviesturk.tr" tvg-name="beIN MOVIES TURK" tvg-logo="https://www.pngitem.com/pimgs/m/83-836944_bein-movies-trk-hdtv-parallel-hd-png-download.png" group-title="TR| SINEMA",beIN MOVIES TURK
+http://dbox.livingteam.cc:80/yigittiner/10052019-dro/5876
+#EXTINF:-1 tvg-id="SNMTV-0xa" tvg-name="SINEMA HD" tvg-logo="https://sinematv.com.tr/content/logo/SINEMATV-GRI.png?v=1.0.0.68" group-title="TR| SINEMA",SINEMA HD
+http://dbox.livingteam.cc:80/yigittiner/10052019-dro/2207
+#EXTINF:-1 tvg-id="sinema2hd.tr" tvg-name="SINEMA 2 HD" tvg-logo="https://tvprofil.com/img/kanali-logo/SINEMATV-2_logo.png?1583004645" group-title="TR| SINEMA",SINEMA 2 HD
+http://dbox.livingteam.cc:80/yigittiner/10052019-dro/15089
+#EXTINF:-1 tvg-id="sinemaaksiyonhd.tr" tvg-name="SINEMA AKSIYON HD" tvg-logo="https://sltv-icon.cms-s.com/logo/turkeyT/sinema_aksiyon.png" group-title="TR| SINEMA",SINEMA AKSIYON HD
+http://dbox.livingteam.cc:80/yigittiner/10052019-dro/2205
+#EXTINF:-1 tvg-id="sinemaaksiyon2hd.tr" tvg-name="SINEMA AKSIYON 2 HD" tvg-logo="https://lo1.in/trk/sikak.png" group-title="TR| SINEMA",SINEMA AKSIYON 2 HD
+http://dbox.livingteam.cc:80/yigittiner/10052019-dro/15087
+#EXTINF:-1 tvg-id="SNM1001-0xa" tvg-name="SINEMA 1001 HD" tvg-logo="https://lo1.in/trk/sin1.png" group-title="TR| SINEMA",SINEMA 1001 HD
+http://dbox.livingteam.cc:80/yigittiner/10052019-dro/2204
+#EXTINF:-1 tvg-id="sinema1002.tr" tvg-name="SINEMA 1002 HD" tvg-logo="https://lo1.in/trk/sima10.png" group-title="TR| SINEMA",SINEMA 1002 HD
+http://dbox.livingteam.cc:80/yigittiner/10052019-dro/15079
+#EXTINF:-1 tvg-id="SNMYERLI-0xa" tvg-name="SINEMA YERLI HD" tvg-logo="https://lo1.in/trk/sinma0.png" group-title="TR| SINEMA",SINEMA YERLI HD
+http://dbox.livingteam.cc:80/yigittiner/10052019-dro/12059
+#EXTINF:-1 tvg-id="" tvg-name="SINEMA YERLI 2 HD" tvg-logo="http://sltv-icon.cms-s.com/logo/turkeyT/sinemaYerli2.png" group-title="TR| SINEMA",SINEMA YERLI 2 HD
+http://dbox.livingteam.cc:80/yigittiner/10052019-dro/15081
+#EXTINF:-1 tvg-id="SNMKOMEDI-0xa" tvg-name="SINEMA KOMEDI HD" tvg-logo="https://lo1.in/trk/sinm.png" group-title="TR| SINEMA",SINEMA KOMEDI HD
+http://dbox.livingteam.cc:80/yigittiner/10052019-dro/12063
+#EXTINF:-1 tvg-id="sinemakomedi2hd.tr" tvg-name="SINEMA KOMEDI 2 HD" tvg-logo="https://lo1.in/trk/sink0.png" group-title="TR| SINEMA",SINEMA KOMEDI 2 HD
+http://dbox.livingteam.cc:80/yigittiner/10052019-dro/15083
+#EXTINF:-1 tvg-id="SNMAILE-0xa" tvg-name="SINEMA AILE HD" tvg-logo="https://lo1.in/trk/sinv0.png" group-title="TR| SINEMA",SINEMA AILE HD
+http://dbox.livingteam.cc:80/yigittiner/10052019-dro/12064
+#EXTINF:-1 tvg-id="sinemaaile2hd.tr" tvg-name="SINEMA AILE 2 HD" tvg-logo="https://lo1.in/trk/sinv.png" group-title="TR| SINEMA",SINEMA AILE 2 HD
+http://dbox.livingteam.cc:80/yigittiner/10052019-dro/23643
+#EXTINF:-1 tvg-id="MOVSMCLASSIC-0xa" tvg-name="movieSMART CLASSIC HD" tvg-logo="https://lo1.in/trk/mvc.png" group-title="TR| SINEMA",movieSMART CLASSIC HD
+http://dbox.livingteam.cc:80/yigittiner/10052019-dro/10796
+#EXTINF:-1 tvg-id="MOVSMTURK-0xa" tvg-name="movieSMART TURK HD" tvg-logo="https://lo1.in/trk/mot.png" group-title="TR| SINEMA",movieSMART TURK HD
+http://dbox.livingteam.cc:80/yigittiner/10052019-dro/5866
+#EXTINF:-1 tvg-id="dizismartmax.tr" tvg-name="diziSMART MAX HD" tvg-logo="http://sltv-icon.cms-s.com/logo/turkeyT/dizismart_max.png" group-title="TR| SINEMA",diziSMART MAX HD
+http://dbox.livingteam.cc:80/yigittiner/10052019-dro/15100
+#EXTINF:-1 tvg-id="dizismartpremium.tr" tvg-name="diziSMART Premium HD" tvg-logo="http://sltv-icon.cms-s.com/logo/turkeyT/dizismart_premium.png" group-title="TR| SINEMA",diziSMART Premium HD
+http://dbox.livingteam.cc:80/yigittiner/10052019-dro/23640
+#EXTINF:-1 tvg-id="FXHD-0xa" tvg-name="FX HD" tvg-logo="http://sltv-icon.cms-s.com/logo/turkeyT/fx.png" group-title="TR| SINEMA",FX HD
+http://dbox.livingteam.cc:80/yigittiner/10052019-dro/10795
+#EXTINF:-1 tvg-id="" tvg-name="beIN MOVIES PREMIERE" tvg-logo="http://sltv-icon.cms-s.com/logo/turkeyT/bein_movies_premiere_1.png" group-title="TR| SINEMA",beIN MOVIES PREMIERE
+http://dbox.livingteam.cc:80/yigittiner/10052019-dro/47976
+#EXTINF:-1 tvg-id="" tvg-name="beIN MOVIES PREMIERE 2" tvg-logo="http://sltv-icon.cms-s.com/logo/turkeyT/bein_movies_premire_2.png" group-title="TR| SINEMA",beIN MOVIES PREMIERE 2
+http://dbox.livingteam.cc:80/yigittiner/10052019-dro/141028
+#EXTINF:-1 tvg-id="beinmoviesstars.tr" tvg-name="beIN MOVIES STARS HD" tvg-logo="http://sltv-icon.cms-s.com/logo/turkeyT/bein_movies_stars.png" group-title="TR| SINEMA",beIN MOVIES STARS HD
+http://dbox.livingteam.cc:80/yigittiner/10052019-dro/26595
+#EXTINF:-1 tvg-id="beinseriesvice.tr" tvg-name="beIN SERIES 1 HD" tvg-logo="http://sltv-icon.cms-s.com/logo/turkeyT/beinSeries1.png" group-title="TR| SINEMA",beIN SERIES 1 HD
+http://dbox.livingteam.cc:80/yigittiner/10052019-dro/5869
+#EXTINF:-1 tvg-id="beinseriesdrama.tr" tvg-name="beIN SERIES 2 HD" tvg-logo="http://sltv-icon.cms-s.com/logo/turkeyT/beinSeries2.png" group-title="TR| SINEMA",beIN SERIES 2 HD
+http://dbox.livingteam.cc:80/yigittiner/10052019-dro/26591
+#EXTINF:-1 tvg-id="beinseriesscifi.tr" tvg-name="beIN SERIES 3 HD" tvg-logo="http://sltv-icon.cms-s.com/logo/turkeyT/beinSeries3.png" group-title="TR| SINEMA",beIN SERIES 3 HD
+http://dbox.livingteam.cc:80/yigittiner/10052019-dro/5870
+#EXTINF:-1 tvg-id="beinseriescomedy.tr" tvg-name="beIN SERIES 4 HD" tvg-logo="http://sltv-icon.cms-s.com/logo/turkeyT/beinSeries4.png" group-title="TR| SINEMA",beIN SERIES 4 HD
+http://dbox.livingteam.cc:80/yigittiner/10052019-dro/5868
+#EXTINF:-1 tvg-id="" tvg-name="beIN SERIES COMEDY" tvg-logo="http://sltv-icon.cms-s.com/logo/turkeyT/bein_series_comedy.png" group-title="TR| SINEMA",beIN SERIES COMEDY
+http://dbox.livingteam.cc:80/yigittiner/10052019-dro/1685
+#EXTINF:-1 tvg-id="" tvg-name="beIN BOX OFFICE 1" tvg-logo="http://sltv-icon.cms-s.com/logo/turkeyT/bein_box_office.png" group-title="TR| SINEMA",beIN BOX OFFICE 1
+http://dbox.livingteam.cc:80/yigittiner/10052019-dro/141030
+#EXTINF:-1 tvg-id="" tvg-name="beIN BOX OFFICE 2" tvg-logo="http://sltv-icon.cms-s.com/logo/turkeyT/bein_box_office_2.png" group-title="TR| SINEMA",beIN BOX OFFICE 2
+http://dbox.livingteam.cc:80/yigittiner/10052019-dro/141029
+#EXTINF:-1 tvg-id="" tvg-name="beIN BOX OFFICE 3" tvg-logo="http://sltv-icon.cms-s.com/logo/turkeyT/bein_box_office_3.png" group-title="TR| SINEMA",beIN BOX OFFICE 3
+http://dbox.livingteam.cc:80/yigittiner/10052019-dro/69148
+#EXTINF:-1 tvg-id="" tvg-name="PLAY TV 3 HD" tvg-logo="http://188.214.27.75/pcnn/play3.png" group-title="TR| SINEMA",PLAY TV 3 HD
+http://dbox.livingteam.cc:80/yigittiner/10052019-dro/171166
+#EXTINF:-1 tvg-id="" tvg-name="CINE 5 HD" tvg-logo="http://188.214.27.75/pcnn/cin5.png" group-title="TR| SINEMA",CINE 5 HD
+http://dbox.livingteam.cc:80/yigittiner/10052019-dro/170295
+#EXTINF:-1 tvg-id="" tvg-name="CINE PREMIUM HD" tvg-logo="http://188.214.27.75/pcnn/cineprem.png" group-title="TR| SINEMA",CINE PREMIUM HD
+http://dbox.livingteam.cc:80/yigittiner/10052019-dro/31097
+#EXTINF:-1 tvg-id="" tvg-name="CINEMA TV HD" tvg-logo="http://188.214.27.75/pcnn/cinem.png" group-title="TR| SINEMA",CINEMA TV HD
+http://dbox.livingteam.cc:80/yigittiner/10052019-dro/169128
+#EXTINF:-1 tvg-id="" tvg-name="TV MOVIE HD" tvg-logo="http://188.214.27.75/pcnn/tvmovie.png" group-title="TR| SINEMA",TV MOVIE HD
+http://dbox.livingteam.cc:80/yigittiner/10052019-dro/169127
+#EXTINF:-1 tvg-id="" tvg-name="HBO HD" tvg-logo="http://188.214.27.75/pcnn/hbo.png" group-title="TR| SINEMA",HBO HD
+http://dbox.livingteam.cc:80/yigittiner/10052019-dro/169126
+#EXTINF:-1 tvg-id="" tvg-name="SHOWTIME HD" tvg-logo="http://188.214.27.75/pcnn/showtim.png" group-title="TR| SINEMA",SHOWTIME HD
+http://dbox.livingteam.cc:80/yigittiner/10052019-dro/37036
+#EXTINF:-1 tvg-id="" tvg-name="TNT FILM HD" tvg-logo="http://188.214.27.75/pcnn/tntfhd.png" group-title="TR| SINEMA",TNT FILM HD
+http://dbox.livingteam.cc:80/yigittiner/10052019-dro/48452
+#EXTINF:-1 tvg-id="" tvg-name="FILMBOX HD" tvg-logo="https://apkx.xyz/tv-tum-dunya-logolar/logolar/tv-tum-dunya-logolar/turkey/filmbox_turkiye.png" group-title="TR| SINEMA",FILMBOX HD
+http://dbox.livingteam.cc:80/yigittiner/10052019-dro/1660
+#EXTINF:-1 tvg-id="" tvg-name="FILMBOX ACTION HD" tvg-logo="https://apkx.xyz/tv-tum-dunya-logolar/logolar/tv-tum-dunya-logolar/turkey/filmbox_turkiye.png" group-title="TR| SINEMA",FILMBOX ACTION HD
+http://dbox.livingteam.cc:80/yigittiner/10052019-dro/138799
+#EXTINF:-1 tvg-id="" tvg-name="FILMBOX PREMIUM HD" tvg-logo="http://apkx.xyz/tv-tum-dunya-logolar/logolar/tv-tum-dunya-logolar/turkey/filmbox_turkiye.png" group-title="TR| SINEMA",FILMBOX PREMIUM HD
+http://dbox.livingteam.cc:80/yigittiner/10052019-dro/23644
+#EXTINF:-1 tvg-id="" tvg-name="FILMBOX EXTRA HD" tvg-logo="https://apkx.xyz/tv-tum-dunya-logolar/logolar/tv-tum-dunya-logolar/turkey/filmbox_turkiye.png" group-title="TR| SINEMA",FILMBOX EXTRA HD
+http://dbox.livingteam.cc:80/yigittiner/10052019-dro/48448
+#EXTINF:-1 tvg-id="" tvg-name="FILMBOX FAMILY HD" tvg-logo="https://apkx.xyz/tv-tum-dunya-logolar/logolar/tv-tum-dunya-logolar/turkey/filmbox_turkiye.png" group-title="TR| SINEMA",FILMBOX FAMILY HD
+http://dbox.livingteam.cc:80/yigittiner/10052019-dro/48450
+#EXTINF:-1 tvg-id="" tvg-name="KingBox Turk" tvg-logo="" group-title="TR| SINEMA",KingBox Turk
+http://dbox.livingteam.cc:80/yigittiner/10052019-dro/28558
+#EXTINF:-1 tvg-id="" tvg-name="CANAL PLAY HD" tvg-logo="http://188.214.27.75/pcnn/canalplay.png" group-title="TR| SINEMA",CANAL PLAY HD
+http://dbox.livingteam.cc:80/yigittiner/10052019-dro/47977
+#EXTINF:-1 tvg-id="" tvg-name="CANAL PLAY 3 HD" tvg-logo="http://188.214.27.75/pcnn/canalplay3.png" group-title="TR| SINEMA",CANAL PLAY 3 HD
+http://dbox.livingteam.cc:80/yigittiner/10052019-dro/169250
+#EXTINF:-1 tvg-id="" tvg-name="CANAL PLAY 4 HD" tvg-logo="http://188.214.27.75/pcnn/canalplay4.png" group-title="TR| SINEMA",CANAL PLAY 4 HD
+http://dbox.livingteam.cc:80/yigittiner/10052019-dro/169251
+#EXTINF:-1 tvg-id="" tvg-name="CANAL PLAY 5 HD" tvg-logo="http://188.214.27.75/pcnn/canalplay5.png" group-title="TR| SINEMA",CANAL PLAY 5 HD
+http://dbox.livingteam.cc:80/yigittiner/10052019-dro/170087
+#EXTINF:-1 tvg-id="" tvg-name="CANAL PLAY 6 HD" tvg-logo="http://188.214.27.75/pcnn/canalplay6.png" group-title="TR| SINEMA",CANAL PLAY 6 HD
+http://dbox.livingteam.cc:80/yigittiner/10052019-dro/46034
+#EXTINF:-1 tvg-id="" tvg-name="CANAL PLAY 7 HD" tvg-logo="http://188.214.27.75/pcnn/canalplay7.png" group-title="TR| SINEMA",CANAL PLAY 7 HD
+http://dbox.livingteam.cc:80/yigittiner/10052019-dro/46033
+#EXTINF:-1 tvg-id="" tvg-name="CANAL PLAY 8 HD" tvg-logo="http://188.214.27.75/pcnn/canalplay8.png" group-title="TR| SINEMA",CANAL PLAY 8 HD
+http://dbox.livingteam.cc:80/yigittiner/10052019-dro/46032
+#EXTINF:-1 tvg-id="" tvg-name="CANAL PLAY 9 HD" tvg-logo="http://188.214.27.75/pcnn/canalplay9.png" group-title="TR| SINEMA",CANAL PLAY 9 HD
+http://dbox.livingteam.cc:80/yigittiner/10052019-dro/46030
+#EXTINF:-1 tvg-id="" tvg-name="CANAL PLAY 10 HD" tvg-logo="http://188.214.27.75/pcnn/canalplay10.png" group-title="TR| SINEMA",CANAL PLAY 10 HD
+http://dbox.livingteam.cc:80/yigittiner/10052019-dro/46026
+#EXTINF:-1 tvg-id="" tvg-name="NEXTBOX MOVIE 2" tvg-logo="http://188.214.27.75/pcnn/nextboxmovie2.png" group-title="TR| SINEMA",NEXTBOX MOVIE 2
+http://dbox.livingteam.cc:80/yigittiner/10052019-dro/168463
+#EXTINF:-1 tvg-id="" tvg-name="CINETIME SCI-FI 1" tvg-logo="http://188.214.27.75/pcnn/nextboxmovie1.png" group-title="TR| SINEMA",CINETIME SCI-FI 1
+http://dbox.livingteam.cc:80/yigittiner/10052019-dro/168464
+#EXTINF:-1 tvg-id="" tvg-name="CINETIME AILE 1" tvg-logo="http://188.214.27.75/pcnn/nextboxgold.png" group-title="TR| SINEMA",CINETIME AILE 1
+http://dbox.livingteam.cc:80/yigittiner/10052019-dro/168457
+#EXTINF:-1 tvg-id="" tvg-name="CINETIME AILE 2" tvg-logo="http://sltv-icon.cms-s.com/logo/turkeyT/bein_movies_family.png" group-title="TR| SINEMA",CINETIME AILE 2
+http://dbox.livingteam.cc:80/yigittiner/10052019-dro/32219
+#EXTINF:-1 tvg-id="" tvg-name="CINETIME AKSIYON 1" tvg-logo="" group-title="TR| SINEMA",CINETIME AKSIYON 1
+http://dbox.livingteam.cc:80/yigittiner/10052019-dro/168462
+#EXTINF:-1 tvg-id="" tvg-name="CINETIME AKSIYON 2" tvg-logo="http://188.214.27.75/pcnn/kingboxaction2.png" group-title="TR| SINEMA",CINETIME AKSIYON 2
+http://dbox.livingteam.cc:80/yigittiner/10052019-dro/141051
+#EXTINF:-1 tvg-id="" tvg-name="CINETIME TURK 1" tvg-logo="http://188.214.27.75/pcnn/kingboxturk.png" group-title="TR| SINEMA",CINETIME TURK 1
+http://dbox.livingteam.cc:80/yigittiner/10052019-dro/141048
+#EXTINF:-1 tvg-id="1" tvg-name="CINETIME TURK 2" tvg-logo="http://sltv-icon.cms-s.com/logo/turkeyT/bein_series_drama.png" group-title="TR| SINEMA",CINETIME TURK 2
+http://dbox.livingteam.cc:80/yigittiner/10052019-dro/5877
+#EXTINF:-1 tvg-id="" tvg-name="CINETIME PREMIER" tvg-logo="http://188.214.27.75/pcnn/nextboxmovie4.png" group-title="TR| SINEMA",CINETIME PREMIER
+http://dbox.livingteam.cc:80/yigittiner/10052019-dro/168461
+#EXTINF:-1 tvg-id="" tvg-name="CINETIME KORKU 1" tvg-logo="" group-title="TR| SINEMA",CINETIME KORKU 1
+http://dbox.livingteam.cc:80/yigittiner/10052019-dro/180084
+#EXTINF:-1 tvg-id="" tvg-name="NEXTBOX MOVIE 5" tvg-logo="http://188.214.27.75/pcnn/nextboxmovie5.png" group-title="TR| SINEMA",NEXTBOX MOVIE 5
+http://dbox.livingteam.cc:80/yigittiner/10052019-dro/168460
+#EXTINF:-1 tvg-id="" tvg-name="CINEMA NETFLIX" tvg-logo="http://188.214.27.75/pcnn/nextboxwall.png" group-title="TR| SINEMA",CINEMA NETFLIX
+http://dbox.livingteam.cc:80/yigittiner/10052019-dro/168455
+#EXTINF:-1 tvg-id="" tvg-name="CINEMA ACTION" tvg-logo="https://apkx.xyz/tv-tum-dunya-logolar/logolar/tv-tum-dunya-logolar/TURKIYE/BlackTVACTION.png" group-title="TR| SINEMA",CINEMA ACTION
+http://dbox.livingteam.cc:80/yigittiner/10052019-dro/141055
+#EXTINF:-1 tvg-id="" tvg-name="CINEMA COMEDY" tvg-logo="https://apkx.xyz/tv-tum-dunya-logolar/logolar/tv-tum-dunya-logolar/TURKIYE/BlackTVCOMEDY.png" group-title="TR| SINEMA",CINEMA COMEDY
+http://dbox.livingteam.cc:80/yigittiner/10052019-dro/171535
+#EXTINF:-1 tvg-id="beinseriescomedy.tr" tvg-name="CINEMA DRAM" tvg-logo="" group-title="TR| SINEMA",CINEMA DRAM
+http://dbox.livingteam.cc:80/yigittiner/10052019-dro/128343
+#EXTINF:-1 tvg-id="" tvg-name="CINEMA YERLI" tvg-logo="http://188.214.27.75/pcnn/nextboxdream.png" group-title="TR| SINEMA",CINEMA YERLI
+http://dbox.livingteam.cc:80/yigittiner/10052019-dro/168458
+#EXTINF:-1 tvg-id="" tvg-name="CINEMA FANTASTIC" tvg-logo="" group-title="TR| SINEMA",CINEMA FANTASTIC
+http://dbox.livingteam.cc:80/yigittiner/10052019-dro/141049
+#EXTINF:-1 tvg-id="" tvg-name="CINETIME FANTASTIK" tvg-logo="http://188.214.27.75/pcnn/nextboxaction.png" group-title="TR| SINEMA",CINETIME FANTASTIK
+http://dbox.livingteam.cc:80/yigittiner/10052019-dro/168459
+#EXTINF:-1 tvg-id="beinmoviesstars.tr" tvg-name="CINEMA YESILCAM" tvg-logo="" group-title="TR| SINEMA",CINEMA YESILCAM
+http://dbox.livingteam.cc:80/yigittiner/10052019-dro/128345
+#EXTINF:-1 tvg-id="" tvg-name="XERO DISNEY+" tvg-logo="" group-title="TR| SINEMA",XERO DISNEY+
+http://dbox.livingteam.cc:80/yigittiner/10052019-dro/141050
+#EXTINF:-1 tvg-id="" tvg-name="XERO NETFLIX" tvg-logo="" group-title="TR| SINEMA",XERO NETFLIX
+http://dbox.livingteam.cc:80/yigittiner/10052019-dro/14645
+#EXTINF:-1 tvg-id="" tvg-name="XERO BILIM KURGU" tvg-logo="" group-title="TR| SINEMA",XERO BILIM KURGU
+http://dbox.livingteam.cc:80/yigittiner/10052019-dro/141052
+#EXTINF:-1 tvg-id="" tvg-name="XERO AMAZON" tvg-logo="" group-title="TR| SINEMA",XERO AMAZON
+http://dbox.livingteam.cc:80/yigittiner/10052019-dro/128344
+#EXTINF:-1 tvg-id="" tvg-name="XERO KOMEDI" tvg-logo="" group-title="TR| SINEMA",XERO KOMEDI
+http://dbox.livingteam.cc:80/yigittiner/10052019-dro/171191
+#EXTINF:-1 tvg-id="" tvg-name="F BOX AKSIYON 1" tvg-logo="http://188.214.27.75/pcnn/nextboxnesla.png" group-title="TR| SINEMA",F BOX AKSIYON 1
+http://dbox.livingteam.cc:80/yigittiner/10052019-dro/168456
+#EXTINF:-1 tvg-id="" tvg-name="F BOX AKSIYON 2" tvg-logo="" group-title="TR| SINEMA",F BOX AKSIYON 2
+http://dbox.livingteam.cc:80/yigittiner/10052019-dro/68541
+#EXTINF:-1 tvg-id="" tvg-name="F BOX TURK 2 HD" tvg-logo="http://188.214.27.75/pcnn/kingboxturk2.png" group-title="TR| SINEMA",F BOX TURK 2 HD
+http://dbox.livingteam.cc:80/yigittiner/10052019-dro/141047
+#EXTINF:-1 tvg-id="cinemax1" tvg-name="LIVING CINEMAX 1" tvg-logo="https://imagizer.imageshack.com/img923/3999/sIGXjb.png" group-title="TR| SINEMA",LIVING CINEMAX 1
+http://dbox.livingteam.cc:80/yigittiner/10052019-dro/13176
+#EXTINF:-1 tvg-id="cinemax2" tvg-name="LIVING CINEMAX 2" tvg-logo="https://imagizer.imageshack.com/img924/6469/ItONZk.png" group-title="TR| SINEMA",LIVING CINEMAX 2
+http://dbox.livingteam.cc:80/yigittiner/10052019-dro/45426
+#EXTINF:-1 tvg-id="" tvg-name="LIVING CINEMAX 3" tvg-logo="https://imagizer.imageshack.com/img924/3551/TY7Mwu.png" group-title="TR| SINEMA",LIVING CINEMAX 3
+http://dbox.livingteam.cc:80/yigittiner/10052019-dro/9389
+#EXTINF:-1 tvg-id="" tvg-name="LIVING CINEMAX 4" tvg-logo="http://188.214.27.75/pcnn/cinemax4.png" group-title="TR| SINEMA",LIVING CINEMAX 4
+http://dbox.livingteam.cc:80/yigittiner/10052019-dro/9388
+#EXTINF:-1 tvg-id="" tvg-name="LIVING CINEMAX 5" tvg-logo="http://188.214.27.75/pcnn/cinemax5.png" group-title="TR| SINEMA",LIVING CINEMAX 5
+http://dbox.livingteam.cc:80/yigittiner/10052019-dro/45233
+#EXTINF:-1 tvg-id="" tvg-name="LIVING AILE" tvg-logo="" group-title="TR| SINEMA",LIVING AILE
+http://dbox.livingteam.cc:80/yigittiner/10052019-dro/46618
+#EXTINF:-1 tvg-id="" tvg-name="LIVING PREMIUM" tvg-logo="" group-title="TR| SINEMA",LIVING PREMIUM
+http://dbox.livingteam.cc:80/yigittiner/10052019-dro/37065
+#EXTINF:-1 tvg-id="" tvg-name="LIVING STAR" tvg-logo="" group-title="TR| SINEMA",LIVING STAR
+http://dbox.livingteam.cc:80/yigittiner/10052019-dro/37066
+#EXTINF:-1 tvg-id="" tvg-name="LIVING WESTERN" tvg-logo="http://188.214.27.75/pcnn/western.png" group-title="TR| SINEMA",LIVING WESTERN
+http://dbox.livingteam.cc:80/yigittiner/10052019-dro/9387
+#EXTINF:-1 tvg-id="" tvg-name="LIVING TURK" tvg-logo="http://188.214.27.75/pcnn/piconTURK.png" group-title="TR| SINEMA",LIVING TURK
+http://dbox.livingteam.cc:80/yigittiner/10052019-dro/9379
+#EXTINF:-1 tvg-id="" tvg-name="LIVING YESILCAM" tvg-logo="http://188.214.27.75/pcnn/yesilcam.png" group-title="TR| SINEMA",LIVING YESILCAM
+http://dbox.livingteam.cc:80/yigittiner/10052019-dro/45425
+#EXTINF:-1 tvg-id="" tvg-name="LIVING KEMAL SUNAL" tvg-logo="https://lo1.in/trk/kem.png" group-title="TR| SINEMA",LIVING KEMAL SUNAL
+http://dbox.livingteam.cc:80/yigittiner/10052019-dro/26598
+#EXTINF:-1 tvg-id="" tvg-name="YESILCAM Kemal Sunal" tvg-logo="" group-title="TR| SINEMA",YESILCAM Kemal Sunal
+http://dbox.livingteam.cc:80/yigittiner/10052019-dro/128342
+#EXTINF:-1 tvg-id="" tvg-name="LIVING Yedi Numara" tvg-logo="https://i.imgur.com/ZTGYBRm.png" group-title="TR| SINEMA",LIVING Yedi Numara
+http://dbox.livingteam.cc:80/yigittiner/10052019-dro/31224
+#EXTINF:-1 tvg-id="" tvg-name="LIVING BIZIMKILER TV" tvg-logo="http://188.214.27.75/pcnn/bizimkiler.png" group-title="TR| SINEMA",LIVING BIZIMKILER TV
+http://dbox.livingteam.cc:80/yigittiner/10052019-dro/14924
+#EXTINF:-1 tvg-id="" tvg-name="LIVING SHOW 1" tvg-logo="https://imagizer.imageshack.com/img923/3201/hVbX9j.png" group-title="TR| SERIES",LIVING SHOW 1
+http://dbox.livingteam.cc:80/yigittiner/10052019-dro/2241
+#EXTINF:-1 tvg-id="" tvg-name="LIVING SHOW 2" tvg-logo="https://imagizer.imageshack.com/img922/6605/4H0Lxg.png" group-title="TR| SERIES",LIVING SHOW 2
+http://dbox.livingteam.cc:80/yigittiner/10052019-dro/2225
+#EXTINF:-1 tvg-id="" tvg-name="LIVING SHOW 3" tvg-logo="https://imagizer.imageshack.com/img923/6876/XSIV9A.png" group-title="TR| SERIES",LIVING SHOW 3
+http://dbox.livingteam.cc:80/yigittiner/10052019-dro/2224
+#EXTINF:-1 tvg-id="" tvg-name="LIVING SHOW 4" tvg-logo="https://imagizer.imageshack.com/img924/6366/VcxDa0.png" group-title="TR| SERIES",LIVING SHOW 4
+http://dbox.livingteam.cc:80/yigittiner/10052019-dro/2220
+#EXTINF:-1 tvg-id="" tvg-name="LIVING SHOW 5" tvg-logo="https://i.imgur.com/eBlUV8y.png" group-title="TR| SERIES",LIVING SHOW 5
+http://dbox.livingteam.cc:80/yigittiner/10052019-dro/35475
+#EXTINF:-1 tvg-id="" tvg-name="TARIH TV" tvg-logo="https://sltv-icon.cms-s.com/logo/turkeyT/tarih-tv.png" group-title="TR| BELGESEL",TARIH TV
+http://dbox.livingteam.cc:80/yigittiner/10052019-dro/69152
+#EXTINF:-1 tvg-id="beINIZ.tr" tvg-name="beIN IZ" tvg-logo="https://sltv-icon.cms-s.com/logo/TURKIYE/BEINIZHD.png" group-title="TR| BELGESEL",beIN IZ
+http://dbox.livingteam.cc:80/yigittiner/10052019-dro/26225
+#EXTINF:-1 tvg-id="beINGurme.tr" tvg-name="beIN GURME" tvg-logo="http://sltv-icon.cms-s.com/logo/turkeyT/bein_gurne.png" group-title="TR| BELGESEL",beIN GURME
+http://dbox.livingteam.cc:80/yigittiner/10052019-dro/15031
+#EXTINF:-1 tvg-id="dmax.tr" tvg-name="DMAX HD" tvg-logo="https://xatemo.pro/picons/tr/dmax.png" group-title="TR| BELGESEL",DMAX HD
+http://dbox.livingteam.cc:80/yigittiner/10052019-dro/16358
+#EXTINF:-1 tvg-id="BBCEarthTurkey.uk" tvg-name="BBC EARTH HD" tvg-logo="https://xatemo.pro/picons/tr/bbc_earth.png" group-title="TR| BELGESEL",BBC EARTH HD
+http://dbox.livingteam.cc:80/yigittiner/10052019-dro/2144
+#EXTINF:-1 tvg-id="viasathistory.tr" tvg-name="VIASAT HISTORY HD" tvg-logo="https://apkx.xyz/tv-tum-dunya-logolar/logolar/tv-tum-dunya-logolar/turkeyT/viasat_history.png" group-title="TR| BELGESEL",VIASAT HISTORY HD
+http://dbox.livingteam.cc:80/yigittiner/10052019-dro/14472
+#EXTINF:-1 tvg-id="viasatexplore.tr" tvg-name="VIASAT EXPLORE HD" tvg-logo="https://www.viasatworld.com/media/1443/explore-vw.png" group-title="TR| BELGESEL",VIASAT EXPLORE HD
+http://dbox.livingteam.cc:80/yigittiner/10052019-dro/17949
+#EXTINF:-1 tvg-id="viasatnature.tr" tvg-name="GZT HD" tvg-logo="" group-title="TR| BELGESEL",GZT HD
+http://dbox.livingteam.cc:80/yigittiner/10052019-dro/174330
+#EXTINF:-1 tvg-id="DiscoveryChannelTurkey.tr" tvg-name="DISCOVERY CHANNEL HD" tvg-logo="http://logo.premium-ott.com:8000/logo/50199.png" group-title="TR| BELGESEL",DISCOVERY CHANNEL HD
+http://dbox.livingteam.cc:80/yigittiner/10052019-dro/9526
+#EXTINF:-1 tvg-id="discoveryid.tr" tvg-name="DISCOVERY ID HD" tvg-logo="https://apkx.xyz/tv-tum-dunya-logolar/logolar/tv-tum-dunya-logolar/turkeyT/discovery_idx.png" group-title="TR| BELGESEL",DISCOVERY ID HD
+http://dbox.livingteam.cc:80/yigittiner/10052019-dro/2139
+#EXTINF:-1 tvg-id="NationalGeographicTurkey.tr" tvg-name="NATIONAL GEOGRAPHIC HD" tvg-logo="http://logo.premium-ott.com:8000/logo/50208.png" group-title="TR| BELGESEL",NATIONAL GEOGRAPHIC HD
+http://dbox.livingteam.cc:80/yigittiner/10052019-dro/3742
+#EXTINF:-1 tvg-id="NationalGeographicWildTurkey.tr" tvg-name="NAT GEO WILD HD" tvg-logo="http://logo.premium-ott.com:8000/logo/50206.png" group-title="TR| BELGESEL",NAT GEO WILD HD
+http://dbox.livingteam.cc:80/yigittiner/10052019-dro/2146
+#EXTINF:-1 tvg-id="TRTBelgesel.tr" tvg-name="TRT BELGESEL HD" tvg-logo="https://apkx.xyz/tv-tum-dunya-logolar/logolar/tv-tum-dunya-logolar/turkeyT/trt_belgesel.png" group-title="TR| BELGESEL",TRT BELGESEL HD
+http://dbox.livingteam.cc:80/yigittiner/10052019-dro/2228
+#EXTINF:-1 tvg-id="LOVENATURE-0xa" tvg-name="LOVE NATURE HD" tvg-logo="https://apkx.xyz/tv-tum-dunya-logolar/logolar/tv-tum-dunya-logolar/turkeyT/love_nature.png" group-title="TR| BELGESEL",LOVE NATURE HD
+http://dbox.livingteam.cc:80/yigittiner/10052019-dro/33055
+#EXTINF:-1 tvg-id="" tvg-name="HABITAT TV HD" tvg-logo="http://sltv-icon.cms-s.com/logo/turkeyT/habitat.png" group-title="TR| BELGESEL",HABITAT TV HD
+http://dbox.livingteam.cc:80/yigittiner/10052019-dro/2107
+#EXTINF:-1 tvg-id="" tvg-name="TGRT BELGESEL ʜᴅ" tvg-logo="" group-title="TR| BELGESEL",TGRT BELGESEL ʜᴅ
+http://dbox.livingteam.cc:80/yigittiner/10052019-dro/26231
+#EXTINF:-1 tvg-id="" tvg-name="LIVING BELGESEL HD" tvg-logo="http://188.214.27.75/pcnn/livbel.png" group-title="TR| BELGESEL",LIVING BELGESEL HD
+http://dbox.livingteam.cc:80/yigittiner/10052019-dro/9386
+#EXTINF:-1 tvg-id="TREK-0xa" tvg-name="LIVING BELGESEL 2 HD" tvg-logo="http://188.214.27.75/pcnn/livbel2.png" group-title="TR| BELGESEL",LIVING BELGESEL 2 HD
+http://dbox.livingteam.cc:80/yigittiner/10052019-dro/45230
+#EXTINF:-1 tvg-id="CHASSEPECHE-0xa" tvg-name="LIVING BELGESEL 3 HD" tvg-logo="" group-title="TR| BELGESEL",LIVING BELGESEL 3 HD
+http://dbox.livingteam.cc:80/yigittiner/10052019-dro/26126
+#EXTINF:-1 tvg-id="DaVinci.de" tvg-name="Da Vinci LEARNING HD" tvg-logo="http://sltv-icon.cms-s.com/logo/turkeyT/da_vici_learning.png" group-title="TR| BELGESEL",Da Vinci LEARNING HD
+http://dbox.livingteam.cc:80/yigittiner/10052019-dro/2136
+#EXTINF:-1 tvg-id="" tvg-name="WELLBEING TV" tvg-logo="http://xatemo.pro/picons/rus/myzentv.png" group-title="TR| BELGESEL",WELLBEING TV
+http://dbox.livingteam.cc:80/yigittiner/10052019-dro/44693
+#EXTINF:-1 tvg-id="STINGRAY-0xa" tvg-name="STINGRAY NATURESCAPE HD" tvg-logo="http://188.214.27.75/pcnn/stingr.png" group-title="TR| BELGESEL",STINGRAY NATURESCAPE HD
+http://dbox.livingteam.cc:80/yigittiner/10052019-dro/2133
+#EXTINF:-1 tvg-id="Yaban.tr" tvg-name="YABAN TV HD" tvg-logo="http://sltv-icon.cms-s.com/logo/turkeyT/yaban_tv.png" group-title="TR| BELGESEL",YABAN TV HD
+http://dbox.livingteam.cc:80/yigittiner/10052019-dro/2127
+#EXTINF:-1 tvg-id="TRTHaber.tr" tvg-name="TRT HABER" tvg-logo="https://xatemo.pro/picons/tr/trt_haber.png" group-title="TR| HABER",TRT HABER
+http://dbox.livingteam.cc:80/yigittiner/10052019-dro/68438
+#EXTINF:-1 tvg-id="TRTHaber.tr" tvg-name="TRT HABER HD" tvg-logo="https://xatemo.pro/picons/tr/trt_haber.png" group-title="TR| HABER",TRT HABER HD
+http://dbox.livingteam.cc:80/yigittiner/10052019-dro/15812
+#EXTINF:-1 tvg-id="NTV.tr" tvg-name="NTV" tvg-logo="https://apkx.xyz/tv-tum-dunya-logolar/logolar/tv-tum-dunya-logolar/turkey/ntv_tr.png" group-title="TR| HABER",NTV
+http://dbox.livingteam.cc:80/yigittiner/10052019-dro/68439
+#EXTINF:-1 tvg-id="NTV.tr" tvg-name="NTV HD" tvg-logo="https://apkx.xyz/tv-tum-dunya-logolar/logolar/tv-tum-dunya-logolar/turkey/ntv_tr.png" group-title="TR| HABER",NTV HD
+http://dbox.livingteam.cc:80/yigittiner/10052019-dro/26232
+#EXTINF:-1 tvg-id="Haberturk.tr" tvg-name="HABERTURK" tvg-logo="https://xatemo.pro/picons/tr/haberturk.png" group-title="TR| HABER",HABERTURK
+http://dbox.livingteam.cc:80/yigittiner/10052019-dro/68440
+#EXTINF:-1 tvg-id="Haberturk.tr" tvg-name="HABERTURK HD" tvg-logo="https://xatemo.pro/picons/tr/haberturk.png" group-title="TR| HABER",HABERTURK HD
+http://dbox.livingteam.cc:80/yigittiner/10052019-dro/26221
+#EXTINF:-1 tvg-id="HaberGlobal.tr" tvg-name="HABER GLOBAL" tvg-logo="https://xatemo.pro/picons/tr/haber_global.png" group-title="TR| HABER",HABER GLOBAL
+http://dbox.livingteam.cc:80/yigittiner/10052019-dro/68441
+#EXTINF:-1 tvg-id="HaberGlobal.tr" tvg-name="HABER GLOBAL HD" tvg-logo="https://xatemo.pro/picons/tr/haber_global.png" group-title="TR| HABER",HABER GLOBAL HD
+http://dbox.livingteam.cc:80/yigittiner/10052019-dro/15814
+#EXTINF:-1 tvg-id="CNNTurk.tr" tvg-name="CNNTURK" tvg-logo="https://apkx.xyz/tv-tum-dunya-logolar/logolar/tv-tum-dunya-logolar/turkeyT/cnn_turk.png" group-title="TR| HABER",CNNTURK
+http://dbox.livingteam.cc:80/yigittiner/10052019-dro/68442
+#EXTINF:-1 tvg-id="CNNTurk.tr" tvg-name="CNNTURK HD" tvg-logo="https://apkx.xyz/tv-tum-dunya-logolar/logolar/tv-tum-dunya-logolar/turkeyT/cnn_turk.png" group-title="TR| HABER",CNNTURK HD
+http://dbox.livingteam.cc:80/yigittiner/10052019-dro/15810
+#EXTINF:-1 tvg-id="TV100.tr" tvg-name="TV100 HD" tvg-logo="http://sltv-icon.cms-s.com/logo/turkeyT/tv_100.png" group-title="TR| HABER",TV100 HD
+http://dbox.livingteam.cc:80/yigittiner/10052019-dro/14303
+#EXTINF:-1 tvg-id="" tvg-name="TV100 UHD" tvg-logo="http://sltv-icon.cms-s.com/logo/turkeyT/tv_100.png" group-title="TR| HABER",TV100 UHD
+http://dbox.livingteam.cc:80/yigittiner/10052019-dro/45825
+#EXTINF:-1 tvg-id="TGRTHaber.tr" tvg-name="TGRT HABER HD" tvg-logo="https://xatemo.pro/picons/tr/tgrt_haber.png" group-title="TR| HABER",TGRT HABER HD
+http://dbox.livingteam.cc:80/yigittiner/10052019-dro/29383
+#EXTINF:-1 tvg-id="24TV.tr" tvg-name="24 HD" tvg-logo="https://xatemo.pro/picons/tr/24_tv.png" group-title="TR| HABER",24 HD
+http://dbox.livingteam.cc:80/yigittiner/10052019-dro/15815
+#EXTINF:-1 tvg-id="HalkTV.tr" tvg-name="HALK TV HD" tvg-logo="https://xatemo.pro/picons/tr/halk_tv.png" group-title="TR| HABER",HALK TV HD
+http://dbox.livingteam.cc:80/yigittiner/10052019-dro/2098
+#EXTINF:-1 tvg-id="HalkTV.tr" tvg-name="HALK TV UHD" tvg-logo="https://xatemo.pro/picons/tr/halk_tv.png" group-title="TR| HABER",HALK TV UHD
+http://dbox.livingteam.cc:80/yigittiner/10052019-dro/70124
+#EXTINF:-1 tvg-id="" tvg-name="SOZCU TV" tvg-logo="http://sltv-icon.cms-s.com/logo/turkeyT/szc.png" group-title="TR| HABER",SOZCU TV
+http://dbox.livingteam.cc:80/yigittiner/10052019-dro/70127
+#EXTINF:-1 tvg-id="" tvg-name="SOZCU TV HD" tvg-logo="http://sltv-icon.cms-s.com/logo/turkeyT/szc.png" group-title="TR| HABER",SOZCU TV HD
+http://dbox.livingteam.cc:80/yigittiner/10052019-dro/70126
+#EXTINF:-1 tvg-id="Tele1.tr" tvg-name="TELE 1" tvg-logo="https://apkx.xyz/tv-tum-dunya-logolar/logolar/tv-tum-dunya-logolar/turkeyT/tele_1.png" group-title="TR| HABER",TELE 1
+http://dbox.livingteam.cc:80/yigittiner/10052019-dro/10604
+#EXTINF:-1 tvg-id="tele1.tr" tvg-name="TELE 1 HD" tvg-logo="https://apkx.xyz/tv-tum-dunya-logolar/logolar/tv-tum-dunya-logolar/turkeyT/tele_1.png" group-title="TR| HABER",TELE 1 HD
+http://dbox.livingteam.cc:80/yigittiner/10052019-dro/15843
+#EXTINF:-1 tvg-id="KRT.tr" tvg-name="KRT HD" tvg-logo="https://xatemo.pro/picons/tr/krt.png" group-title="TR| HABER",KRT HD
+http://dbox.livingteam.cc:80/yigittiner/10052019-dro/15420
+#EXTINF:-1 tvg-id="" tvg-name="FLASH HABER HD" tvg-logo="http://sltv-icon.cms-s.com/logo/turkeyT/flashTv.png" group-title="TR| HABER",FLASH HABER HD
+http://dbox.livingteam.cc:80/yigittiner/10052019-dro/48686
+#EXTINF:-1 tvg-id="AHaber.tr" tvg-name="A HABER" tvg-logo="https://xatemo.pro/picons/tr/a_haber.png" group-title="TR| HABER",A HABER
+http://dbox.livingteam.cc:80/yigittiner/10052019-dro/68444
+#EXTINF:-1 tvg-id="AHaber.tr" tvg-name="A HABER HD" tvg-logo="https://xatemo.pro/picons/tr/a_haber.png" group-title="TR| HABER",A HABER HD
+http://dbox.livingteam.cc:80/yigittiner/10052019-dro/2109
+#EXTINF:-1 tvg-id="BENGUTURK-0xa" tvg-name="BENGUTURK TV HD" tvg-logo="https://xatemo.pro/picons/tr/benguturk.png" group-title="TR| HABER",BENGUTURK TV HD
+http://dbox.livingteam.cc:80/yigittiner/10052019-dro/12062
+#EXTINF:-1 tvg-id="UlusalKanal.tr" tvg-name="ULUSAL KANAL HD" tvg-logo="https://xatemo.pro/picons/tr/ulusal_tv.png" group-title="TR| HABER",ULUSAL KANAL HD
+http://dbox.livingteam.cc:80/yigittiner/10052019-dro/2097
+#EXTINF:-1 tvg-id="" tvg-name="ILKE TV" tvg-logo="http://sltv-icon.cms-s.com/logo/turkeyT/ilke_tv.png" group-title="TR| HABER",ILKE TV
+http://dbox.livingteam.cc:80/yigittiner/10052019-dro/46655
+#EXTINF:-1 tvg-id="UlkeTV.tr" tvg-name="ULKE TV HD" tvg-logo="http://sltv-icon.cms-s.com/logo/turkeyT/ulke_tv.png" group-title="TR| HABER",ULKE TV HD
+http://dbox.livingteam.cc:80/yigittiner/10052019-dro/15813
+#EXTINF:-1 tvg-id="AKIT-0xa" tvg-name="AKIT TV HD" tvg-logo="http://sltv-icon.cms-s.com/logo/turkeyT/akit_tv.png" group-title="TR| HABER",AKIT TV HD
+http://dbox.livingteam.cc:80/yigittiner/10052019-dro/18353
+#EXTINF:-1 tvg-id="TVNet.tr" tvg-name="TVNET HD" tvg-logo="https://xatemo.pro/picons/tr/tv_net.png" group-title="TR| HABER",TVNET HD
+http://dbox.livingteam.cc:80/yigittiner/10052019-dro/32835
+#EXTINF:-1 tvg-id="" tvg-name="LIDER HABER HD" tvg-logo="http://sltv-icon.cms-s.com/logo/turkeyT/liderHaber.png" group-title="TR| HABER",LIDER HABER HD
+http://dbox.livingteam.cc:80/yigittiner/10052019-dro/47973
+#EXTINF:-1 tvg-id="" tvg-name="CNBC-e" tvg-logo="http://sltv-icon.cms-s.com/logo/turkeyT/cnbc-e.png" group-title="TR| EKONOMI",CNBC-e
+http://dbox.livingteam.cc:80/yigittiner/10052019-dro/68443
+#EXTINF:-1 tvg-id="BloombergHT.tr" tvg-name="BLOOMBERGHT HD" tvg-logo="http://sltv-icon.cms-s.com/logo/turkeyT/bloombeerg_ht.png" group-title="TR| EKONOMI",BLOOMBERGHT HD
+http://dbox.livingteam.cc:80/yigittiner/10052019-dro/2101
+#EXTINF:-1 tvg-id="ekoturk.tr" tvg-name="EKOTURK HD" tvg-logo="http://sltv-icon.cms-s.com/logo/turkeyT/ekoturk.png" group-title="TR| EKONOMI",EKOTURK HD
+http://dbox.livingteam.cc:80/yigittiner/10052019-dro/15425
+#EXTINF:-1 tvg-id="APARA-0xa" tvg-name="A PARA HD" tvg-logo="https://xatemo.pro/picons/tr/a_para.png" group-title="TR| EKONOMI",A PARA HD
+http://dbox.livingteam.cc:80/yigittiner/10052019-dro/13392
+#EXTINF:-1 tvg-id="TV8-0xa" tvg-name="TBMM TV" tvg-logo="http://xatemo.pro/picons/tr/trt_sopr3_tbmm.png" group-title="TR| HABER",TBMM TV
+http://dbox.livingteam.cc:80/yigittiner/10052019-dro/46632
+#EXTINF:-1 tvg-id="" tvg-name="TH TURKHABER HD" tvg-logo="https://xatemo.pro/picons/tr/thturkhaber.png" group-title="TR| HABER",TH TURKHABER HD
+http://dbox.livingteam.cc:80/yigittiner/10052019-dro/82442
+#EXTINF:-1 tvg-id="TRTWorld.tr" tvg-name="TRT WORLD HD" tvg-logo="http://logo.premium-ott.com:8000/logo/50011.png" group-title="TR| HABER",TRT WORLD HD
+http://dbox.livingteam.cc:80/yigittiner/10052019-dro/37404
+#EXTINF:-1 tvg-id="" tvg-name="TRT EBA HD" tvg-logo="https://apkx.xyz/tv-tum-dunya-logolar/logolar/tv-tum-dunya-logolar/turkeyT/eba-tv-ilk.png" group-title="TR| COCUK",TRT EBA HD
+http://dbox.livingteam.cc:80/yigittiner/10052019-dro/174331
+#EXTINF:-1 tvg-id="" tvg-name="TRTGENC HD" tvg-logo="" group-title="TR| COCUK",TRTGENC HD
+http://dbox.livingteam.cc:80/yigittiner/10052019-dro/25966
+#EXTINF:-1 tvg-id="TRTCocuk.tr" tvg-name="TRT COCUK HD" tvg-logo="https://xatemo.pro/picons/tr/trt_cocuk.png" group-title="TR| COCUK",TRT COCUK HD
+http://dbox.livingteam.cc:80/yigittiner/10052019-dro/15844
+#EXTINF:-1 tvg-id="" tvg-name="TRT DIYANET COCUK HD" tvg-logo="http://sltv-icon.cms-s.com/logo/turkeyT/trt_diyanet.png" group-title="TR| COCUK",TRT DIYANET COCUK HD
+http://dbox.livingteam.cc:80/yigittiner/10052019-dro/29983
+#EXTINF:-1 tvg-id="" tvg-name="Tabii Çocuk HD" tvg-logo="" group-title="TR| COCUK",Tabii Çocuk HD
+http://dbox.livingteam.cc:80/yigittiner/10052019-dro/188472
+#EXTINF:-1 tvg-id="" tvg-name="SpaceTOON HD" tvg-logo="http://sltv-icon.cms-s.com/logo/turkeyT/spacetoon.png" group-title="TR| COCUK",SpaceTOON HD
+http://dbox.livingteam.cc:80/yigittiner/10052019-dro/12790
+#EXTINF:-1 tvg-id="BoomerangTurkey.tr" tvg-name="CARTOONITO HD" tvg-logo="http://sltv-icon.cms-s.com/logo/a-z/--C--/cartoonito.png" group-title="TR| COCUK",CARTOONITO HD
+http://dbox.livingteam.cc:80/yigittiner/10052019-dro/14190
+#EXTINF:-1 tvg-id="disneyjunior.tr" tvg-name="DISNEY JUNIOR HD" tvg-logo="https://xatemo.pro/picons/tr/disney_junior.png" group-title="TR| COCUK",DISNEY JUNIOR HD
+http://dbox.livingteam.cc:80/yigittiner/10052019-dro/2090
+#EXTINF:-1 tvg-id="NickelodeonTurkey.tr" tvg-name="NICKELODEON HD" tvg-logo="http://logo.premium-ott.com:8000/logo/50043.png" group-title="TR| COCUK",NICKELODEON HD
+http://dbox.livingteam.cc:80/yigittiner/10052019-dro/2096
+#EXTINF:-1 tvg-id="" tvg-name="COCUK SMART HD" tvg-logo="http://sltv-icon.cms-s.com/logo/turkeyT/cocuk_smart.png" group-title="TR| COCUK",COCUK SMART HD
+http://dbox.livingteam.cc:80/yigittiner/10052019-dro/14331
+#EXTINF:-1 tvg-id="NickJrTurkey.tr" tvg-name="NICK JR" tvg-logo="https://xatemo.pro/picons/tr/nickjr.png" group-title="TR| COCUK",NICK JR
+http://dbox.livingteam.cc:80/yigittiner/10052019-dro/2095
+#EXTINF:-1 tvg-id="nicktoons.tr" tvg-name="NICKTOONS" tvg-logo="http://sltv-icon.cms-s.com/logo/turkeyT/nick_toons.png" group-title="TR| COCUK",NICKTOONS
+http://dbox.livingteam.cc:80/yigittiner/10052019-dro/32262
+#EXTINF:-1 tvg-id="CartoonNetworkTurkey.tr" tvg-name="CARTOON NETWORK" tvg-logo="https://xatemo.pro/picons/tr/cartoon_network.png" group-title="TR| COCUK",CARTOON NETWORK
+http://dbox.livingteam.cc:80/yigittiner/10052019-dro/12864
+#EXTINF:-1 tvg-id="" tvg-name="AZOOME" tvg-logo="" group-title="TR| COCUK",AZOOME
+http://dbox.livingteam.cc:80/yigittiner/10052019-dro/2051
+#EXTINF:-1 tvg-id="" tvg-name="MOONBUG KIDS HD" tvg-logo="http://sltv-icon.cms-s.com/logo/turkeyT/Moonbug_Kids.png" group-title="TR| COCUK",MOONBUG KIDS HD
+http://dbox.livingteam.cc:80/yigittiner/10052019-dro/70128
+#EXTINF:-1 tvg-id="MINIKACOCUK-0xa" tvg-name="MINIKA COCUK" tvg-logo="http://sltv-icon.cms-s.com/logo/turkeyT/minikaCocuk.png" group-title="TR| COCUK",MINIKA COCUK
+http://dbox.livingteam.cc:80/yigittiner/10052019-dro/2093
+#EXTINF:-1 tvg-id="MinikaGo.tr" tvg-name="MINIKA GO" tvg-logo="https://xatemo.pro/picons/tr/minikago.png" group-title="TR| COCUK",MINIKA GO
+http://dbox.livingteam.cc:80/yigittiner/10052019-dro/2094
+#EXTINF:-1 tvg-id="BabyTV.uk" tvg-name="BABY TV HD" tvg-logo="https://i.imgur.com/ght4ieM.png" group-title="TR| COCUK",BABY TV HD
+http://dbox.livingteam.cc:80/yigittiner/10052019-dro/2086
+#EXTINF:-1 tvg-id="" tvg-name="ENGLISH CLUB HD" tvg-logo="http://xatemo.pro/picons/cda/englishclubtv.png" group-title="TR| COCUK",ENGLISH CLUB HD
+http://dbox.livingteam.cc:80/yigittiner/10052019-dro/66938
+#EXTINF:-1 tvg-id="" tvg-name="LIVING Thomas & Friends" tvg-logo="" group-title="TR| COCUK",LIVING Thomas & Friends
+http://dbox.livingteam.cc:80/yigittiner/10052019-dro/177065
+#EXTINF:-1 tvg-id="" tvg-name="LIVING NILOYA TV" tvg-logo="http://sltv-icon.cms-s.com/logo/turkeyT/niloya.png" group-title="TR| COCUK",LIVING NILOYA TV
+http://dbox.livingteam.cc:80/yigittiner/10052019-dro/5192
+#EXTINF:-1 tvg-id="" tvg-name="LIVING MASHA TV" tvg-logo="https://i.imgur.com/SOyaNRT.png" group-title="TR| COCUK",LIVING MASHA TV
+http://dbox.livingteam.cc:80/yigittiner/10052019-dro/14269
+#EXTINF:-1 tvg-id="" tvg-name="LIVING BLUEY" tvg-logo="https://i.imgur.com/siuWdIv.png" group-title="TR| COCUK",LIVING BLUEY
+http://dbox.livingteam.cc:80/yigittiner/10052019-dro/69749
+#EXTINF:-1 tvg-id="" tvg-name="LIVING CAMGOZ" tvg-logo="https://i.imgur.com/YsfCnCQ.png" group-title="TR| COCUK",LIVING CAMGOZ
+http://dbox.livingteam.cc:80/yigittiner/10052019-dro/5874
+#EXTINF:-1 tvg-id="" tvg-name="LIVING MOLANG" tvg-logo="https://i.imgur.com/Og3Xl6x.png" group-title="TR| COCUK",LIVING MOLANG
+http://dbox.livingteam.cc:80/yigittiner/10052019-dro/69784
+#EXTINF:-1 tvg-id="" tvg-name="LIVING TELETABILER" tvg-logo="https://i.imgur.com/fkRlu68.png" group-title="TR| COCUK",LIVING TELETABILER
+http://dbox.livingteam.cc:80/yigittiner/10052019-dro/71110
+#EXTINF:-1 tvg-id="" tvg-name="LIVING ALVIN & SINCAPLAR" tvg-logo="https://i.imgur.com/nYG19Vc.png" group-title="TR| COCUK",LIVING ALVIN & SINCAPLAR
+http://dbox.livingteam.cc:80/yigittiner/10052019-dro/12863
+#EXTINF:-1 tvg-id="" tvg-name="LIVING EGE ILE GAGA" tvg-logo="https://imagizer.imageshack.com/img923/4728/17Lk0V.png" group-title="TR| COCUK",LIVING EGE ILE GAGA
+http://dbox.livingteam.cc:80/yigittiner/10052019-dro/37408
+#EXTINF:-1 tvg-id="" tvg-name="LIVING SUPER 1 TAKIM" tvg-logo="https://i.imgur.com/flwEHKt.png" group-title="TR| COCUK",LIVING SUPER 1 TAKIM
+http://dbox.livingteam.cc:80/yigittiner/10052019-dro/35491
+#EXTINF:-1 tvg-id="" tvg-name="LIVING TRUE TV" tvg-logo="https://imagizer.imageshack.com/img922/2011/cXJIxt.png" group-title="TR| COCUK",LIVING TRUE TV
+http://dbox.livingteam.cc:80/yigittiner/10052019-dro/29495
+#EXTINF:-1 tvg-id="" tvg-name="LIVING HEIDI" tvg-logo="https://imagizer.imageshack.com/img922/2334/7Gss3x.png" group-title="TR| COCUK",LIVING HEIDI
+http://dbox.livingteam.cc:80/yigittiner/10052019-dro/38593
+#EXTINF:-1 tvg-id="" tvg-name="LIVING BARBIE TV" tvg-logo="https://lo1.in/trk/bar.png" group-title="TR| COCUK",LIVING BARBIE TV
+http://dbox.livingteam.cc:80/yigittiner/10052019-dro/38811
+#EXTINF:-1 tvg-id="" tvg-name="LIVING HARIKA KANATLAR" tvg-logo="https://i.imgur.com/YHlOLwQ.png" group-title="TR| COCUK",LIVING HARIKA KANATLAR
+http://dbox.livingteam.cc:80/yigittiner/10052019-dro/17821
+#EXTINF:-1 tvg-id="DisneyXD.tr" tvg-name="LIVING KONUSAN TOM" tvg-logo="https://i.imgur.com/ftF38uo.png" group-title="TR| COCUK",LIVING KONUSAN TOM
+http://dbox.livingteam.cc:80/yigittiner/10052019-dro/11995
+#EXTINF:-1 tvg-id="" tvg-name="LIVING POKEMON" tvg-logo="https://imagizer.imageshack.com/img922/392/ZtGxeF.png" group-title="TR| COCUK",LIVING POKEMON
+http://dbox.livingteam.cc:80/yigittiner/10052019-dro/26911
+#EXTINF:-1 tvg-id="" tvg-name="LIVING AVATAR" tvg-logo="" group-title="TR| COCUK",LIVING AVATAR
+http://dbox.livingteam.cc:80/yigittiner/10052019-dro/29984
+#EXTINF:-1 tvg-id="" tvg-name="LIVING KRAL SAKIR TV" tvg-logo="https://i.imgur.com/hdjckWU.png" group-title="TR| COCUK",LIVING KRAL SAKIR TV
+http://dbox.livingteam.cc:80/yigittiner/10052019-dro/26023
+#EXTINF:-1 tvg-id="" tvg-name="LIVING RAFADAN TAYFA" tvg-logo="https://i.imgur.com/IbN54EM.png" group-title="TR| COCUK",LIVING RAFADAN TAYFA
+http://dbox.livingteam.cc:80/yigittiner/10052019-dro/9378
+#EXTINF:-1 tvg-id="" tvg-name="LIVING KELOGLAN TV" tvg-logo="https://imagizer.imageshack.com/img922/1911/vZT6mW.png" group-title="TR| COCUK",LIVING KELOGLAN TV
+http://dbox.livingteam.cc:80/yigittiner/10052019-dro/12787
+#EXTINF:-1 tvg-id="" tvg-name="LIVING PAW PATROL" tvg-logo="https://imagizer.imageshack.com/img922/7929/k36u5o.png" group-title="TR| COCUK",LIVING PAW PATROL
+http://dbox.livingteam.cc:80/yigittiner/10052019-dro/29494
+#EXTINF:-1 tvg-id="" tvg-name="LIVING 44 CATS" tvg-logo="https://i.imgur.com/GP1oOJ7.png" group-title="TR| COCUK",LIVING 44 CATS
+http://dbox.livingteam.cc:80/yigittiner/10052019-dro/29493
+#EXTINF:-1 tvg-id="" tvg-name="LIVING ITFAIYECI SAM" tvg-logo="https://i.imgur.com/v9RTmrr.png" group-title="TR| COCUK",LIVING ITFAIYECI SAM
+http://dbox.livingteam.cc:80/yigittiner/10052019-dro/14777
+#EXTINF:-1 tvg-id="" tvg-name="LIVING MR. BEAN" tvg-logo="https://i.imgur.com/TeaeBBS.png" group-title="TR| COCUK",LIVING MR. BEAN
+http://dbox.livingteam.cc:80/yigittiner/10052019-dro/13119
+#EXTINF:-1 tvg-id="" tvg-name="LIVING PIRTIK" tvg-logo="https://i.imgur.com/sqQcaIl.png" group-title="TR| COCUK",LIVING PIRTIK
+http://dbox.livingteam.cc:80/yigittiner/10052019-dro/27417
+#EXTINF:-1 tvg-id="2618" tvg-name="beINSPORTS HABER HD" tvg-logo="http://45.129.183.111/spor_files/beinhaberfhd.png" group-title="TR| SPOR",beINSPORTS HABER HD
+http://dbox.livingteam.cc:80/yigittiner/10052019-dro/37165
+#EXTINF:-1 tvg-id="6525" tvg-name="TRTSPOR HD" tvg-logo="http://xatemo.pro/picons/tr/trt_spor.png" group-title="TR| SPOR",TRTSPOR HD
+http://dbox.livingteam.cc:80/yigittiner/10052019-dro/15135
+#EXTINF:-1 tvg-id="trtspor.tr" tvg-name="TRTSPOR UHD" tvg-logo="http://xatemo.pro/picons/tr/trt_spor.png" group-title="TR| SPOR",TRTSPOR UHD
+http://dbox.livingteam.cc:80/yigittiner/10052019-dro/2049
+#EXTINF:-1 tvg-id="" tvg-name="TRTSPOR YILDIZ HD" tvg-logo="http://xatemo.pro/picons/tr/trtsporstar.png" group-title="TR| SPOR",TRTSPOR YILDIZ HD
+http://dbox.livingteam.cc:80/yigittiner/10052019-dro/18642
+#EXTINF:-1 tvg-id="" tvg-name="HT SPOR HD" tvg-logo="http://sltv-icon.cms-s.com/logo/turkeyT/htSpor.png" group-title="TR| SPOR",HT SPOR HD
+http://dbox.livingteam.cc:80/yigittiner/10052019-dro/138801
+#EXTINF:-1 tvg-id="" tvg-name="HT SPOR UHD" tvg-logo="http://sltv-icon.cms-s.com/logo/turkeyT/htSpor.png" group-title="TR| SPOR",HT SPOR UHD
+http://dbox.livingteam.cc:80/yigittiner/10052019-dro/36207
+#EXTINF:-1 tvg-id="7233" tvg-name="SIFIR TV HD" tvg-logo="http://sltv-icon.cms-s.com/logo/turkeyT/sifirtv.png" group-title="TR| SPOR",SIFIR TV HD
+http://dbox.livingteam.cc:80/yigittiner/10052019-dro/2052
+#EXTINF:-1 tvg-id="2587" tvg-name="A SPOR" tvg-logo="http://xatemo.pro/picons/tr/a_spor.png" group-title="TR| SPOR",A SPOR
+http://dbox.livingteam.cc:80/yigittiner/10052019-dro/10120
+#EXTINF:-1 tvg-id="6522" tvg-name="A SPOR HD" tvg-logo="http://xatemo.pro/picons/tr/a_spor.png" group-title="TR| SPOR",A SPOR HD
+http://dbox.livingteam.cc:80/yigittiner/10052019-dro/31867
+#EXTINF:-1 tvg-id="" tvg-name="TIVIBUSPOR HD" tvg-logo="https://i.ibb.co/kV7VMgL/tivibu-tr-spor.png" group-title="TR| SPOR",TIVIBUSPOR HD
+http://dbox.livingteam.cc:80/yigittiner/10052019-dro/65751
+#EXTINF:-1 tvg-id="6527" tvg-name="TIVIBUSPOR 1 HD" tvg-logo="https://www.canlitvplayer.com/media/images/tvlogo/ead99218-7774-4e93-b1cf-43904c279bd0_tivibu-spor-tv-player.png" group-title="TR| SPOR",TIVIBUSPOR 1 HD
+http://dbox.livingteam.cc:80/yigittiner/10052019-dro/2064
+#EXTINF:-1 tvg-id="6528" tvg-name="TIVIBUSPOR 2 HD" tvg-logo="https://i.ibb.co/H7p9kqz/tivibu-tr-spor-2.png" group-title="TR| SPOR",TIVIBUSPOR 2 HD
+http://dbox.livingteam.cc:80/yigittiner/10052019-dro/5316
+#EXTINF:-1 tvg-id="6529" tvg-name="TIVIBUSPOR 3 HD" tvg-logo="https://i.ibb.co/bH6WM8p/tivibu-tr-spor-3.png" group-title="TR| SPOR",TIVIBUSPOR 3 HD
+http://dbox.livingteam.cc:80/yigittiner/10052019-dro/8012
+#EXTINF:-1 tvg-id="" tvg-name="TIVIBUSPOR 4 HD" tvg-logo="http://sltv-icon.cms-s.com/logo/turkeyT/tivibuSpor4.png" group-title="TR| SPOR",TIVIBUSPOR 4 HD
+http://dbox.livingteam.cc:80/yigittiner/10052019-dro/38808
+#EXTINF:-1 tvg-id="7233" tvg-name="sporSMART" tvg-logo="http://sltv-icon.cms-s.com/logo/turkeyT/spor_smart.png" group-title="TR| SPOR",sporSMART
+http://dbox.livingteam.cc:80/yigittiner/10052019-dro/46656
+#EXTINF:-1 tvg-id="" tvg-name="sporSMART 2 HD" tvg-logo="http://sltv-icon.cms-s.com/logo/turkeyT/spor_smart2.png" group-title="TR| SPOR",sporSMART 2 HD
+http://dbox.livingteam.cc:80/yigittiner/10052019-dro/26601
+#EXTINF:-1 tvg-id="3885" tvg-name="EUROSPORT 1 HD" tvg-logo="http://logo.premium-ott.com:8000/logo/50174.png" group-title="TR| SPOR",EUROSPORT 1 HD
+http://dbox.livingteam.cc:80/yigittiner/10052019-dro/2043
+#EXTINF:-1 tvg-id="3886" tvg-name="EUROSPORT 2 HD" tvg-logo="http://logo.premium-ott.com:8000/logo/50170.png" group-title="TR| SPOR",EUROSPORT 2 HD
+http://dbox.livingteam.cc:80/yigittiner/10052019-dro/2042
+#EXTINF:-1 tvg-id="FBTV.tr" tvg-name="FB TV HD" tvg-logo="http://sltv-icon.cms-s.com/logo/turkeyT/fb_tv.png" group-title="TR| SPOR",FB TV HD
+http://dbox.livingteam.cc:80/yigittiner/10052019-dro/2037
+#EXTINF:-1 tvg-id="3884" tvg-name="SPORTS TV HD" tvg-logo="http://picnanbla.xyz/picons/220x132/s/sportstv.png" group-title="TR| SPOR",SPORTS TV HD
+http://dbox.livingteam.cc:80/yigittiner/10052019-dro/32600
+#EXTINF:-1 tvg-id="3893" tvg-name="TJK HD" tvg-logo="http://sltv-icon.cms-s.com/logo/turkeyT/tjk_tv.png" group-title="TR| SPOR",TJK HD
+http://dbox.livingteam.cc:80/yigittiner/10052019-dro/45229
+#EXTINF:-1 tvg-id="TAYTV-0xa" tvg-name="TAY TV" tvg-logo="https://xatemo.pro/picons/tr/tay_tv.png" group-title="TR| SPOR",TAY TV
+http://dbox.livingteam.cc:80/yigittiner/10052019-dro/10933
+#EXTINF:-1 tvg-id="" tvg-name="W SPORT HD" tvg-logo="" group-title="TR| SPOR",W SPORT HD
+http://dbox.livingteam.cc:80/yigittiner/10052019-dro/46031
+#EXTINF:-1 tvg-id="6039" tvg-name="REDBUL TV" tvg-logo="http://sltv-icon.cms-s.com/logo/germanynew/red-bull-tv.png" group-title="TR| SPOR",REDBUL TV
+http://dbox.livingteam.cc:80/yigittiner/10052019-dro/32530
+#EXTINF:-1 tvg-id="" tvg-name="FIGHTSCREEN ʜᴅ" tvg-logo="https://apkx.xyz/tv-tum-dunya-logolar/logolar/tv-tum-dunya-logolar/turkey/fight_network_ca.png" group-title="TR| SPOR",FIGHTSCREEN ʜᴅ
+http://dbox.livingteam.cc:80/yigittiner/10052019-dro/48483
+#EXTINF:-1 tvg-id="" tvg-name="FIGHTBOX" tvg-logo="http://sltv-icon.cms-s.com/logo/turkeyT/fightbox.png" group-title="TR| SPOR",FIGHTBOX
+http://dbox.livingteam.cc:80/yigittiner/10052019-dro/139749
+#EXTINF:-1 tvg-id="" tvg-name="UFC FIGHT PASS" tvg-logo="https://picnanbla.xyz/picons/usa/ufcfight.png" group-title="TR| SPOR",UFC FIGHT PASS
+http://dbox.livingteam.cc:80/yigittiner/10052019-dro/141110
+#EXTINF:-1 tvg-id="FIGHTBOX-0xa" tvg-name="COSMO SPORTS HD" tvg-logo="https://picnanbla.xyz/picons/220x132/f/fightboxhd.png" group-title="TR| SPOR",COSMO SPORTS HD
+http://dbox.livingteam.cc:80/yigittiner/10052019-dro/15126
+#EXTINF:-1 tvg-id="TRTSporYildiz.tr" tvg-name="WORLD CUP HD" tvg-logo="http://sltv-icon.cms-s.com/logo/turkeyT/ekolSports.png" group-title="TR| SPOR",WORLD CUP HD
+http://dbox.livingteam.cc:80/yigittiner/10052019-dro/26255
+#EXTINF:-1 tvg-id="" tvg-name="Rumble Spor" tvg-logo="" group-title="TR| SPOR",Rumble Spor
+http://dbox.livingteam.cc:80/yigittiner/10052019-dro/177279
+#EXTINF:-1 tvg-id="beINSports1Turkey.tr" tvg-name="beINSPORTS 1 SD" tvg-logo="http://xatemo.pro/picons/tr/bein_sports_1.png" group-title="TR| beINSPORTS",beINSPORTS 1 SD
+http://dbox.livingteam.cc:80/yigittiner/10052019-dro/69004
+#EXTINF:-1 tvg-id="beINSports1Turkey.tr" tvg-name="beINSPORTS 1" tvg-logo="http://xatemo.pro/picons/tr/bein_sports_1.png" group-title="TR| beINSPORTS",beINSPORTS 1
+http://dbox.livingteam.cc:80/yigittiner/10052019-dro/69005
+#EXTINF:-1 tvg-id="beINSports1Turkey.tr" tvg-name="beINSPORTS 1 HD" tvg-logo="http://xatemo.pro/picons/tr/bein_sports_1.png" group-title="TR| beINSPORTS",beINSPORTS 1 HD
+http://dbox.livingteam.cc:80/yigittiner/10052019-dro/69007
+#EXTINF:-1 tvg-id="" tvg-name="beINSPORTS 1 HD 50FPS" tvg-logo="http://xatemo.pro/picons/tr/bein_sports_1.png" group-title="TR| beINSPORTS",beINSPORTS 1 HD 50FPS
+http://dbox.livingteam.cc:80/yigittiner/10052019-dro/38795
+#EXTINF:-1 tvg-id="beINSports1Turkey.tr" tvg-name="beINSPORTS 1 4K" tvg-logo="http://xatemo.pro/picons/tr/bein_sports_1.png" group-title="TR| beINSPORTS",beINSPORTS 1 4K
+http://dbox.livingteam.cc:80/yigittiner/10052019-dro/69558
+#EXTINF:-1 tvg-id="beINSports1Turkey.tr" tvg-name="beINSPORTS 1 VO" tvg-logo="http://xatemo.pro/picons/tr/bein_sports_1.png" group-title="TR| beINSPORTS",beINSPORTS 1 VO
+http://dbox.livingteam.cc:80/yigittiner/10052019-dro/69008
+#EXTINF:-1 tvg-id="beINSports2Turkey.tr" tvg-name="beINSPORTS 2" tvg-logo="http://xatemo.pro/picons/tr/bein_sports_2.png" group-title="TR| beINSPORTS",beINSPORTS 2
+http://dbox.livingteam.cc:80/yigittiner/10052019-dro/31455
+#EXTINF:-1 tvg-id="beINSports2Turkey.tr" tvg-name="beINSPORTS 2 HD" tvg-logo="http://xatemo.pro/picons/tr/bein_sports_2.png" group-title="TR| beINSPORTS",beINSPORTS 2 HD
+http://dbox.livingteam.cc:80/yigittiner/10052019-dro/15161
+#EXTINF:-1 tvg-id="" tvg-name="beINSPORTS 2 HD 50FPS" tvg-logo="http://xatemo.pro/picons/tr/bein_sports_2.png" group-title="TR| beINSPORTS",beINSPORTS 2 HD 50FPS
+http://dbox.livingteam.cc:80/yigittiner/10052019-dro/12090
+#EXTINF:-1 tvg-id="beINSports2Turkey.tr" tvg-name="beINSPORTS 2 4K" tvg-logo="http://xatemo.pro/picons/tr/bein_sports_2.png" group-title="TR| beINSPORTS",beINSPORTS 2 4K
+http://dbox.livingteam.cc:80/yigittiner/10052019-dro/69279
+#EXTINF:-1 tvg-id="beINSports3Turkey.tr" tvg-name="beINSPORTS 3" tvg-logo="http://xatemo.pro/picons/tr/bein_sports_3.png" group-title="TR| beINSPORTS",beINSPORTS 3
+http://dbox.livingteam.cc:80/yigittiner/10052019-dro/24857
+#EXTINF:-1 tvg-id="beINSports3Turkey.tr" tvg-name="beINSPORTS 3 HD" tvg-logo="http://xatemo.pro/picons/tr/bein_sports_3.png" group-title="TR| beINSPORTS",beINSPORTS 3 HD
+http://dbox.livingteam.cc:80/yigittiner/10052019-dro/15160
+#EXTINF:-1 tvg-id="" tvg-name="beINSPORTS 3 HD 50FPS" tvg-logo="http://xatemo.pro/picons/tr/bein_sports_3.png" group-title="TR| beINSPORTS",beINSPORTS 3 HD 50FPS
+http://dbox.livingteam.cc:80/yigittiner/10052019-dro/69145
+#EXTINF:-1 tvg-id="beINSports3Turkey.tr" tvg-name="beINSPORTS 3 4K" tvg-logo="http://xatemo.pro/picons/tr/bein_sports_3.png" group-title="TR| beINSPORTS",beINSPORTS 3 4K
+http://dbox.livingteam.cc:80/yigittiner/10052019-dro/69281
+#EXTINF:-1 tvg-id="beINSports4Turkey.tr" tvg-name="beINSPORTS 4" tvg-logo="http://xatemo.pro/picons/tr/bein_sports_4.png" group-title="TR| beINSPORTS",beINSPORTS 4
+http://dbox.livingteam.cc:80/yigittiner/10052019-dro/32529
+#EXTINF:-1 tvg-id="beINSports4Turkey.tr" tvg-name="beINSPORTS 4 HD" tvg-logo="http://xatemo.pro/picons/tr/bein_sports_4.png" group-title="TR| beINSPORTS",beINSPORTS 4 HD
+http://dbox.livingteam.cc:80/yigittiner/10052019-dro/15159
+#EXTINF:-1 tvg-id="" tvg-name="beINSPORTS 4 HD 50FPS" tvg-logo="http://xatemo.pro/picons/tr/bein_sports_4.png" group-title="TR| beINSPORTS",beINSPORTS 4 HD 50FPS
+http://dbox.livingteam.cc:80/yigittiner/10052019-dro/47535
+#EXTINF:-1 tvg-id="beINSports4Turkey.tr" tvg-name="beINSPORTS 4 4K" tvg-logo="http://xatemo.pro/picons/tr/bein_sports_4.png" group-title="TR| beINSPORTS",beINSPORTS 4 4K
+http://dbox.livingteam.cc:80/yigittiner/10052019-dro/69283
+#EXTINF:-1 tvg-id="" tvg-name="beINSPORTS 5" tvg-logo="http://sltv-icon.cms-s.com/logo/turkeyT/beinSports5.png" group-title="TR| beINSPORTS",beINSPORTS 5
+http://dbox.livingteam.cc:80/yigittiner/10052019-dro/69789
+#EXTINF:-1 tvg-id="" tvg-name="beINSPORTS 5 HD" tvg-logo="http://sltv-icon.cms-s.com/logo/turkeyT/beinSports5.png" group-title="TR| beINSPORTS",beINSPORTS 5 HD
+http://dbox.livingteam.cc:80/yigittiner/10052019-dro/69790
+#EXTINF:-1 tvg-id="" tvg-name="beINSPORTS 5 HD 50FPS" tvg-logo="http://sltv-icon.cms-s.com/logo/turkeyT/beinSports5.png" group-title="TR| beINSPORTS",beINSPORTS 5 HD 50FPS
+http://dbox.livingteam.cc:80/yigittiner/10052019-dro/69142
+#EXTINF:-1 tvg-id="" tvg-name="beINSPORTS 5 4K" tvg-logo="http://sltv-icon.cms-s.com/logo/turkeyT/beinSports5.png" group-title="TR| beINSPORTS",beINSPORTS 5 4K
+http://dbox.livingteam.cc:80/yigittiner/10052019-dro/69003
+#EXTINF:-1 tvg-id="beINSportsMax1Turkey.tr" tvg-name="beINSPORTS 1max" tvg-logo="http://xatemo.pro/picons/tr/bein_sports_max_1.png" group-title="TR| beINSPORTS",beINSPORTS 1max
+http://dbox.livingteam.cc:80/yigittiner/10052019-dro/65818
+#EXTINF:-1 tvg-id="beINSportsMax1Turkey.tr" tvg-name="beINSPORTS 1max HD" tvg-logo="http://xatemo.pro/picons/tr/bein_sports_max_1.png" group-title="TR| beINSPORTS",beINSPORTS 1max HD
+http://dbox.livingteam.cc:80/yigittiner/10052019-dro/15158
+#EXTINF:-1 tvg-id="" tvg-name="beINSPORTS 1max HD 50FPS" tvg-logo="http://xatemo.pro/picons/tr/bein_sports_max_1.png" group-title="TR| beINSPORTS",beINSPORTS 1max HD 50FPS
+http://dbox.livingteam.cc:80/yigittiner/10052019-dro/47978
+#EXTINF:-1 tvg-id="beINSportsMax2Turkey.tr" tvg-name="beINSPORTS 2max" tvg-logo="http://xatemo.pro/picons/tr/bein_sports_max_2.png" group-title="TR| beINSPORTS",beINSPORTS 2max
+http://dbox.livingteam.cc:80/yigittiner/10052019-dro/32058
+#EXTINF:-1 tvg-id="beINSportsMax2Turkey.tr" tvg-name="beINSPORTS 2max HD" tvg-logo="http://xatemo.pro/picons/tr/bein_sports_max_2.png" group-title="TR| beINSPORTS",beINSPORTS 2max HD
+http://dbox.livingteam.cc:80/yigittiner/10052019-dro/15157
+#EXTINF:-1 tvg-id="" tvg-name="beINSPORTS 2max HD 50FPS" tvg-logo="http://xatemo.pro/picons/tr/bein_sports_max_2.png" group-title="TR| beINSPORTS",beINSPORTS 2max HD 50FPS
+http://dbox.livingteam.cc:80/yigittiner/10052019-dro/69144
+#EXTINF:-1 tvg-id="" tvg-name="beINCONNECT 1 HD" tvg-logo="https://granada.choval.xyz/tr/spor/beinconnect.png" group-title="TR| beINSPORTS",beINCONNECT 1 HD
+http://dbox.livingteam.cc:80/yigittiner/10052019-dro/44682
+#EXTINF:-1 tvg-id="" tvg-name="beINCONNECT 2 HD" tvg-logo="https://granada.choval.xyz/tr/spor/beinconnect.png" group-title="TR| beINSPORTS",beINCONNECT 2 HD
+http://dbox.livingteam.cc:80/yigittiner/10052019-dro/44681
+#EXTINF:-1 tvg-id="" tvg-name="beINCONNECT 3 HD" tvg-logo="https://granada.choval.xyz/tr/spor/beinconnect.png" group-title="TR| beINSPORTS",beINCONNECT 3 HD
+http://dbox.livingteam.cc:80/yigittiner/10052019-dro/44680
+#EXTINF:-1 tvg-id="" tvg-name="beINCONNECT 4 HD" tvg-logo="https://granada.choval.xyz/tr/spor/beinconnect.png" group-title="TR| beINSPORTS",beINCONNECT 4 HD
+http://dbox.livingteam.cc:80/yigittiner/10052019-dro/44679
+#EXTINF:-1 tvg-id="" tvg-name="beINCONNECT 5 HD" tvg-logo="https://granada.choval.xyz/tr/spor/beinconnect.png" group-title="TR| beINSPORTS",beINCONNECT 5 HD
+http://dbox.livingteam.cc:80/yigittiner/10052019-dro/44678
+#EXTINF:-1 tvg-id="" tvg-name="beINCONNECT 6 HD" tvg-logo="https://granada.choval.xyz/tr/spor/beinconnect.png" group-title="TR| beINSPORTS",beINCONNECT 6 HD
+http://dbox.livingteam.cc:80/yigittiner/10052019-dro/44677
+#EXTINF:-1 tvg-id="" tvg-name="beINCONNECT 7 HD" tvg-logo="" group-title="TR| beINSPORTS",beINCONNECT 7 HD
+http://dbox.livingteam.cc:80/yigittiner/10052019-dro/10914
+#EXTINF:-1 tvg-id="" tvg-name="beINCONNECT 8 HD" tvg-logo="" group-title="TR| beINSPORTS",beINCONNECT 8 HD
+http://dbox.livingteam.cc:80/yigittiner/10052019-dro/10925
+#EXTINF:-1 tvg-id="" tvg-name="beINCONNECT 9 HD" tvg-logo="" group-title="TR| beINSPORTS",beINCONNECT 9 HD
+http://dbox.livingteam.cc:80/yigittiner/10052019-dro/10956
+#EXTINF:-1 tvg-id="" tvg-name="beINCONNECT 10 HD" tvg-logo="" group-title="TR| beINSPORTS",beINCONNECT 10 HD
+http://dbox.livingteam.cc:80/yigittiner/10052019-dro/187694
+#EXTINF:-1 tvg-id="" tvg-name="tabii SPOR HD" tvg-logo="https://lo1.in/trk/TABII.png" group-title="TR| tabii SPOR",tabii SPOR HD
+http://dbox.livingteam.cc:80/yigittiner/10052019-dro/165960
+#EXTINF:-1 tvg-id="" tvg-name="tabii SPOR UHD" tvg-logo="https://lo1.in/trk/TABII.png" group-title="TR| tabii SPOR",tabii SPOR UHD
+http://dbox.livingteam.cc:80/yigittiner/10052019-dro/165959
+#EXTINF:-1 tvg-id="" tvg-name="tabii SPOR 1 HD" tvg-logo="https://lo1.in/trk/TABII.png" group-title="TR| tabii SPOR",tabii SPOR 1 HD
+http://dbox.livingteam.cc:80/yigittiner/10052019-dro/164638
+#EXTINF:-1 tvg-id="" tvg-name="tabii SPOR 1 UHD" tvg-logo="https://lo1.in/trk/TABII.png" group-title="TR| tabii SPOR",tabii SPOR 1 UHD
+http://dbox.livingteam.cc:80/yigittiner/10052019-dro/164637
+#EXTINF:-1 tvg-id="" tvg-name="tabii SPOR 2 HD" tvg-logo="https://lo1.in/trk/TABII.png" group-title="TR| tabii SPOR",tabii SPOR 2 HD
+http://dbox.livingteam.cc:80/yigittiner/10052019-dro/164636
+#EXTINF:-1 tvg-id="" tvg-name="tabii SPOR 2 UHD" tvg-logo="https://lo1.in/trk/TABII.png" group-title="TR| tabii SPOR",tabii SPOR 2 UHD
+http://dbox.livingteam.cc:80/yigittiner/10052019-dro/164635
+#EXTINF:-1 tvg-id="" tvg-name="tabii SPOR 3 HD" tvg-logo="https://lo1.in/trk/TABII.png" group-title="TR| tabii SPOR",tabii SPOR 3 HD
+http://dbox.livingteam.cc:80/yigittiner/10052019-dro/164634
+#EXTINF:-1 tvg-id="" tvg-name="tabii SPOR 3 UHD" tvg-logo="https://lo1.in/trk/TABII.png" group-title="TR| tabii SPOR",tabii SPOR 3 UHD
+http://dbox.livingteam.cc:80/yigittiner/10052019-dro/164633
+#EXTINF:-1 tvg-id="" tvg-name="tabii SPOR 4 HD" tvg-logo="https://lo1.in/trk/TABII.png" group-title="TR| tabii SPOR",tabii SPOR 4 HD
+http://dbox.livingteam.cc:80/yigittiner/10052019-dro/164617
+#EXTINF:-1 tvg-id="" tvg-name="tabii SPOR 4 UHD" tvg-logo="https://lo1.in/trk/TABII.png" group-title="TR| tabii SPOR",tabii SPOR 4 UHD
+http://dbox.livingteam.cc:80/yigittiner/10052019-dro/164616
+#EXTINF:-1 tvg-id="" tvg-name="tabii SPOR 5 HD" tvg-logo="https://lo1.in/trk/TABII.png" group-title="TR| tabii SPOR",tabii SPOR 5 HD
+http://dbox.livingteam.cc:80/yigittiner/10052019-dro/164615
+#EXTINF:-1 tvg-id="" tvg-name="tabii SPOR 5 UHD" tvg-logo="https://lo1.in/trk/TABII.png" group-title="TR| tabii SPOR",tabii SPOR 5 UHD
+http://dbox.livingteam.cc:80/yigittiner/10052019-dro/164614
+#EXTINF:-1 tvg-id="" tvg-name="tabii SPOR 6 HD" tvg-logo="https://lo1.in/trk/TABII.png" group-title="TR| tabii SPOR",tabii SPOR 6 HD
+http://dbox.livingteam.cc:80/yigittiner/10052019-dro/164613
+#EXTINF:-1 tvg-id="" tvg-name="tabii SPOR 6 UHD" tvg-logo="https://lo1.in/trk/TABII.png" group-title="TR| tabii SPOR",tabii SPOR 6 UHD
+http://dbox.livingteam.cc:80/yigittiner/10052019-dro/164612
+#EXTINF:-1 tvg-id="" tvg-name="tabii SPOR 7 HD" tvg-logo="" group-title="TR| tabii SPOR",tabii SPOR 7 HD
+http://dbox.livingteam.cc:80/yigittiner/10052019-dro/174092
+#EXTINF:-1 tvg-id="" tvg-name="tabii SPOR 7 UHD" tvg-logo="" group-title="TR| tabii SPOR",tabii SPOR 7 UHD
+http://dbox.livingteam.cc:80/yigittiner/10052019-dro/66692
+#EXTINF:-1 tvg-id="" tvg-name="SSPORT" tvg-logo="http://sltv-icon.cms-s.com/logo/turkeyT/s_sport.png" group-title="TR| SSPORT",SSPORT
+http://dbox.livingteam.cc:80/yigittiner/10052019-dro/2040
+#EXTINF:-1 tvg-id="SSPORT-0xa" tvg-name="SSPORT HD" tvg-logo="http://sltv-icon.cms-s.com/logo/turkeyT/s_sport.png" group-title="TR| SSPORT",SSPORT HD
+http://dbox.livingteam.cc:80/yigittiner/10052019-dro/15804
+#EXTINF:-1 tvg-id="beinsports1.tr" tvg-name="SSPORT UHD" tvg-logo="http://sltv-icon.cms-s.com/logo/turkeyT/s_sport.png" group-title="TR| SSPORT",SSPORT UHD
+http://dbox.livingteam.cc:80/yigittiner/10052019-dro/127095
+#EXTINF:-1 tvg-id="ssport2.tr" tvg-name="SSPORT 2" tvg-logo="http://sltv-icon.cms-s.com/logo/turkeyT/s_sport_2.png" group-title="TR| SSPORT",SSPORT 2
+http://dbox.livingteam.cc:80/yigittiner/10052019-dro/46616
+#EXTINF:-1 tvg-id="" tvg-name="SSPORT 2 HD" tvg-logo="http://sltv-icon.cms-s.com/logo/turkeyT/s_sport_2.png" group-title="TR| SSPORT",SSPORT 2 HD
+http://dbox.livingteam.cc:80/yigittiner/10052019-dro/10028
+#EXTINF:-1 tvg-id="" tvg-name="SSPORT+ LIVE HD ( YAYIN ZAMANI AKTIF )" tvg-logo="http://sltv-icon.cms-s.com/logo/turkeyT/s_sport.png" group-title="TR| SSPORT",SSPORT+ LIVE HD ( YAYIN ZAMANI AKTIF )
+http://dbox.livingteam.cc:80/yigittiner/10052019-dro/27631
+#EXTINF:-1 tvg-id="" tvg-name="SSPORT+ 1 LIVE HD ( YAYIN ZAMANI AKTIF )" tvg-logo="http://sltv-icon.cms-s.com/logo/turkeyT/s_sport.png" group-title="TR| SSPORT",SSPORT+ 1 LIVE HD ( YAYIN ZAMANI AKTIF )
+http://dbox.livingteam.cc:80/yigittiner/10052019-dro/46649
+#EXTINF:-1 tvg-id="" tvg-name="SSPORT+ 2 LIVE HD ( YAYIN ZAMANI AKTIF )" tvg-logo="http://sltv-icon.cms-s.com/logo/turkeyT/s_sport.png" group-title="TR| SSPORT",SSPORT+ 2 LIVE HD ( YAYIN ZAMANI AKTIF )
+http://dbox.livingteam.cc:80/yigittiner/10052019-dro/46650
+#EXTINF:-1 tvg-id="" tvg-name="SSPORT+ 3 LIVE HD ( YAYIN ZAMANI AKTIF )" tvg-logo="http://sltv-icon.cms-s.com/logo/turkeyT/s_sport.png" group-title="TR| SSPORT",SSPORT+ 3 LIVE HD ( YAYIN ZAMANI AKTIF )
+http://dbox.livingteam.cc:80/yigittiner/10052019-dro/46651
+#EXTINF:-1 tvg-id="" tvg-name="SSPORT+ 4 LIVE HD ( YAYIN ZAMANI AKTIF )" tvg-logo="http://sltv-icon.cms-s.com/logo/turkeyT/s_sport.png" group-title="TR| SSPORT",SSPORT+ 4 LIVE HD ( YAYIN ZAMANI AKTIF )
+http://dbox.livingteam.cc:80/yigittiner/10052019-dro/46652
+#EXTINF:-1 tvg-id="" tvg-name="SSPORT+ 5 LIVE HD ( YAYIN ZAMANI AKTIF )" tvg-logo="http://sltv-icon.cms-s.com/logo/turkeyT/s_sport.png" group-title="TR| SSPORT",SSPORT+ 5 LIVE HD ( YAYIN ZAMANI AKTIF )
+http://dbox.livingteam.cc:80/yigittiner/10052019-dro/46653
+#EXTINF:-1 tvg-id="" tvg-name="EXXEN 1 ( YAYIN ZAMANI AKTIF )" tvg-logo="http://sltv-icon.cms-s.com/logo/turkeyT/Exxen.png.png" group-title="TR| EXXEN SPOR",EXXEN 1 ( YAYIN ZAMANI AKTIF )
+http://dbox.livingteam.cc:80/yigittiner/10052019-dro/47534
+#EXTINF:-1 tvg-id="" tvg-name="EXXEN 1 HD ( YAYIN ZAMANI AKTIF )" tvg-logo="http://sltv-icon.cms-s.com/logo/turkeyT/Exxen.png.png" group-title="TR| EXXEN SPOR",EXXEN 1 HD ( YAYIN ZAMANI AKTIF )
+http://dbox.livingteam.cc:80/yigittiner/10052019-dro/47363
+#EXTINF:-1 tvg-id="" tvg-name="EXXEN 2 HD ( YAYIN ZAMANI AKTIF )" tvg-logo="http://sltv-icon.cms-s.com/logo/turkeyT/Exxen.png.png" group-title="TR| EXXEN SPOR",EXXEN 2 HD ( YAYIN ZAMANI AKTIF )
+http://dbox.livingteam.cc:80/yigittiner/10052019-dro/47362
+#EXTINF:-1 tvg-id="" tvg-name="EXXEN 2 HD ( YAYIN ZAMANI AKTIF )" tvg-logo="http://sltv-icon.cms-s.com/logo/turkeyT/Exxen.png.png" group-title="TR| EXXEN SPOR",EXXEN 2 HD ( YAYIN ZAMANI AKTIF )
+http://dbox.livingteam.cc:80/yigittiner/10052019-dro/69143
+#EXTINF:-1 tvg-id="" tvg-name="EXXEN 3 ( YAYIN ZAMANI AKTIF )" tvg-logo="http://sltv-icon.cms-s.com/logo/turkeyT/Exxen.png.png" group-title="TR| EXXEN SPOR",EXXEN 3 ( YAYIN ZAMANI AKTIF )
+http://dbox.livingteam.cc:80/yigittiner/10052019-dro/47536
+#EXTINF:-1 tvg-id="" tvg-name="EXXEN 3 HD ( YAYIN ZAMANI AKTIF )" tvg-logo="http://sltv-icon.cms-s.com/logo/turkeyT/Exxen.png.png" group-title="TR| EXXEN SPOR",EXXEN 3 HD ( YAYIN ZAMANI AKTIF )
+http://dbox.livingteam.cc:80/yigittiner/10052019-dro/47361
+#EXTINF:-1 tvg-id="" tvg-name="EXXEN 4 ( YAYIN ZAMANI AKTIF )" tvg-logo="http://sltv-icon.cms-s.com/logo/turkeyT/Exxen.png.png" group-title="TR| EXXEN SPOR",EXXEN 4 ( YAYIN ZAMANI AKTIF )
+http://dbox.livingteam.cc:80/yigittiner/10052019-dro/47537
+#EXTINF:-1 tvg-id="" tvg-name="EXXEN 4 HD ( YAYIN ZAMANI AKTIF )" tvg-logo="http://sltv-icon.cms-s.com/logo/turkeyT/Exxen.png.png" group-title="TR| EXXEN SPOR",EXXEN 4 HD ( YAYIN ZAMANI AKTIF )
+http://dbox.livingteam.cc:80/yigittiner/10052019-dro/47360
+#EXTINF:-1 tvg-id="" tvg-name="EXXEN 5 ( YAYIN ZAMANI AKTIF )" tvg-logo="http://sltv-icon.cms-s.com/logo/turkeyT/Exxen.png.png" group-title="TR| EXXEN SPOR",EXXEN 5 ( YAYIN ZAMANI AKTIF )
+http://dbox.livingteam.cc:80/yigittiner/10052019-dro/47538
+#EXTINF:-1 tvg-id="" tvg-name="EXXEN 5 HD ( YAYIN ZAMANI AKTIF )" tvg-logo="http://sltv-icon.cms-s.com/logo/turkeyT/Exxen.png.png" group-title="TR| EXXEN SPOR",EXXEN 5 HD ( YAYIN ZAMANI AKTIF )
+http://dbox.livingteam.cc:80/yigittiner/10052019-dro/47359
+#EXTINF:-1 tvg-id="" tvg-name="EXXEN 6 ( YAYIN ZAMANI AKTIF )" tvg-logo="http://sltv-icon.cms-s.com/logo/turkeyT/Exxen.png.png" group-title="TR| EXXEN SPOR",EXXEN 6 ( YAYIN ZAMANI AKTIF )
+http://dbox.livingteam.cc:80/yigittiner/10052019-dro/47539
+#EXTINF:-1 tvg-id="" tvg-name="EXXEN 6 HD ( YAYIN ZAMANI AKTIF )" tvg-logo="http://sltv-icon.cms-s.com/logo/turkeyT/Exxen.png.png" group-title="TR| EXXEN SPOR",EXXEN 6 HD ( YAYIN ZAMANI AKTIF )
+http://dbox.livingteam.cc:80/yigittiner/10052019-dro/47315
+#EXTINF:-1 tvg-id="" tvg-name="EXXEN 7 ( YAYIN ZAMANI AKTIF )" tvg-logo="http://sltv-icon.cms-s.com/logo/turkeyT/Exxen.png.png" group-title="TR| EXXEN SPOR",EXXEN 7 ( YAYIN ZAMANI AKTIF )
+http://dbox.livingteam.cc:80/yigittiner/10052019-dro/47993
+#EXTINF:-1 tvg-id="" tvg-name="EXXEN 7 HD ( YAYIN ZAMANI AKTIF )" tvg-logo="http://sltv-icon.cms-s.com/logo/turkeyT/Exxen.png.png" group-title="TR| EXXEN SPOR",EXXEN 7 HD ( YAYIN ZAMANI AKTIF )
+http://dbox.livingteam.cc:80/yigittiner/10052019-dro/47992
+#EXTINF:-1 tvg-id="" tvg-name="EXXEN 8 ( YAYIN ZAMANI AKTIF )" tvg-logo="http://sltv-icon.cms-s.com/logo/turkeyT/Exxen.png.png" group-title="TR| EXXEN SPOR",EXXEN 8 ( YAYIN ZAMANI AKTIF )
+http://dbox.livingteam.cc:80/yigittiner/10052019-dro/47991
+#EXTINF:-1 tvg-id="" tvg-name="EXXEN 8 HD ( YAYIN ZAMANI AKTIF )" tvg-logo="http://sltv-icon.cms-s.com/logo/turkeyT/Exxen.png.png" group-title="TR| EXXEN SPOR",EXXEN 8 HD ( YAYIN ZAMANI AKTIF )
+http://dbox.livingteam.cc:80/yigittiner/10052019-dro/47990
+#EXTINF:-1 tvg-id="" tvg-name="EXXEN 9 ( YAYIN ZAMANI AKTIF )" tvg-logo="http://sltv-icon.cms-s.com/logo/turkeyT/Exxen.png.png" group-title="TR| EXXEN SPOR",EXXEN 9 ( YAYIN ZAMANI AKTIF )
+http://dbox.livingteam.cc:80/yigittiner/10052019-dro/47989
+#EXTINF:-1 tvg-id="" tvg-name="EXXEN 9 HD ( YAYIN ZAMANI AKTIF )" tvg-logo="http://sltv-icon.cms-s.com/logo/turkeyT/Exxen.png.png" group-title="TR| EXXEN SPOR",EXXEN 9 HD ( YAYIN ZAMANI AKTIF )
+http://dbox.livingteam.cc:80/yigittiner/10052019-dro/47988
+#EXTINF:-1 tvg-id="" tvg-name="LIVING SOMINE" tvg-logo="https://i.imgur.com/OHfjGQZ.png" group-title="TR| MUZIK",LIVING SOMINE
+http://dbox.livingteam.cc:80/yigittiner/10052019-dro/38851
+#EXTINF:-1 tvg-id="" tvg-name="LIVING MUSIC HD" tvg-logo="https://imagizer.imageshack.com/img924/2205/WbLzuD.png" group-title="TR| MUZIK",LIVING MUSIC HD
+http://dbox.livingteam.cc:80/yigittiner/10052019-dro/11808
+#EXTINF:-1 tvg-id="TRTMuzik.tr" tvg-name="TRT MUZIK HD" tvg-logo="http://sltv-icon.cms-s.com/logo/turkeyT/trtMuzik.png" group-title="TR| MUZIK",TRT MUZIK HD
+http://dbox.livingteam.cc:80/yigittiner/10052019-dro/14082
+#EXTINF:-1 tvg-id="" tvg-name="KRALPOP HD" tvg-logo="http://sltv-icon.cms-s.com/logo/turkeyT/kralPop.png" group-title="TR| MUZIK",KRALPOP HD
+http://dbox.livingteam.cc:80/yigittiner/10052019-dro/15171
+#EXTINF:-1 tvg-id="" tvg-name="POWER TV HD" tvg-logo="http://sltv-icon.cms-s.com/logo/turkeyT/power.png" group-title="TR| MUZIK",POWER TV HD
+http://dbox.livingteam.cc:80/yigittiner/10052019-dro/14084
+#EXTINF:-1 tvg-id="" tvg-name="POWERTURK HD" tvg-logo="http://xatemo.pro/picons/tr/power.png" group-title="TR| MUZIK",POWERTURK HD
+http://dbox.livingteam.cc:80/yigittiner/10052019-dro/37409
+#EXTINF:-1 tvg-id="" tvg-name="POWERTURK SLOW" tvg-logo="" group-title="TR| MUZIK",POWERTURK SLOW
+http://dbox.livingteam.cc:80/yigittiner/10052019-dro/185420
+#EXTINF:-1 tvg-id="" tvg-name="POWERTURK TAPTAZE" tvg-logo="" group-title="TR| MUZIK",POWERTURK TAPTAZE
+http://dbox.livingteam.cc:80/yigittiner/10052019-dro/139946
+#EXTINF:-1 tvg-id="" tvg-name="POWERTURK AKUSTIK" tvg-logo="" group-title="TR| MUZIK",POWERTURK AKUSTIK
+http://dbox.livingteam.cc:80/yigittiner/10052019-dro/47279
+#EXTINF:-1 tvg-id="" tvg-name="DREAM TV" tvg-logo="http://xatemo.pro/picons/tr/dreamturk.png" group-title="TR| MUZIK",DREAM TV
+http://dbox.livingteam.cc:80/yigittiner/10052019-dro/48373
+#EXTINF:-1 tvg-id="" tvg-name="DREAM TURK HD" tvg-logo="https://xatemo.pro/picons/tr/dreamturk.png" group-title="TR| MUZIK",DREAM TURK HD
+http://dbox.livingteam.cc:80/yigittiner/10052019-dro/2079
+#EXTINF:-1 tvg-id="" tvg-name="NR1 HD" tvg-logo="http://sltv-icon.cms-s.com/logo/turkeyT/nr1.png" group-title="TR| MUZIK",NR1 HD
+http://dbox.livingteam.cc:80/yigittiner/10052019-dro/2076
+#EXTINF:-1 tvg-id="" tvg-name="NR1 TURK HD" tvg-logo="http://sltv-icon.cms-s.com/logo/turkeyT/nr1Turk.png" group-title="TR| MUZIK",NR1 TURK HD
+http://dbox.livingteam.cc:80/yigittiner/10052019-dro/2075
+#EXTINF:-1 tvg-id="" tvg-name="NR1 ASK HD" tvg-logo="https://apkx.xyz/tv-tum-dunya-logolar/logolar/tv-tum-dunya-logolar/TURKIYE/NR1HDPLUS.png" group-title="TR| MUZIK",NR1 ASK HD
+http://dbox.livingteam.cc:80/yigittiner/10052019-dro/14836
+#EXTINF:-1 tvg-id="" tvg-name="NR1 DANCE HD" tvg-logo="https://apkx.xyz/tv-tum-dunya-logolar/logolar/tv-tum-dunya-logolar/TURKIYE/NR1HDPLUS.png" group-title="TR| MUZIK",NR1 DANCE HD
+http://dbox.livingteam.cc:80/yigittiner/10052019-dro/38794
+#EXTINF:-1 tvg-id="" tvg-name="YILDIZ EN TV" tvg-logo="http://sltv-icon.cms-s.com/logo/turkeyT/yildiz_rize.png" group-title="TR| MUZIK",YILDIZ EN TV
+http://dbox.livingteam.cc:80/yigittiner/10052019-dro/13393
+#EXTINF:-1 tvg-id="" tvg-name="ANADOLU DERNEK" tvg-logo="http://sltv-icon.cms-s.com/logo/turkeyT/anadolu_dernek.png" group-title="TR| MUZIK",ANADOLU DERNEK
+http://dbox.livingteam.cc:80/yigittiner/10052019-dro/15422
+#EXTINF:-1 tvg-id="" tvg-name="EKiN TURK TV" tvg-logo="https://xatemo.pro/picons/tr/ekinturk_tv.png" group-title="TR| MUZIK",EKiN TURK TV
+http://dbox.livingteam.cc:80/yigittiner/10052019-dro/26597
+#EXTINF:-1 tvg-id="" tvg-name="TMB" tvg-logo="http://sltv-icon.cms-s.com/logo/turkeyT/tmb.png" group-title="TR| MUZIK",TMB
+http://dbox.livingteam.cc:80/yigittiner/10052019-dro/26261
+#EXTINF:-1 tvg-id="" tvg-name="TRACE UK HD" tvg-logo="" group-title="TR| MUZIK",TRACE UK HD
+http://dbox.livingteam.cc:80/yigittiner/10052019-dro/180079
+#EXTINF:-1 tvg-id="" tvg-name="TRACE URBAN" tvg-logo="http://xatemo.pro/picons/uknew/traceurban.png" group-title="TR| MUZIK",TRACE URBAN
+http://dbox.livingteam.cc:80/yigittiner/10052019-dro/6351
+#EXTINF:-1 tvg-id="" tvg-name="TRACE VANILLA" tvg-logo="http://sltv-icon.cms-s.com/logo/franceT-220x132/TRACETROPICAL.png" group-title="TR| MUZIK",TRACE VANILLA
+http://dbox.livingteam.cc:80/yigittiner/10052019-dro/48372
+#EXTINF:-1 tvg-id="" tvg-name="MCM POP" tvg-logo="http://logo.premium-ott.com:9999/logo/51566.png" group-title="TR| MUZIK",MCM POP
+http://dbox.livingteam.cc:80/yigittiner/10052019-dro/66574
+#EXTINF:-1 tvg-id="" tvg-name="MTV HITS" tvg-logo="http://xatemo.pro/picons/uk/mtvhits.png" group-title="TR| MUZIK",MTV HITS
+http://dbox.livingteam.cc:80/yigittiner/10052019-dro/33068
+#EXTINF:-1 tvg-id="" tvg-name="DIGITAL BLACK MUSIC (DBM)" tvg-logo="" group-title="TR| MUZIK",DIGITAL BLACK MUSIC (DBM)
+http://dbox.livingteam.cc:80/yigittiner/10052019-dro/187755
+#EXTINF:-1 tvg-id="" tvg-name="MOVIE MUSIC" tvg-logo="https://www.canliradyodinle.fm/wp-content/uploads/powerturk-akustik.jpg" group-title="TR| MUZIK",MOVIE MUSIC
+http://dbox.livingteam.cc:80/yigittiner/10052019-dro/2081
+#EXTINF:-1 tvg-id="" tvg-name="NOW 80s HD" tvg-logo="" group-title="TR| MUZIK",NOW 80s HD
+http://dbox.livingteam.cc:80/yigittiner/10052019-dro/187646
+#EXTINF:-1 tvg-id="" tvg-name="NOW 90s00s" tvg-logo="" group-title="TR| MUZIK",NOW 90s00s
+http://dbox.livingteam.cc:80/yigittiner/10052019-dro/187642
+#EXTINF:-1 tvg-id="" tvg-name="Cool Summer Channel HD" tvg-logo="" group-title="TR| MUZIK",Cool Summer Channel HD
+http://dbox.livingteam.cc:80/yigittiner/10052019-dro/187654
+#EXTINF:-1 tvg-id="" tvg-name="Stingray: Remember the 80’s" tvg-logo="" group-title="TR| MUZIK",Stingray: Remember the 80’s
+http://dbox.livingteam.cc:80/yigittiner/10052019-dro/187696
+#EXTINF:-1 tvg-id="" tvg-name="Stingray: Hitlist" tvg-logo="" group-title="TR| MUZIK",Stingray: Hitlist
+http://dbox.livingteam.cc:80/yigittiner/10052019-dro/187700
+#EXTINF:-1 tvg-id="" tvg-name="Stingray Greatest Holiday Hits" tvg-logo="" group-title="TR| MUZIK",Stingray Greatest Holiday Hits
+http://dbox.livingteam.cc:80/yigittiner/10052019-dro/187698
+#EXTINF:-1 tvg-id="" tvg-name="AL QURAN AL KAREEM HD" tvg-logo="https://apkx.xyz/tv-tum-dunya-logolar/logolar/tv-tum-dunya-logolar/TURKIYE/ALQURANTV.png" group-title="TR| DIN",AL QURAN AL KAREEM HD
+http://dbox.livingteam.cc:80/yigittiner/10052019-dro/4356
+#EXTINF:-1 tvg-id="" tvg-name="MEDINE For SUNNAH" tvg-logo="https://apkx.xyz/tv-tum-dunya-logolar/logolar/tv-tum-dunya-logolar/turkey/medine_tv_tr.png" group-title="TR| DIN",MEDINE For SUNNAH
+http://dbox.livingteam.cc:80/yigittiner/10052019-dro/45824
+#EXTINF:-1 tvg-id="TRTDIYANET-0xa" tvg-name="DIYANET TV HD" tvg-logo="https://apkx.xyz/tv-tum-dunya-logolar/logolar/tv-tum-dunya-logolar/turkeyT/trt_diyanet.png" group-title="TR| DIN",DIYANET TV HD
+http://dbox.livingteam.cc:80/yigittiner/10052019-dro/14169
+#EXTINF:-1 tvg-id="VAVTV-0xa" tvg-name="VAV TV HD" tvg-logo="https://itkv.tmgrup.com.tr/site/v3/i/channel/vavtv.png" group-title="TR| DIN",VAV TV HD
+http://dbox.livingteam.cc:80/yigittiner/10052019-dro/45224
+#EXTINF:-1 tvg-id="SEMERKAND-0xa" tvg-name="SEMERKAND TV HD" tvg-logo="https://xatemo.pro/picons/tr/semerkand.png" group-title="TR| DIN",SEMERKAND TV HD
+http://dbox.livingteam.cc:80/yigittiner/10052019-dro/16360
+#EXTINF:-1 tvg-id="" tvg-name="LALEGUL TV" tvg-logo="https://apkx.xyz/tv-tum-dunya-logolar/logolar/tv-tum-dunya-logolar/turkeyT/lalegul_tv.png" group-title="TR| DIN",LALEGUL TV
+http://dbox.livingteam.cc:80/yigittiner/10052019-dro/23017
+#EXTINF:-1 tvg-id="" tvg-name="REHBER TV" tvg-logo="https://apkx.xyz/tv-tum-dunya-logolar/logolar/tv-tum-dunya-logolar/turkeyT/rehber_tv.png" group-title="TR| DIN",REHBER TV
+http://dbox.livingteam.cc:80/yigittiner/10052019-dro/15043
+#EXTINF:-1 tvg-id="" tvg-name="DOST TV" tvg-logo="https://apkx.xyz/tv-tum-dunya-logolar/logolar/tv-tum-dunya-logolar/turkeyT/dost_tv.png" group-title="TR| DIN",DOST TV
+http://dbox.livingteam.cc:80/yigittiner/10052019-dro/11961
+#EXTINF:-1 tvg-id="" tvg-name="iKRA TV ʜᴅ" tvg-logo="https://apkx.xyz/tv-tum-dunya-logolar/logolar/tv-tum-dunya-logolar/turkeyT/kabe_tv.png" group-title="TR| DIN",iKRA TV ʜᴅ
+http://dbox.livingteam.cc:80/yigittiner/10052019-dro/15423
+#EXTINF:-1 tvg-id="" tvg-name="KANAL V" tvg-logo="https://xatemo.pro/picons/tr/kanal_v_antalya.png" group-title="TR| YEREL",KANAL V
+http://dbox.livingteam.cc:80/yigittiner/10052019-dro/10393
+#EXTINF:-1 tvg-id="" tvg-name="KANAL 32" tvg-logo="https://xatemo.pro/picons/tr/kanal32.png" group-title="TR| YEREL",KANAL 32
+http://dbox.livingteam.cc:80/yigittiner/10052019-dro/8319
+#EXTINF:-1 tvg-id="" tvg-name="KANAL 15" tvg-logo="https://www.kanal15.com.tr/wp-content/uploads/2021/04/Kanal-15-Logo-PNG-300x225-2.png" group-title="TR| YEREL",KANAL 15
+http://dbox.livingteam.cc:80/yigittiner/10052019-dro/12061
+#EXTINF:-1 tvg-id="" tvg-name="KANAL 3" tvg-logo="https://apkx.xyz/tv-tum-dunya-logolar/logolar/tv-tum-dunya-logolar/turkeyT/kanal3.png" group-title="TR| YEREL",KANAL 3
+http://dbox.livingteam.cc:80/yigittiner/10052019-dro/8469
+#EXTINF:-1 tvg-id="" tvg-name="EGEMAX TV ʜᴅ" tvg-logo="" group-title="TR| YEREL",EGEMAX TV ʜᴅ
+http://dbox.livingteam.cc:80/yigittiner/10052019-dro/37100
+#EXTINF:-1 tvg-id="" tvg-name="KANAL AVRUPA" tvg-logo="https://apkx.xyz/tv-tum-dunya-logolar/logolar/tv-tum-dunya-logolar/turkey/kanal_avrupa.png" group-title="TR| YEREL",KANAL AVRUPA
+http://dbox.livingteam.cc:80/yigittiner/10052019-dro/8649
+#EXTINF:-1 tvg-id="" tvg-name="BiR TV ʜᴅ" tvg-logo="" group-title="TR| YEREL",BiR TV ʜᴅ
+http://dbox.livingteam.cc:80/yigittiner/10052019-dro/52581
+#EXTINF:-1 tvg-id="" tvg-name="TV DEN" tvg-logo="https://apkx.xyz/tv-tum-dunya-logolar/logolar/tv-tum-dunya-logolar/turkeyT/tv_den.png" group-title="TR| YEREL",TV DEN
+http://dbox.livingteam.cc:80/yigittiner/10052019-dro/80486
+#EXTINF:-1 tvg-id="" tvg-name="ER TV" tvg-logo="https://apkx.xyz/tv-tum-dunya-logolar/logolar/tv-tum-dunya-logolar/turkeyT/er_tv.png" group-title="TR| YEREL",ER TV
+http://dbox.livingteam.cc:80/yigittiner/10052019-dro/14175
+#EXTINF:-1 tvg-id="" tvg-name="MALATYA VUSLAT" tvg-logo="https://apkx.xyz/tv-tum-dunya-logolar/logolar/tv-tum-dunya-logolar/turkey/vuslat_tv.png" group-title="TR| YEREL",MALATYA VUSLAT
+http://dbox.livingteam.cc:80/yigittiner/10052019-dro/26710
+#EXTINF:-1 tvg-id="" tvg-name="VAN GöLü TV" tvg-logo="" group-title="TR| YEREL",VAN GöLü TV
+http://dbox.livingteam.cc:80/yigittiner/10052019-dro/138494
+#EXTINF:-1 tvg-id="" tvg-name="HRT" tvg-logo="https://xatemo.pro/picons/tr/hrt_akdeniz.png" group-title="TR| YEREL",HRT
+http://dbox.livingteam.cc:80/yigittiner/10052019-dro/95012
+#EXTINF:-1 tvg-id="" tvg-name="SUN RTV" tvg-logo="https://xatemo.pro/picons/tr/suntv.png" group-title="TR| YEREL",SUN RTV
+http://dbox.livingteam.cc:80/yigittiner/10052019-dro/36940
+#EXTINF:-1 tvg-id="" tvg-name="ICEL TV" tvg-logo="" group-title="TR| YEREL",ICEL TV
+http://dbox.livingteam.cc:80/yigittiner/10052019-dro/16361
+#EXTINF:-1 tvg-id="" tvg-name="KANAL 33" tvg-logo="https://xatemo.pro/picons/tr/kanal_33_mersin.png" group-title="TR| YEREL",KANAL 33
+http://dbox.livingteam.cc:80/yigittiner/10052019-dro/11946
+#EXTINF:-1 tvg-id="" tvg-name="KANAL 23" tvg-logo="https://xatemo.pro/picons/tr/kanal_23_rtv.png" group-title="TR| YEREL",KANAL 23
+http://dbox.livingteam.cc:80/yigittiner/10052019-dro/12243
+#EXTINF:-1 tvg-id="" tvg-name="TV 41" tvg-logo="https://apkx.xyz/tv-tum-dunya-logolar/logolar/tv-tum-dunya-logolar/turkey/tv_41_tr.png" group-title="TR| YEREL",TV 41
+http://dbox.livingteam.cc:80/yigittiner/10052019-dro/138798
+#EXTINF:-1 tvg-id="" tvg-name="TV 42" tvg-logo="" group-title="TR| YEREL",TV 42
+http://dbox.livingteam.cc:80/yigittiner/10052019-dro/96792
+#EXTINF:-1 tvg-id="" tvg-name="KANAL FIRAT" tvg-logo="https://xatemo.pro/picons/tr/kanal_firat.png" group-title="TR| YEREL",KANAL FIRAT
+http://dbox.livingteam.cc:80/yigittiner/10052019-dro/9482
+#EXTINF:-1 tvg-id="" tvg-name="GOZDE TV HD" tvg-logo="https://www.gozdetv.com.tr/images/site/png-logooopng-202750-20221022.png" group-title="TR| YEREL",GOZDE TV HD
+http://dbox.livingteam.cc:80/yigittiner/10052019-dro/26019
+#EXTINF:-1 tvg-id="" tvg-name="GRT GAZIANTEP TV" tvg-logo="https://static.daktilo.com/sites/1525/uploads/2023/11/28/desktop.png" group-title="TR| YEREL",GRT GAZIANTEP TV
+http://dbox.livingteam.cc:80/yigittiner/10052019-dro/15142
+#EXTINF:-1 tvg-id="" tvg-name="LINE TV" tvg-logo="https://apkx.xyz/tv-tum-dunya-logolar/logolar/tv-tum-dunya-logolar/turkeyT/line_tv.png" group-title="TR| YEREL",LINE TV
+http://dbox.livingteam.cc:80/yigittiner/10052019-dro/69146
+#EXTINF:-1 tvg-id="" tvg-name="ALANYA DIM TV" tvg-logo="https://xatemo.pro/picons/tr/pamukkale_tv.png" group-title="TR| YEREL",ALANYA DIM TV
+http://dbox.livingteam.cc:80/yigittiner/10052019-dro/11979
+#EXTINF:-1 tvg-id="" tvg-name="TON TV" tvg-logo="https://apkx.xyz/tv-tum-dunya-logolar/logolar/tv-tum-dunya-logolar/turkeyT/ton_tv_canakkkale.png" group-title="TR| YEREL",TON TV
+http://dbox.livingteam.cc:80/yigittiner/10052019-dro/138797
+#EXTINF:-1 tvg-id="" tvg-name="OLAY TURK TV" tvg-logo="" group-title="TR| YEREL",OLAY TURK TV
+http://dbox.livingteam.cc:80/yigittiner/10052019-dro/138796
+#EXTINF:-1 tvg-id="" tvg-name="MERCAN TV" tvg-logo="https://apkx.xyz/tv-tum-dunya-logolar/logolar/tv-tum-dunya-logolar/turkeyT/mercan_tv.png" group-title="TR| YEREL",MERCAN TV
+http://dbox.livingteam.cc:80/yigittiner/10052019-dro/17948
+#EXTINF:-1 tvg-id="" tvg-name="ETV MANISA" tvg-logo="https://apkx.xyz/tv-tum-dunya-logolar/logolar/tv-tum-dunya-logolar/turkeyT/manisat_tv.png" group-title="TR| YEREL",ETV MANISA
+http://dbox.livingteam.cc:80/yigittiner/10052019-dro/84763
+#EXTINF:-1 tvg-id="" tvg-name="BODRUM KENT TV" tvg-logo="https://apkx.xyz/tv-tum-dunya-logolar/logolar/tv-tum-dunya-logolar/turkey/kent_tv_bodrum_tr.png" group-title="TR| YEREL",BODRUM KENT TV
+http://dbox.livingteam.cc:80/yigittiner/10052019-dro/23642
+#EXTINF:-1 tvg-id="" tvg-name="TEK RUMELI TV" tvg-logo="https://xatemo.pro/picons/tr/rumeli_tv.png" group-title="TR| YEREL",TEK RUMELI TV
+http://dbox.livingteam.cc:80/yigittiner/10052019-dro/31093
+#EXTINF:-1 tvg-id="" tvg-name="ES TV" tvg-logo="https://xatemo.pro/picons/tr/es_tv.png" group-title="TR| YEREL",ES TV
+http://dbox.livingteam.cc:80/yigittiner/10052019-dro/47966
+#EXTINF:-1 tvg-id="" tvg-name="BRTV KARABUK" tvg-logo="https://apkx.xyz/tv-tum-dunya-logolar/logolar/tv-tum-dunya-logolar/turkey/karabuk-brt-tv.png" group-title="TR| YEREL",BRTV KARABUK
+http://dbox.livingteam.cc:80/yigittiner/10052019-dro/44692
+#EXTINF:-1 tvg-id="" tvg-name="KON TV HD" tvg-logo="https://apkx.xyz/tv-tum-dunya-logolar/logolar/tv-tum-dunya-logolar/turkey/kon_tv.png" group-title="TR| YEREL",KON TV HD
+http://dbox.livingteam.cc:80/yigittiner/10052019-dro/32528
+#EXTINF:-1 tvg-id="" tvg-name="AS TV" tvg-logo="https://apkx.xyz/tv-tum-dunya-logolar/logolar/tv-tum-dunya-logolar/turkey/as_tv_tr.png" group-title="TR| YEREL",AS TV
+http://dbox.livingteam.cc:80/yigittiner/10052019-dro/10030
+#EXTINF:-1 tvg-id="" tvg-name="RUMELI TV" tvg-logo="https://xatemo.pro/picons/tr/rumeli_tv.png" group-title="TR| YEREL",RUMELI TV
+http://dbox.livingteam.cc:80/yigittiner/10052019-dro/2239
+#EXTINF:-1 tvg-id="" tvg-name="KADIRGA TV" tvg-logo="https://xatemo.pro/picons/tr/kadirga_tv.png" group-title="TR| YEREL",KADIRGA TV
+http://dbox.livingteam.cc:80/yigittiner/10052019-dro/66581
+#EXTINF:-1 tvg-id="" tvg-name="KOZA TV" tvg-logo="https://xatemo.pro/picons/tr/koza_tv.png" group-title="TR| YEREL",KOZA TV
+http://dbox.livingteam.cc:80/yigittiner/10052019-dro/26075
+#EXTINF:-1 tvg-id="" tvg-name="AKSU TV" tvg-logo="https://xatemo.pro/picons/tr/aksu_tv.png" group-title="TR| YEREL",AKSU TV
+http://dbox.livingteam.cc:80/yigittiner/10052019-dro/11957
+#EXTINF:-1 tvg-id="" tvg-name="MUGLA TURK" tvg-logo="" group-title="TR| YEREL",MUGLA TURK
+http://dbox.livingteam.cc:80/yigittiner/10052019-dro/11921
+#EXTINF:-1 tvg-id="" tvg-name="KANAL 58" tvg-logo="https://www.lyngsat.com/logo/tv/kk/kanal-58-tr.png" group-title="TR| YEREL",KANAL 58
+http://dbox.livingteam.cc:80/yigittiner/10052019-dro/11929
+#EXTINF:-1 tvg-id="" tvg-name="ERCIS TV" tvg-logo="" group-title="TR| YEREL",ERCIS TV
+http://dbox.livingteam.cc:80/yigittiner/10052019-dro/11955
+#EXTINF:-1 tvg-id="" tvg-name="ALANYA POSTA" tvg-logo="https://xatemo.pro/picons/tr/alanya_posta_tv.png" group-title="TR| YEREL",ALANYA POSTA
+http://dbox.livingteam.cc:80/yigittiner/10052019-dro/11960
+#EXTINF:-1 tvg-id="" tvg-name="CAY TV" tvg-logo="https://xatemo.pro/picons/tr/cay_tv.png" group-title="TR| YEREL",CAY TV
+http://dbox.livingteam.cc:80/yigittiner/10052019-dro/6952
+#EXTINF:-1 tvg-id="" tvg-name="MAVI KARADENIZ" tvg-logo="https://xatemo.pro/picons/tr/mavi_krdnz.png" group-title="TR| YEREL",MAVI KARADENIZ
+http://dbox.livingteam.cc:80/yigittiner/10052019-dro/14302
+#EXTINF:-1 tvg-id="" tvg-name="ALTAS TV" tvg-logo="https://xatemo.pro/picons/tr/altas_tv.png" group-title="TR| YEREL",ALTAS TV
+http://dbox.livingteam.cc:80/yigittiner/10052019-dro/26465
+#EXTINF:-1 tvg-id="" tvg-name="TV 52" tvg-logo="https://xatemo.pro/picons/tr/tv52_ordu.png" group-title="TR| YEREL",TV 52
+http://dbox.livingteam.cc:80/yigittiner/10052019-dro/26466
+#EXTINF:-1 tvg-id="" tvg-name="HUNAT TV" tvg-logo="https://seeklogo.com/images/H/hunat-tv-logo-D4876DFAD0-seeklogo.com.png" group-title="TR| YEREL",HUNAT TV
+http://dbox.livingteam.cc:80/yigittiner/10052019-dro/84764
+#EXTINF:-1 tvg-id="" tvg-name="ANADOLU NET TV" tvg-logo="https://apkx.xyz/tv-tum-dunya-logolar/logolar/tv-tum-dunya-logolar/turkey/anadolu_tv_tr.png" group-title="TR| YEREL",ANADOLU NET TV
+http://dbox.livingteam.cc:80/yigittiner/10052019-dro/2219
+#EXTINF:-1 tvg-id="" tvg-name="Ciftçi TV" tvg-logo="https://apkx.xyz/tv-tum-dunya-logolar/logolar/tv-tum-dunya-logolar/turkeyT/ciftci_tv.png" group-title="TR| YEREL",Ciftçi TV
+http://dbox.livingteam.cc:80/yigittiner/10052019-dro/26087
+#EXTINF:-1 tvg-id="" tvg-name="URFANATIK TV" tvg-logo="https://apkx.xyz/tv-tum-dunya-logolar/logolar/tv-tum-dunya-logolar/turkeyT/kanal_urfa.png" group-title="TR| YEREL",URFANATIK TV
+http://dbox.livingteam.cc:80/yigittiner/10052019-dro/48375
+#EXTINF:-1 tvg-id="" tvg-name="TURKMENELI HD" tvg-logo="" group-title="TR| YEREL",TURKMENELI HD
+http://dbox.livingteam.cc:80/yigittiner/10052019-dro/14684
+#EXTINF:-1 tvg-id="" tvg-name="AL TURKMENIA TV" tvg-logo="" group-title="TR| YEREL",AL TURKMENIA TV
+http://dbox.livingteam.cc:80/yigittiner/10052019-dro/140041
+#EXTINF:-1 tvg-id="" tvg-name="♫: RADIO VOYAGE" tvg-logo="https://sltv-icon.cms-s.com/logo/a-z/--V--/voyage.png" group-title="TR| RADIO",♫: RADIO VOYAGE
+http://dbox.livingteam.cc:80/yigittiner/10052019-dro/169451
+#EXTINF:-1 tvg-id="" tvg-name="♫: RADYO FENOMEN" tvg-logo="https://sltv-icon.cms-s.com/logo/a-z/--R--/radyofenomen.png" group-title="TR| RADIO",♫: RADYO FENOMEN
+http://dbox.livingteam.cc:80/yigittiner/10052019-dro/9699
+#EXTINF:-1 tvg-id="" tvg-name="♫: RADYO BANKO" tvg-logo="https://www.canliradyodinle.fm/wp-content/uploads/radyo-banko.jpg" group-title="TR| RADIO",♫: RADYO BANKO
+http://dbox.livingteam.cc:80/yigittiner/10052019-dro/64771
+#EXTINF:-1 tvg-id="" tvg-name="♫: ALEM FM" tvg-logo="https://sltv-icon.cms-s.com/logo/a-z/--A--/alemfm.png" group-title="TR| RADIO",♫: ALEM FM
+http://dbox.livingteam.cc:80/yigittiner/10052019-dro/4211
+#EXTINF:-1 tvg-id="" tvg-name="♫: BEST FM" tvg-logo="https://sltv-icon.cms-s.com/logo/a-z/--B--/bestfm.png" group-title="TR| RADIO",♫: BEST FM
+http://dbox.livingteam.cc:80/yigittiner/10052019-dro/4208
+#EXTINF:-1 tvg-id="" tvg-name="♫: OSTIM RADYO" tvg-logo="https://sltv-icon.cms-s.com/logo/a-z/--O--/ostimradyo.png" group-title="TR| RADIO",♫: OSTIM RADYO
+http://dbox.livingteam.cc:80/yigittiner/10052019-dro/66937
+#EXTINF:-1 tvg-id="" tvg-name="♫: DAMAR FM" tvg-logo="https://www.canliradyodinle.fm/wp-content/uploads/damar-fm.jpg" group-title="TR| RADIO",♫: DAMAR FM
+http://dbox.livingteam.cc:80/yigittiner/10052019-dro/4215
+#EXTINF:-1 tvg-id="" tvg-name="♫: RADYO MODOKO" tvg-logo="https://www.radyomodoko.com/temp/images/logo.png" group-title="TR| RADIO",♫: RADYO MODOKO
+http://dbox.livingteam.cc:80/yigittiner/10052019-dro/64774
+#EXTINF:-1 tvg-id="" tvg-name="♫: HEY RADYO" tvg-logo="https://radyoizmirfm.com/assets/jailson_logo.png" group-title="TR| RADIO",♫: HEY RADYO
+http://dbox.livingteam.cc:80/yigittiner/10052019-dro/31741
+#EXTINF:-1 tvg-id="" tvg-name="♫: JOY FM" tvg-logo="https://sltv-icon.cms-s.com/logo/a-z/--J--/joyfm.png" group-title="TR| RADIO",♫: JOY FM
+http://dbox.livingteam.cc:80/yigittiner/10052019-dro/9706
+#EXTINF:-1 tvg-id="" tvg-name="♫: JOY TURK" tvg-logo="https://sltv-icon.cms-s.com/logo/a-z/--J--/joyturk.png" group-title="TR| RADIO",♫: JOY TURK
+http://dbox.livingteam.cc:80/yigittiner/10052019-dro/9705
+#EXTINF:-1 tvg-id="" tvg-name="♫: KRAL FM" tvg-logo="https://sltv-icon.cms-s.com/logo/a-z/--K--/kralfm.png" group-title="TR| RADIO",♫: KRAL FM
+http://dbox.livingteam.cc:80/yigittiner/10052019-dro/4210
+#EXTINF:-1 tvg-id="" tvg-name="♫: KRAL POP" tvg-logo="https://sltv-icon.cms-s.com/logo/a-z/--K--/kralpop.png" group-title="TR| RADIO",♫: KRAL POP
+http://dbox.livingteam.cc:80/yigittiner/10052019-dro/64783
+#EXTINF:-1 tvg-id="" tvg-name="♫: METRO FM" tvg-logo="https://www.canliradyodinle.fm/wp-content/uploads/metro-fm.jpg" group-title="TR| RADIO",♫: METRO FM
+http://dbox.livingteam.cc:80/yigittiner/10052019-dro/64785
+#EXTINF:-1 tvg-id="" tvg-name="♫: KAFA RADYO" tvg-logo="https://sltv-icon.cms-s.com/logo/a-z/--K--/kafaradyo.png" group-title="TR| RADIO",♫: KAFA RADYO
+http://dbox.livingteam.cc:80/yigittiner/10052019-dro/64769
+#EXTINF:-1 tvg-id="" tvg-name="♫: RADIO MYDONOSE" tvg-logo="https://sltv-icon.cms-s.com/logo/a-z/--M--/mydonoseturk.png" group-title="TR| RADIO",♫: RADIO MYDONOSE
+http://dbox.livingteam.cc:80/yigittiner/10052019-dro/9704
+#EXTINF:-1 tvg-id="" tvg-name="♫: PAL FM" tvg-logo="https://www.canliradyodinle.fm/wp-content/uploads/radyo-pal-fm.jpg" group-title="TR| RADIO",♫: PAL FM
+http://dbox.livingteam.cc:80/yigittiner/10052019-dro/4209
+#EXTINF:-1 tvg-id="" tvg-name="♫: PAL STATION" tvg-logo="https://www.canliradyodinle.fm/wp-content/uploads/radyo-pal-station.jpg" group-title="TR| RADIO",♫: PAL STATION
+http://dbox.livingteam.cc:80/yigittiner/10052019-dro/67153
+#EXTINF:-1 tvg-id="" tvg-name="♫: PARK FM" tvg-logo="https://www.canliradyodinle.fm/wp-content/uploads/park-fm.jpg" group-title="TR| RADIO",♫: PARK FM
+http://dbox.livingteam.cc:80/yigittiner/10052019-dro/10164
+#EXTINF:-1 tvg-id="" tvg-name="♫: POWER FM" tvg-logo="https://sltv-icon.cms-s.com/logo/a-z/--P--/powerfm.png" group-title="TR| RADIO",♫: POWER FM
+http://dbox.livingteam.cc:80/yigittiner/10052019-dro/9701
+#EXTINF:-1 tvg-id="" tvg-name="♫: POWER POP" tvg-logo="https://sltv-icon.cms-s.com/logo/a-z/--P--/powerpop.png" group-title="TR| RADIO",♫: POWER POP
+http://dbox.livingteam.cc:80/yigittiner/10052019-dro/64786
+#EXTINF:-1 tvg-id="" tvg-name="♫: POWER TURK" tvg-logo="https://sltv-icon.cms-s.com/logo/a-z/--P--/powerturk.png" group-title="TR| RADIO",♫: POWER TURK
+http://dbox.livingteam.cc:80/yigittiner/10052019-dro/64784
+#EXTINF:-1 tvg-id="" tvg-name="♫: RADYO 1" tvg-logo="https://sltv-icon.cms-s.com/logo/a-z/--T--/trtradyo1.png" group-title="TR| RADIO",♫: RADYO 1
+http://dbox.livingteam.cc:80/yigittiner/10052019-dro/10271
+#EXTINF:-1 tvg-id="" tvg-name="♫: RADYO 7" tvg-logo="https://sltv-icon.cms-s.com/logo/a-z/--R--/radyo7.png" group-title="TR| RADIO",♫: RADYO 7
+http://dbox.livingteam.cc:80/yigittiner/10052019-dro/67152
+#EXTINF:-1 tvg-id="" tvg-name="♫: RADYO 7 NOSTALJI" tvg-logo="https://www.canliradyodinle.fm/wp-content/uploads/radyo-7-nostalji.jpg" group-title="TR| RADIO",♫: RADYO 7 NOSTALJI
+http://dbox.livingteam.cc:80/yigittiner/10052019-dro/165505
+#EXTINF:-1 tvg-id="" tvg-name="♫: RADYO 34" tvg-logo="https://sltv-icon.cms-s.com/logo/a-z/0-9/34.png" group-title="TR| RADIO",♫: RADYO 34
+http://dbox.livingteam.cc:80/yigittiner/10052019-dro/64768
+#EXTINF:-1 tvg-id="" tvg-name="♫: RADYO 35" tvg-logo="https://www.canliradyodinle.fm/wp-content/uploads/radyo-35-100x100.png" group-title="TR| RADIO",♫: RADYO 35
+http://dbox.livingteam.cc:80/yigittiner/10052019-dro/64770
+#EXTINF:-1 tvg-id="" tvg-name="♫: RADYO D" tvg-logo="https://sltv-icon.cms-s.com/logo/a-z/--R--/radyod.png" group-title="TR| RADIO",♫: RADYO D
+http://dbox.livingteam.cc:80/yigittiner/10052019-dro/9702
+#EXTINF:-1 tvg-id="" tvg-name="♫: RADYO EGE" tvg-logo="https://www.canliradyodinle.fm/wp-content/uploads/radyo-ege.jpg" group-title="TR| RADIO",♫: RADYO EGE
+http://dbox.livingteam.cc:80/yigittiner/10052019-dro/64773
+#EXTINF:-1 tvg-id="" tvg-name="♫: RADYO ENERGY" tvg-logo="https://sltv-icon.cms-s.com/logo/a-z/--E--/energyfm.png" group-title="TR| RADIO",♫: RADYO ENERGY
+http://dbox.livingteam.cc:80/yigittiner/10052019-dro/4205
+#EXTINF:-1 tvg-id="" tvg-name="♫: RADYO ILAC" tvg-logo="https://www.canliradyodinle.fm/wp-content/uploads/ilac-radyo.jpg" group-title="TR| RADIO",♫: RADYO ILAC
+http://dbox.livingteam.cc:80/yigittiner/10052019-dro/64775
+#EXTINF:-1 tvg-id="" tvg-name="♫: RADYO MEGA" tvg-logo="https://www.canliradyodinle.fm/wp-content/uploads/radyo-mega-aydin.jpg" group-title="TR| RADIO",♫: RADYO MEGA
+http://dbox.livingteam.cc:80/yigittiner/10052019-dro/64776
+#EXTINF:-1 tvg-id="" tvg-name="♫: RADYO SEYMEN" tvg-logo="https://sltv-icon.cms-s.com/logo/a-z/--R--/radyoseymen.png" group-title="TR| RADIO",♫: RADYO SEYMEN
+http://dbox.livingteam.cc:80/yigittiner/10052019-dro/64787
+#EXTINF:-1 tvg-id="" tvg-name="♫: PAL NOSTAJI" tvg-logo="https://www.canliradyodinle.fm/wp-content/uploads/pal-nostalji-radyo.jpg" group-title="TR| RADIO",♫: PAL NOSTAJI
+http://dbox.livingteam.cc:80/yigittiner/10052019-dro/64777
+#EXTINF:-1 tvg-id="" tvg-name="♫: RADYO TRAFIK IZMIR" tvg-logo="https://www.canliradyodinle.fm/wp-content/uploads/radyo-trafik-izmir.jpg" group-title="TR| RADIO",♫: RADYO TRAFIK IZMIR
+http://dbox.livingteam.cc:80/yigittiner/10052019-dro/64779
+#EXTINF:-1 tvg-id="" tvg-name="♫: RADYO VIVA" tvg-logo="https://sltv-icon.cms-s.com/logo/a-z/--R--/radyoviva.png" group-title="TR| RADIO",♫: RADYO VIVA
+http://dbox.livingteam.cc:80/yigittiner/10052019-dro/4212
+#EXTINF:-1 tvg-id="" tvg-name="♫: RADYO VIRGIN" tvg-logo="https://sltv-icon.cms-s.com/logo/a-z/--V--/virginrado.png" group-title="TR| RADIO",♫: RADYO VIRGIN
+http://dbox.livingteam.cc:80/yigittiner/10052019-dro/64780
+#EXTINF:-1 tvg-id="" tvg-name="♫: SEMERKAND" tvg-logo="https://www.canliradyodinle.fm/wp-content/uploads/semerkand-radyo.jpg" group-title="TR| RADIO",♫: SEMERKAND
+http://dbox.livingteam.cc:80/yigittiner/10052019-dro/4206
+#EXTINF:-1 tvg-id="" tvg-name="♫: SHOW RADYO" tvg-logo="https://www.canliradyodinle.fm/wp-content/uploads/show-radyo.jpg" group-title="TR| RADIO",♫: SHOW RADYO
+http://dbox.livingteam.cc:80/yigittiner/10052019-dro/31737
+#EXTINF:-1 tvg-id="" tvg-name="♫: SLOWTURK" tvg-logo="https://www.canliradyodinle.fm/wp-content/uploads/slow-turk-dinle.jpg" group-title="TR| RADIO",♫: SLOWTURK
+http://dbox.livingteam.cc:80/yigittiner/10052019-dro/64600
+#EXTINF:-1 tvg-id="" tvg-name="♫: SUPER FM" tvg-logo="https://www.canliradyodinle.fm/wp-content/uploads/super-fm-dinle.jpg" group-title="TR| RADIO",♫: SUPER FM
+http://dbox.livingteam.cc:80/yigittiner/10052019-dro/4213
+#EXTINF:-1 tvg-id="" tvg-name="♫: TURKUVAZ ANADOLU" tvg-logo="https://i.tmgrup.com.tr/rt/site/v2/c/i/radio/turkuvaz-anadolu.png" group-title="TR| RADIO",♫: TURKUVAZ ANADOLU
+http://dbox.livingteam.cc:80/yigittiner/10052019-dro/31736
+#EXTINF:-1 tvg-id="" tvg-name="♫: TURKUVAZ EFSANE" tvg-logo="https://i.tmgrup.com.tr/rt/site/v2/c/i/radio/turkuvaz-efsane.png" group-title="TR| RADIO",♫: TURKUVAZ EFSANE
+http://dbox.livingteam.cc:80/yigittiner/10052019-dro/31734
+#EXTINF:-1 tvg-id="" tvg-name="♫: TURKUVAZ ROMANTİK" tvg-logo="https://i.tmgrup.com.tr/rt/site/v2/c/i/radio/turkuvaz-romantik.png" group-title="TR| RADIO",♫: TURKUVAZ ROMANTİK
+http://dbox.livingteam.cc:80/yigittiner/10052019-dro/9700
+#EXTINF:-1 tvg-id="" tvg-name="♫: TRT FM" tvg-logo="https://sltv-icon.cms-s.com/logo/a-z/--T--/trtfm.png" group-title="TR| RADIO",♫: TRT FM
+http://dbox.livingteam.cc:80/yigittiner/10052019-dro/10270
+#EXTINF:-1 tvg-id="" tvg-name="♫: TRT NAGME" tvg-logo="https://sltv-icon.cms-s.com/logo/a-z/--T--/trtnagme.png" group-title="TR| RADIO",♫: TRT NAGME
+http://dbox.livingteam.cc:80/yigittiner/10052019-dro/9703
+#EXTINF:-1 tvg-id="" tvg-name="♫: TRT TURKU" tvg-logo="https://sltv-icon.cms-s.com/logo/a-z/--T--/trtturku.png" group-title="TR| RADIO",♫: TRT TURKU
+http://dbox.livingteam.cc:80/yigittiner/10052019-dro/70403
+#EXTINF:-1 tvg-id="" tvg-name="♫: VAN FM" tvg-logo="https://www.canliradyodinle.fm/wp-content/uploads/radyo-van.jpg" group-title="TR| RADIO",♫: VAN FM
+http://dbox.livingteam.cc:80/yigittiner/10052019-dro/64599
+#EXTINF:-1 tvg-id="" tvg-name="♫: VAV RADYO" tvg-logo="https://sltv-icon.cms-s.com/logo/a-z/--V--/vavtv.png" group-title="TR| RADIO",♫: VAV RADYO
+http://dbox.livingteam.cc:80/yigittiner/10052019-dro/13638
+#EXTINF:-1 tvg-id="" tvg-name="♫: RADYO TRIO" tvg-logo="https://www.canliradyodinle.fm/wp-content/uploads/radyo-trio.jpg" group-title="TR| RADIO",♫: RADYO TRIO
+http://dbox.livingteam.cc:80/yigittiner/10052019-dro/90226
+#EXTINF:-1 tvg-id="" tvg-name="♫: YOL RADYO" tvg-logo="https://sltv-icon.cms-s.com/logo/a-z/--Y--/yol.png" group-title="TR| RADIO",♫: YOL RADYO
+http://dbox.livingteam.cc:80/yigittiner/10052019-dro/66936
+#EXTINF:-1 tvg-id="" tvg-name="♫: AWESOME 80's" tvg-logo="https://www.radio.net/175/181fmawesome80s.jpeg?version=1643b8967b733f263c3b9e9245bf8caae8ac6c3c" group-title="TR| RADIO",♫: AWESOME 80's
+http://dbox.livingteam.cc:80/yigittiner/10052019-dro/143126
+#EXTINF:-1 tvg-id="" tvg-name="♫: MAX FM" tvg-logo="https://www.canliradyodinle.fm/wp-content/uploads/max-fm.jpg" group-title="TR| RADIO",♫: MAX FM
+http://dbox.livingteam.cc:80/yigittiner/10052019-dro/143128
+#EXTINF:-1 tvg-id="" tvg-name="♫: RADYO SOFT" tvg-logo="https://i.tmgrup.com.tr/rt/site/v2/c/i/radio/radyo-soft.png" group-title="TR| RADIO",♫: RADYO SOFT
+http://dbox.livingteam.cc:80/yigittiner/10052019-dro/143125
+#EXTINF:-1 tvg-id="" tvg-name="♫: RADYO EFKAR" tvg-logo="https://www.canliradyodinle.fm/wp-content/uploads/efkar-fm.jpg" group-title="TR| RADIO",♫: RADYO EFKAR
+http://dbox.livingteam.cc:80/yigittiner/10052019-dro/143127
+#EXTINF:-1 tvg-id="" tvg-name="♫: AMASYA FM" tvg-logo="https://www.amasyafm.com/upload/genel/logo_1.jpg" group-title="TR| RADIO",♫: AMASYA FM
+http://dbox.livingteam.cc:80/yigittiner/10052019-dro/189454
+#EXTINF:-1 tvg-id="" tvg-name="♫: GOZDE FM" tvg-logo="https://www.canliradyodinle.fm/wp-content/uploads/gozde-fm-yalova.jpg" group-title="TR| RADIO",♫: GOZDE FM
+http://dbox.livingteam.cc:80/yigittiner/10052019-dro/143130
+#EXTINF:-1 tvg-id="" tvg-name="♫: STAR ARTI FM" tvg-logo="https://www.canliradyodinle.fm/wp-content/uploads/star-arti-fm.jpg" group-title="TR| RADIO",♫: STAR ARTI FM
+http://dbox.livingteam.cc:80/yigittiner/10052019-dro/143129
+#EXTINF:-1 tvg-id="" tvg-name="( AZ ) AZ TV" tvg-logo="http://logo.kll1ll120qazwed.site/logo/AZERBAYCAN/azTV.png" group-title="AZ| AZERBAYCAN",( AZ ) AZ TV
+http://dbox.livingteam.cc:80/yigittiner/10052019-dro/37352
+#EXTINF:-1 tvg-id="" tvg-name="( AZ ) ICTIMAI TV" tvg-logo="https://lo1.in/azer/ictm.png" group-title="AZ| AZERBAYCAN",( AZ ) ICTIMAI TV
+http://dbox.livingteam.cc:80/yigittiner/10052019-dro/37350
+#EXTINF:-1 tvg-id="" tvg-name="( AZ ) XEZER TV" tvg-logo="https://lo1.in/azer/xezertv.png" group-title="AZ| AZERBAYCAN",( AZ ) XEZER TV
+http://dbox.livingteam.cc:80/yigittiner/10052019-dro/37349
+#EXTINF:-1 tvg-id="" tvg-name="( AZ ) kanal S" tvg-logo="https://lo1.in/azer/azadtv.png" group-title="AZ| AZERBAYCAN",( AZ ) kanal S
+http://dbox.livingteam.cc:80/yigittiner/10052019-dro/37356
+#EXTINF:-1 tvg-id="" tvg-name="( AZ ) SPACE" tvg-logo="https://lo1.in/azer/space.png" group-title="AZ| AZERBAYCAN",( AZ ) SPACE
+http://dbox.livingteam.cc:80/yigittiner/10052019-dro/67947
+#EXTINF:-1 tvg-id="" tvg-name="( AZ ) MEDENIYET TV" tvg-logo="https://lo1.in/azer/medeny.png" group-title="AZ| AZERBAYCAN",( AZ ) MEDENIYET TV
+http://dbox.livingteam.cc:80/yigittiner/10052019-dro/67481
+#EXTINF:-1 tvg-id="" tvg-name="( AZ ) ARB TV HD" tvg-logo="http://logo.kll1ll120qazwed.site/logo/AZERBAYCAN/arb.png" group-title="AZ| AZERBAYCAN",( AZ ) ARB TV HD
+http://dbox.livingteam.cc:80/yigittiner/10052019-dro/67948
+#EXTINF:-1 tvg-id="" tvg-name="( AZ ) ARB GUNES" tvg-logo="http://picon.worldip.nl/lyngsat/tv/ll/lider_tv.png" group-title="AZ| AZERBAYCAN",( AZ ) ARB GUNES
+http://dbox.livingteam.cc:80/yigittiner/10052019-dro/37358
+#EXTINF:-1 tvg-id="" tvg-name="( AZ ) AZ STAR HD" tvg-logo="" group-title="AZ| AZERBAYCAN",( AZ ) AZ STAR HD
+http://dbox.livingteam.cc:80/yigittiner/10052019-dro/67946
+#EXTINF:-1 tvg-id="" tvg-name="( AZ ) BAKU" tvg-logo="https://lo1.in/azer/cbc.png" group-title="AZ| AZERBAYCAN",( AZ ) BAKU
+http://dbox.livingteam.cc:80/yigittiner/10052019-dro/37361
+#EXTINF:-1 tvg-id="" tvg-name="( AZ ) DUNYA" tvg-logo="https://lo1.in/azer/dunia.png" group-title="AZ| AZERBAYCAN",( AZ ) DUNYA
+http://dbox.livingteam.cc:80/yigittiner/10052019-dro/37353
+#EXTINF:-1 tvg-id="" tvg-name="( AZ ) ARB 24" tvg-logo="https://lo1.in/azer/arb224.png" group-title="AZ| AZERBAYCAN",( AZ ) ARB 24
+http://dbox.livingteam.cc:80/yigittiner/10052019-dro/37359
+#EXTINF:-1 tvg-id="" tvg-name="( AZ ) IDMAN TV" tvg-logo="https://lo1.in/azer/idman.png" group-title="AZ| AZERBAYCAN",( AZ ) IDMAN TV
+http://dbox.livingteam.cc:80/yigittiner/10052019-dro/37363
+#EXTINF:-1 tvg-id="" tvg-name="( AZ ) CBC SPORT HD" tvg-logo="https://lo1.in/azer/cbcsp.png" group-title="AZ| AZERBAYCAN",( AZ ) CBC SPORT HD
+http://dbox.livingteam.cc:80/yigittiner/10052019-dro/37362
